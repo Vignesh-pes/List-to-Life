@@ -1,0 +1,1402 @@
+[
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P001",
+    "current_stock": 46,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 6
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P002",
+    "current_stock": 2,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 15
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P003",
+    "current_stock": 19,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 8
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P004",
+    "current_stock": 1,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 15
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P005",
+    "current_stock": 37,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 6
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P006",
+    "current_stock": 32,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 11
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P007",
+    "current_stock": 5,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 15
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P008",
+    "current_stock": 31,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 7
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P009",
+    "current_stock": 5,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 4
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P010",
+    "current_stock": 48,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 15
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P011",
+    "current_stock": 6,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 14
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P012",
+    "current_stock": 45,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 2
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P013",
+    "current_stock": 29,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 1
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P014",
+    "current_stock": 3,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 7
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P015",
+    "current_stock": 2,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 3
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P016",
+    "current_stock": 20,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 2
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P017",
+    "current_stock": 39,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 15
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P018",
+    "current_stock": 0,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 11
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P019",
+    "current_stock": 0,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 10
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P020",
+    "current_stock": 17,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 7
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P021",
+    "current_stock": 7,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 15
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P022",
+    "current_stock": 11,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 12
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P023",
+    "current_stock": 50,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 3
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P024",
+    "current_stock": 20,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 10
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P025",
+    "current_stock": 50,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 9
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P026",
+    "current_stock": 0,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 8
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P027",
+    "current_stock": 36,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 4
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P028",
+    "current_stock": 20,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 5
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P029",
+    "current_stock": 2,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 13
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P030",
+    "current_stock": 15,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 3
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P031",
+    "current_stock": 39,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 10
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P032",
+    "current_stock": 39,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 3
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P033",
+    "current_stock": 19,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 12
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P034",
+    "current_stock": 15,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 2
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P035",
+    "current_stock": 24,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 6
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P036",
+    "current_stock": 10,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 2
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P037",
+    "current_stock": 0,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 9
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P038",
+    "current_stock": 1,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 4
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P039",
+    "current_stock": 27,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 10
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P040",
+    "current_stock": 22,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 10
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P041",
+    "current_stock": 48,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 4
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P042",
+    "current_stock": 27,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 4
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P043",
+    "current_stock": 28,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 8
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P044",
+    "current_stock": 17,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 14
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P045",
+    "current_stock": 38,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 12
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P046",
+    "current_stock": 33,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 4
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P047",
+    "current_stock": 0,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 10
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P048",
+    "current_stock": 4,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 4
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P049",
+    "current_stock": 13,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 11
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P050",
+    "current_stock": 2,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 11
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P051",
+    "current_stock": 2,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 11
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P052",
+    "current_stock": 12,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 1
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P053",
+    "current_stock": 24,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 15
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P054",
+    "current_stock": 29,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 7
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P055",
+    "current_stock": 14,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 5
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P056",
+    "current_stock": 29,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 7
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P057",
+    "current_stock": 24,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 4
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P058",
+    "current_stock": 26,
+    "last_updated": "2025-07-13T19:53:51.038083Z",
+    "daily_sales_rate": 7
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P059",
+    "current_stock": 48,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 9
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P060",
+    "current_stock": 1,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 2
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P061",
+    "current_stock": 35,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 15
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P062",
+    "current_stock": 0,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 13
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P063",
+    "current_stock": 3,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 13
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P064",
+    "current_stock": 11,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 4
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P065",
+    "current_stock": 44,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 14
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P066",
+    "current_stock": 15,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 15
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P067",
+    "current_stock": 7,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 12
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P068",
+    "current_stock": 31,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 14
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P069",
+    "current_stock": 4,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 4
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P070",
+    "current_stock": 50,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 7
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P071",
+    "current_stock": 13,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 11
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P072",
+    "current_stock": 49,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 9
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P073",
+    "current_stock": 39,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 6
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P074",
+    "current_stock": 1,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 13
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P075",
+    "current_stock": 21,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 8
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P076",
+    "current_stock": 23,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 9
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P077",
+    "current_stock": 45,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 15
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P078",
+    "current_stock": 1,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 7
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P079",
+    "current_stock": 18,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 10
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P080",
+    "current_stock": 24,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 2
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P081",
+    "current_stock": 5,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 14
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P082",
+    "current_stock": 0,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 8
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P083",
+    "current_stock": 43,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 5
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P084",
+    "current_stock": 2,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 4
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P085",
+    "current_stock": 18,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 5
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P086",
+    "current_stock": 42,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 1
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P087",
+    "current_stock": 6,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 6
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P088",
+    "current_stock": 15,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 4
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P089",
+    "current_stock": 0,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 11
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P090",
+    "current_stock": 2,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 1
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P091",
+    "current_stock": 44,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 7
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P092",
+    "current_stock": 14,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 7
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P093",
+    "current_stock": 34,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 14
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P094",
+    "current_stock": 36,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 12
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P095",
+    "current_stock": 4,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 1
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P096",
+    "current_stock": 2,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 5
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P097",
+    "current_stock": 33,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 12
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P098",
+    "current_stock": 26,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 1
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P099",
+    "current_stock": 1,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 6
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P100",
+    "current_stock": 0,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 4
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P101",
+    "current_stock": 43,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 2
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P102",
+    "current_stock": 21,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 2
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P103",
+    "current_stock": 1,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 3
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P104",
+    "current_stock": 5,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 8
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P105",
+    "current_stock": 20,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 1
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P106",
+    "current_stock": 34,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 6
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P107",
+    "current_stock": 4,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 13
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P108",
+    "current_stock": 36,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 13
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P109",
+    "current_stock": 49,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 4
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P110",
+    "current_stock": 27,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 9
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P111",
+    "current_stock": 2,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 4
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P112",
+    "current_stock": 40,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 9
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P113",
+    "current_stock": 0,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 10
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P114",
+    "current_stock": 42,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 11
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P115",
+    "current_stock": 3,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 9
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P116",
+    "current_stock": 47,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 4
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P117",
+    "current_stock": 10,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 7
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P118",
+    "current_stock": 0,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 8
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P119",
+    "current_stock": 0,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 13
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P120",
+    "current_stock": 40,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 15
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P121",
+    "current_stock": 12,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 10
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P122",
+    "current_stock": 0,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 7
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P123",
+    "current_stock": 7,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 11
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P124",
+    "current_stock": 0,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 8
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P125",
+    "current_stock": 12,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 3
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P126",
+    "current_stock": 34,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 11
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P127",
+    "current_stock": 6,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 12
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P128",
+    "current_stock": 3,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 3
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P129",
+    "current_stock": 15,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 9
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P130",
+    "current_stock": 5,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 11
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P131",
+    "current_stock": 13,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 4
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P132",
+    "current_stock": 22,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 13
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P133",
+    "current_stock": 1,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 4
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P134",
+    "current_stock": 50,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 7
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P135",
+    "current_stock": 1,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 13
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P136",
+    "current_stock": 46,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 12
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P137",
+    "current_stock": 5,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 6
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P138",
+    "current_stock": 2,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 8
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P139",
+    "current_stock": 31,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 2
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P140",
+    "current_stock": 11,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 13
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P141",
+    "current_stock": 49,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 4
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P142",
+    "current_stock": 47,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 3
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P143",
+    "current_stock": 22,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 14
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P144",
+    "current_stock": 8,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 9
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P145",
+    "current_stock": 1,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 2
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P146",
+    "current_stock": 4,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 15
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P147",
+    "current_stock": 15,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 8
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P148",
+    "current_stock": 41,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 10
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P149",
+    "current_stock": 20,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 3
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P150",
+    "current_stock": 4,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 10
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P151",
+    "current_stock": 0,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 8
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P152",
+    "current_stock": 2,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 1
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P153",
+    "current_stock": 11,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 11
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P154",
+    "current_stock": 33,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 7
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P155",
+    "current_stock": 14,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 14
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P156",
+    "current_stock": 8,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 14
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P157",
+    "current_stock": 2,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 3
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P158",
+    "current_stock": 21,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 8
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P159",
+    "current_stock": 18,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 1
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P160",
+    "current_stock": 17,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 2
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P161",
+    "current_stock": 45,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 14
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P162",
+    "current_stock": 48,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 15
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P163",
+    "current_stock": 0,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 4
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P164",
+    "current_stock": 28,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 10
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P165",
+    "current_stock": 18,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 9
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P166",
+    "current_stock": 20,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 5
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P167",
+    "current_stock": 4,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 2
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P168",
+    "current_stock": 30,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 2
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P169",
+    "current_stock": 36,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 1
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P170",
+    "current_stock": 0,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 12
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P171",
+    "current_stock": 1,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 7
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P172",
+    "current_stock": 20,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 14
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P173",
+    "current_stock": 50,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 6
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P174",
+    "current_stock": 0,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 15
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P175",
+    "current_stock": 30,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 8
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P176",
+    "current_stock": 43,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 1
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P177",
+    "current_stock": 1,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 15
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P178",
+    "current_stock": 26,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 14
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P179",
+    "current_stock": 35,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 1
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P180",
+    "current_stock": 1,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 5
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P181",
+    "current_stock": 13,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 13
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P182",
+    "current_stock": 21,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 13
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P183",
+    "current_stock": 4,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 9
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P184",
+    "current_stock": 5,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 8
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P185",
+    "current_stock": 48,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 13
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P186",
+    "current_stock": 0,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 6
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P187",
+    "current_stock": 13,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 5
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P188",
+    "current_stock": 47,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 11
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P189",
+    "current_stock": 4,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 2
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P190",
+    "current_stock": 29,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 15
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P191",
+    "current_stock": 48,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 13
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P192",
+    "current_stock": 2,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 12
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P193",
+    "current_stock": 2,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 8
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P194",
+    "current_stock": 38,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 7
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P195",
+    "current_stock": 50,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 2
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P196",
+    "current_stock": 31,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 11
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P197",
+    "current_stock": 32,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 10
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P198",
+    "current_stock": 20,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 6
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P199",
+    "current_stock": 48,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 7
+  },
+  {
+    "store_id": "S001",
+    "product_id": "WMK_P200",
+    "current_stock": 44,
+    "last_updated": "2025-07-13T19:53:51.039081Z",
+    "daily_sales_rate": 12
+  }
+]

@@ -1,0 +1,400 @@
+[
+  {
+    "deal_id": "DEAL001",
+    "deal_name": "Buy 2 Get 1 Free on Select Personal Care Items",
+    "type": "BOGO",
+    "applicable_product_ids": [
+      "WMK_P036",
+      "WMK_P049",
+      "WMK_P020"
+    ],
+    "discount_value": 0,
+    "discount_percentage": 0,
+    "min_quantity_for_deal": 3,
+    "trigger_quantity": 2,
+    "apply_to_n_lowest_price": 1,
+    "category_restriction": "Personal Care",
+    "brand_restriction": null,
+    "active": true,
+    "priority": 24
+  },
+  {
+    "deal_id": "DEAL002",
+    "deal_name": "Bundle: Buy any 3 Snacks & Confectionery items, get $3.0 off",
+    "type": "BUNDLE_THRESHOLD",
+    "applicable_product_ids": [
+      "WMK_P009",
+      "WMK_P030",
+      "WMK_P023",
+      "WMK_P007",
+      "WMK_P050"
+    ],
+    "discount_value": 3.0,
+    "discount_percentage": 0,
+    "min_quantity_for_deal": 3,
+    "category_restriction": "Snacks & Confectionery",
+    "active": true,
+    "priority": 54
+  },
+  {
+    "deal_id": "DEAL003",
+    "deal_name": "Buy 2 Get 1 Free on Select Household Essentials Items",
+    "type": "BOGO",
+    "applicable_product_ids": [
+      "WMK_P033",
+      "WMK_P003",
+      "WMK_P029"
+    ],
+    "discount_value": 0,
+    "discount_percentage": 0,
+    "min_quantity_for_deal": 3,
+    "trigger_quantity": 2,
+    "apply_to_n_lowest_price": 1,
+    "category_restriction": "Household Essentials",
+    "brand_restriction": null,
+    "active": true,
+    "priority": 21
+  },
+  {
+    "deal_id": "DEAL004",
+    "deal_name": "25% Off FreshHome Cleaning Spray (Flash Sale!)",
+    "type": "PERCENTAGE_ITEM",
+    "applicable_product_ids": [
+      "WMK_P003"
+    ],
+    "discount_value": 0,
+    "discount_percentage": 25,
+    "category_restriction": null,
+    "brand_restriction": null,
+    "active": true,
+    "priority": 70
+  },
+  {
+    "deal_id": "DEAL005",
+    "deal_name": "Buy 2 Get 1 Free on Select Personal Care Items",
+    "type": "BOGO",
+    "applicable_product_ids": [
+      "WMK_P036",
+      "WMK_P049",
+      "WMK_P044"
+    ],
+    "discount_value": 0,
+    "discount_percentage": 0,
+    "min_quantity_for_deal": 3,
+    "trigger_quantity": 2,
+    "apply_to_n_lowest_price": 1,
+    "category_restriction": "Personal Care",
+    "brand_restriction": null,
+    "active": true,
+    "priority": 38
+  },
+  {
+    "deal_id": "DEAL006",
+    "deal_name": "25% Off SmartLiving Coffee Maker (Flash Sale!)",
+    "type": "PERCENTAGE_ITEM",
+    "applicable_product_ids": [
+      "WMK_P032"
+    ],
+    "discount_value": 0,
+    "discount_percentage": 40,
+    "category_restriction": null,
+    "brand_restriction": null,
+    "active": true,
+    "priority": 77
+  },
+  {
+    "deal_id": "DEAL007",
+    "deal_name": "25% Off SweetDelight Granola Bars (Box) (Flash Sale!)",
+    "type": "PERCENTAGE_ITEM",
+    "applicable_product_ids": [
+      "WMK_P024"
+    ],
+    "discount_value": 0,
+    "discount_percentage": 30,
+    "category_restriction": null,
+    "brand_restriction": null,
+    "active": true,
+    "priority": 51
+  },
+  {
+    "deal_id": "DEAL008",
+    "deal_name": "$3 Off CrunchyBites Potato Chips (Large)",
+    "type": "FIXED_AMOUNT_ITEM",
+    "applicable_product_ids": [
+      "WMK_P034"
+    ],
+    "discount_value": 1.0,
+    "discount_percentage": 0,
+    "category_restriction": null,
+    "brand_restriction": null,
+    "active": true,
+    "priority": 17
+  },
+  {
+    "deal_id": "DEAL009",
+    "deal_name": "40% Off SmartLiving Kitchen Utensil Set (Flash Sale!)",
+    "type": "PERCENTAGE_ITEM",
+    "applicable_product_ids": [
+      "WMK_P026"
+    ],
+    "discount_value": 0,
+    "discount_percentage": 25,
+    "category_restriction": null,
+    "brand_restriction": null,
+    "active": true,
+    "priority": 73
+  },
+  {
+    "deal_id": "DEAL010",
+    "deal_name": "$2 Off DailyHarvest Milk (Gallon)",
+    "type": "FIXED_AMOUNT_ITEM",
+    "applicable_product_ids": [
+      "WMK_P014"
+    ],
+    "discount_value": 2.0,
+    "discount_percentage": 0,
+    "category_restriction": null,
+    "brand_restriction": null,
+    "active": true,
+    "priority": 48
+  },
+  {
+    "deal_id": "DEAL011",
+    "deal_name": "Buy 2 Get 1 Free on Select Personal Care Items",
+    "type": "BOGO",
+    "applicable_product_ids": [
+      "WMK_P036",
+      "WMK_P044",
+      "WMK_P049"
+    ],
+    "discount_value": 0,
+    "discount_percentage": 0,
+    "min_quantity_for_deal": 3,
+    "trigger_quantity": 2,
+    "apply_to_n_lowest_price": 1,
+    "category_restriction": "Personal Care",
+    "brand_restriction": null,
+    "active": true,
+    "priority": 34
+  },
+  {
+    "deal_id": "DEAL012",
+    "deal_name": "Buy 2 Get 1 Free on Select Beverages Items",
+    "type": "BOGO",
+    "applicable_product_ids": [
+      "WMK_P045",
+      "WMK_P039",
+      "WMK_P022"
+    ],
+    "discount_value": 0,
+    "discount_percentage": 0,
+    "min_quantity_for_deal": 3,
+    "trigger_quantity": 2,
+    "apply_to_n_lowest_price": 1,
+    "category_restriction": "Beverages",
+    "brand_restriction": null,
+    "active": true,
+    "priority": 19
+  },
+  {
+    "deal_id": "DEAL013",
+    "deal_name": "10% Off All Beverages",
+    "type": "PERCENTAGE_CATEGORY",
+    "applicable_product_ids": [],
+    "discount_value": 0,
+    "discount_percentage": 15,
+    "category_restriction": "Beverages",
+    "brand_restriction": null,
+    "excluded_subcategories": [],
+    "active": true,
+    "priority": 32
+  },
+  {
+    "deal_id": "DEAL014",
+    "deal_name": "$1 Off TechLife Coffee Maker",
+    "type": "FIXED_AMOUNT_ITEM",
+    "applicable_product_ids": [
+      "WMK_P008"
+    ],
+    "discount_value": 3.0,
+    "discount_percentage": 0,
+    "category_restriction": null,
+    "brand_restriction": null,
+    "active": true,
+    "priority": 24
+  },
+  {
+    "deal_id": "DEAL015",
+    "deal_name": "20% Off All Beverages",
+    "type": "PERCENTAGE_CATEGORY",
+    "applicable_product_ids": [],
+    "discount_value": 0,
+    "discount_percentage": 10,
+    "category_restriction": "Beverages",
+    "brand_restriction": null,
+    "excluded_subcategories": [],
+    "active": true,
+    "priority": 16
+  },
+  {
+    "deal_id": "DEAL016",
+    "deal_name": "25% Off TechLife Coffee Maker (Flash Sale!)",
+    "type": "PERCENTAGE_ITEM",
+    "applicable_product_ids": [
+      "WMK_P011"
+    ],
+    "discount_value": 0,
+    "discount_percentage": 40,
+    "category_restriction": null,
+    "brand_restriction": null,
+    "active": true,
+    "priority": 95
+  },
+  {
+    "deal_id": "DEAL017",
+    "deal_name": "$3 Off HealthyHair Soap (Bar)",
+    "type": "FIXED_AMOUNT_ITEM",
+    "applicable_product_ids": [
+      "WMK_P020"
+    ],
+    "discount_value": 2.0,
+    "discount_percentage": 0,
+    "category_restriction": null,
+    "brand_restriction": null,
+    "active": true,
+    "priority": 21
+  },
+  {
+    "deal_id": "DEAL018",
+    "deal_name": "20% Off All Household Essentials",
+    "type": "PERCENTAGE_CATEGORY",
+    "applicable_product_ids": [],
+    "discount_value": 0,
+    "discount_percentage": 10,
+    "category_restriction": "Household Essentials",
+    "brand_restriction": null,
+    "excluded_subcategories": [],
+    "active": true,
+    "priority": 31
+  },
+  {
+    "deal_id": "DEAL019",
+    "deal_name": "Bundle: Buy any 3 Personal Care items, get $1.0 off",
+    "type": "BUNDLE_THRESHOLD",
+    "applicable_product_ids": [
+      "WMK_P049",
+      "WMK_P020",
+      "WMK_P036",
+      "WMK_P044",
+      "WMK_P031"
+    ],
+    "discount_value": 2.0,
+    "discount_percentage": 0,
+    "min_quantity_for_deal": 3,
+    "category_restriction": "Personal Care",
+    "active": true,
+    "priority": 36
+  },
+  {
+    "deal_id": "DEAL020",
+    "deal_name": "Buy 2 Get 1 Free on Select Beverages Items",
+    "type": "BOGO",
+    "applicable_product_ids": [
+      "WMK_P015",
+      "WMK_P045",
+      "WMK_P028"
+    ],
+    "discount_value": 0,
+    "discount_percentage": 0,
+    "min_quantity_for_deal": 3,
+    "trigger_quantity": 2,
+    "apply_to_n_lowest_price": 1,
+    "category_restriction": "Beverages",
+    "brand_restriction": null,
+    "active": true,
+    "priority": 12
+  },
+  {
+    "deal_id": "DEAL021",
+    "deal_name": "Buy 2 Get 1 Free on Select Personal Care Items",
+    "type": "BOGO",
+    "applicable_product_ids": [
+      "WMK_P044",
+      "WMK_P020",
+      "WMK_P049"
+    ],
+    "discount_value": 0,
+    "discount_percentage": 0,
+    "min_quantity_for_deal": 3,
+    "trigger_quantity": 2,
+    "apply_to_n_lowest_price": 1,
+    "category_restriction": "Personal Care",
+    "brand_restriction": null,
+    "active": true,
+    "priority": 7
+  },
+  {
+    "deal_id": "DEAL022",
+    "deal_name": "Bundle: Buy any 3 Dairy & Fresh Produce items, get $1.0 off",
+    "type": "BUNDLE_THRESHOLD",
+    "applicable_product_ids": [
+      "WMK_P010",
+      "WMK_P046",
+      "WMK_P021",
+      "WMK_P006",
+      "WMK_P014"
+    ],
+    "discount_value": 3.0,
+    "discount_percentage": 0,
+    "min_quantity_for_deal": 3,
+    "category_restriction": "Dairy & Fresh Produce",
+    "active": true,
+    "priority": 62
+  },
+  {
+    "deal_id": "DEAL023",
+    "deal_name": "$1 Off ShinePro Dish Soap",
+    "type": "FIXED_AMOUNT_ITEM",
+    "applicable_product_ids": [
+      "WMK_P033"
+    ],
+    "discount_value": 2.0,
+    "discount_percentage": 0,
+    "category_restriction": null,
+    "brand_restriction": null,
+    "active": true,
+    "priority": 10
+  },
+  {
+    "deal_id": "DEAL024",
+    "deal_name": "Bundle: Buy any 3 Electronics & Home Goods items, get $1.0 off",
+    "type": "BUNDLE_THRESHOLD",
+    "applicable_product_ids": [
+      "WMK_P025",
+      "WMK_P016",
+      "WMK_P037",
+      "WMK_P047",
+      "WMK_P011"
+    ],
+    "discount_value": 3.0,
+    "discount_percentage": 0,
+    "min_quantity_for_deal": 3,
+    "category_restriction": "Electronics & Home Goods",
+    "active": true,
+    "priority": 49
+  },
+  {
+    "deal_id": "DEAL025",
+    "deal_name": "25% Off ShinePro Paper Towels (Flash Sale!)",
+    "type": "PERCENTAGE_ITEM",
+    "applicable_product_ids": [
+      "WMK_P048"
+    ],
+    "discount_value": 0,
+    "discount_percentage": 30,
+    "category_restriction": null,
+    "brand_restriction": null,
+    "active": true,
+    "priority": 68
+  }
+]
