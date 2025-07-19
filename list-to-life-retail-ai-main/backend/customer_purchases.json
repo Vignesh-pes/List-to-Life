@@ -1,0 +1,5742 @@
+[
+  {
+    "invoice_id": "INV00001",
+    "customer_id": "CUST001",
+    "product_id": "WMK_P012",
+    "quantity": 2,
+    "purchase_date": "2025-04-09T05:27:15Z"
+  },
+  {
+    "invoice_id": "INV00001",
+    "customer_id": "CUST001",
+    "product_id": "WMK_P165",
+    "quantity": 2,
+    "purchase_date": "2025-04-09T05:27:15Z"
+  },
+  {
+    "invoice_id": "INV00002",
+    "customer_id": "CUST001",
+    "product_id": "WMK_P190",
+    "quantity": 3,
+    "purchase_date": "2025-04-26T05:05:09Z"
+  },
+  {
+    "invoice_id": "INV00003",
+    "customer_id": "CUST001",
+    "product_id": "WMK_P194",
+    "quantity": 3,
+    "purchase_date": "2024-11-16T17:25:19Z"
+  },
+  {
+    "invoice_id": "INV00004",
+    "customer_id": "CUST001",
+    "product_id": "WMK_P142",
+    "quantity": 1,
+    "purchase_date": "2025-05-10T20:13:39Z"
+  },
+  {
+    "invoice_id": "INV00005",
+    "customer_id": "CUST001",
+    "product_id": "WMK_P169",
+    "quantity": 1,
+    "purchase_date": "2025-01-01T01:34:27Z"
+  },
+  {
+    "invoice_id": "INV00005",
+    "customer_id": "CUST001",
+    "product_id": "WMK_P165",
+    "quantity": 1,
+    "purchase_date": "2025-01-01T01:34:27Z"
+  },
+  {
+    "invoice_id": "INV00006",
+    "customer_id": "CUST001",
+    "product_id": "WMK_P104",
+    "quantity": 2,
+    "purchase_date": "2025-06-25T17:56:12Z"
+  },
+  {
+    "invoice_id": "INV00006",
+    "customer_id": "CUST001",
+    "product_id": "WMK_P036",
+    "quantity": 2,
+    "purchase_date": "2025-06-25T17:56:12Z"
+  },
+  {
+    "invoice_id": "INV00006",
+    "customer_id": "CUST001",
+    "product_id": "WMK_P016",
+    "quantity": 2,
+    "purchase_date": "2025-06-25T17:56:12Z"
+  },
+  {
+    "invoice_id": "INV00006",
+    "customer_id": "CUST001",
+    "product_id": "WMK_P180",
+    "quantity": 1,
+    "purchase_date": "2025-06-25T17:56:12Z"
+  },
+  {
+    "invoice_id": "INV00006",
+    "customer_id": "CUST001",
+    "product_id": "WMK_P126",
+    "quantity": 3,
+    "purchase_date": "2025-06-25T17:56:12Z"
+  },
+  {
+    "invoice_id": "INV00007",
+    "customer_id": "CUST001",
+    "product_id": "WMK_P123",
+    "quantity": 3,
+    "purchase_date": "2024-08-20T03:01:31Z"
+  },
+  {
+    "invoice_id": "INV00007",
+    "customer_id": "CUST001",
+    "product_id": "WMK_P074",
+    "quantity": 3,
+    "purchase_date": "2024-08-20T03:01:31Z"
+  },
+  {
+    "invoice_id": "INV00007",
+    "customer_id": "CUST001",
+    "product_id": "WMK_P161",
+    "quantity": 1,
+    "purchase_date": "2024-08-20T03:01:31Z"
+  },
+  {
+    "invoice_id": "INV00007",
+    "customer_id": "CUST001",
+    "product_id": "WMK_P051",
+    "quantity": 1,
+    "purchase_date": "2024-08-20T03:01:31Z"
+  },
+  {
+    "invoice_id": "INV00008",
+    "customer_id": "CUST002",
+    "product_id": "WMK_P116",
+    "quantity": 2,
+    "purchase_date": "2025-07-02T20:24:31Z"
+  },
+  {
+    "invoice_id": "INV00008",
+    "customer_id": "CUST002",
+    "product_id": "WMK_P028",
+    "quantity": 1,
+    "purchase_date": "2025-07-02T20:24:31Z"
+  },
+  {
+    "invoice_id": "INV00008",
+    "customer_id": "CUST002",
+    "product_id": "WMK_P095",
+    "quantity": 1,
+    "purchase_date": "2025-07-02T20:24:31Z"
+  },
+  {
+    "invoice_id": "INV00008",
+    "customer_id": "CUST002",
+    "product_id": "WMK_P138",
+    "quantity": 1,
+    "purchase_date": "2025-07-02T20:24:31Z"
+  },
+  {
+    "invoice_id": "INV00009",
+    "customer_id": "CUST002",
+    "product_id": "WMK_P158",
+    "quantity": 2,
+    "purchase_date": "2024-08-17T19:36:32Z"
+  },
+  {
+    "invoice_id": "INV00009",
+    "customer_id": "CUST002",
+    "product_id": "WMK_P048",
+    "quantity": 2,
+    "purchase_date": "2024-08-17T19:36:32Z"
+  },
+  {
+    "invoice_id": "INV00009",
+    "customer_id": "CUST002",
+    "product_id": "WMK_P099",
+    "quantity": 1,
+    "purchase_date": "2024-08-17T19:36:32Z"
+  },
+  {
+    "invoice_id": "INV00009",
+    "customer_id": "CUST002",
+    "product_id": "WMK_P041",
+    "quantity": 2,
+    "purchase_date": "2024-08-17T19:36:32Z"
+  },
+  {
+    "invoice_id": "INV00010",
+    "customer_id": "CUST002",
+    "product_id": "WMK_P048",
+    "quantity": 1,
+    "purchase_date": "2025-02-09T05:22:29Z"
+  },
+  {
+    "invoice_id": "INV00010",
+    "customer_id": "CUST002",
+    "product_id": "WMK_P096",
+    "quantity": 2,
+    "purchase_date": "2025-02-09T05:22:29Z"
+  },
+  {
+    "invoice_id": "INV00010",
+    "customer_id": "CUST002",
+    "product_id": "WMK_P191",
+    "quantity": 3,
+    "purchase_date": "2025-02-09T05:22:29Z"
+  },
+  {
+    "invoice_id": "INV00010",
+    "customer_id": "CUST002",
+    "product_id": "WMK_P131",
+    "quantity": 2,
+    "purchase_date": "2025-02-09T05:22:29Z"
+  },
+  {
+    "invoice_id": "INV00010",
+    "customer_id": "CUST002",
+    "product_id": "WMK_P040",
+    "quantity": 2,
+    "purchase_date": "2025-02-09T05:22:29Z"
+  },
+  {
+    "invoice_id": "INV00011",
+    "customer_id": "CUST002",
+    "product_id": "WMK_P180",
+    "quantity": 1,
+    "purchase_date": "2025-01-15T10:39:35Z"
+  },
+  {
+    "invoice_id": "INV00012",
+    "customer_id": "CUST003",
+    "product_id": "WMK_P059",
+    "quantity": 3,
+    "purchase_date": "2025-03-07T20:39:55Z"
+  },
+  {
+    "invoice_id": "INV00012",
+    "customer_id": "CUST003",
+    "product_id": "WMK_P107",
+    "quantity": 3,
+    "purchase_date": "2025-03-07T20:39:55Z"
+  },
+  {
+    "invoice_id": "INV00013",
+    "customer_id": "CUST003",
+    "product_id": "WMK_P088",
+    "quantity": 3,
+    "purchase_date": "2025-04-06T19:44:25Z"
+  },
+  {
+    "invoice_id": "INV00013",
+    "customer_id": "CUST003",
+    "product_id": "WMK_P073",
+    "quantity": 2,
+    "purchase_date": "2025-04-06T19:44:25Z"
+  },
+  {
+    "invoice_id": "INV00013",
+    "customer_id": "CUST003",
+    "product_id": "WMK_P120",
+    "quantity": 2,
+    "purchase_date": "2025-04-06T19:44:25Z"
+  },
+  {
+    "invoice_id": "INV00013",
+    "customer_id": "CUST003",
+    "product_id": "WMK_P023",
+    "quantity": 2,
+    "purchase_date": "2025-04-06T19:44:25Z"
+  },
+  {
+    "invoice_id": "INV00014",
+    "customer_id": "CUST003",
+    "product_id": "WMK_P085",
+    "quantity": 2,
+    "purchase_date": "2025-01-14T17:49:52Z"
+  },
+  {
+    "invoice_id": "INV00015",
+    "customer_id": "CUST003",
+    "product_id": "WMK_P076",
+    "quantity": 3,
+    "purchase_date": "2025-07-05T06:14:04Z"
+  },
+  {
+    "invoice_id": "INV00015",
+    "customer_id": "CUST003",
+    "product_id": "WMK_P085",
+    "quantity": 1,
+    "purchase_date": "2025-07-05T06:14:04Z"
+  },
+  {
+    "invoice_id": "INV00015",
+    "customer_id": "CUST003",
+    "product_id": "WMK_P123",
+    "quantity": 1,
+    "purchase_date": "2025-07-05T06:14:04Z"
+  },
+  {
+    "invoice_id": "INV00015",
+    "customer_id": "CUST003",
+    "product_id": "WMK_P159",
+    "quantity": 3,
+    "purchase_date": "2025-07-05T06:14:04Z"
+  },
+  {
+    "invoice_id": "INV00016",
+    "customer_id": "CUST003",
+    "product_id": "WMK_P153",
+    "quantity": 1,
+    "purchase_date": "2024-12-06T00:40:51Z"
+  },
+  {
+    "invoice_id": "INV00016",
+    "customer_id": "CUST003",
+    "product_id": "WMK_P106",
+    "quantity": 3,
+    "purchase_date": "2024-12-06T00:40:51Z"
+  },
+  {
+    "invoice_id": "INV00016",
+    "customer_id": "CUST003",
+    "product_id": "WMK_P021",
+    "quantity": 2,
+    "purchase_date": "2024-12-06T00:40:51Z"
+  },
+  {
+    "invoice_id": "INV00016",
+    "customer_id": "CUST003",
+    "product_id": "WMK_P144",
+    "quantity": 3,
+    "purchase_date": "2024-12-06T00:40:51Z"
+  },
+  {
+    "invoice_id": "INV00017",
+    "customer_id": "CUST003",
+    "product_id": "WMK_P199",
+    "quantity": 1,
+    "purchase_date": "2025-05-11T01:15:57Z"
+  },
+  {
+    "invoice_id": "INV00017",
+    "customer_id": "CUST003",
+    "product_id": "WMK_P100",
+    "quantity": 1,
+    "purchase_date": "2025-05-11T01:15:57Z"
+  },
+  {
+    "invoice_id": "INV00018",
+    "customer_id": "CUST004",
+    "product_id": "WMK_P001",
+    "quantity": 2,
+    "purchase_date": "2025-05-30T16:01:31Z"
+  },
+  {
+    "invoice_id": "INV00018",
+    "customer_id": "CUST004",
+    "product_id": "WMK_P134",
+    "quantity": 2,
+    "purchase_date": "2025-05-30T16:01:31Z"
+  },
+  {
+    "invoice_id": "INV00018",
+    "customer_id": "CUST004",
+    "product_id": "WMK_P195",
+    "quantity": 2,
+    "purchase_date": "2025-05-30T16:01:31Z"
+  },
+  {
+    "invoice_id": "INV00019",
+    "customer_id": "CUST004",
+    "product_id": "WMK_P154",
+    "quantity": 3,
+    "purchase_date": "2025-02-24T19:57:09Z"
+  },
+  {
+    "invoice_id": "INV00019",
+    "customer_id": "CUST004",
+    "product_id": "WMK_P055",
+    "quantity": 3,
+    "purchase_date": "2025-02-24T19:57:09Z"
+  },
+  {
+    "invoice_id": "INV00019",
+    "customer_id": "CUST004",
+    "product_id": "WMK_P131",
+    "quantity": 1,
+    "purchase_date": "2025-02-24T19:57:09Z"
+  },
+  {
+    "invoice_id": "INV00019",
+    "customer_id": "CUST004",
+    "product_id": "WMK_P033",
+    "quantity": 2,
+    "purchase_date": "2025-02-24T19:57:09Z"
+  },
+  {
+    "invoice_id": "INV00020",
+    "customer_id": "CUST004",
+    "product_id": "WMK_P128",
+    "quantity": 2,
+    "purchase_date": "2025-05-10T07:52:40Z"
+  },
+  {
+    "invoice_id": "INV00020",
+    "customer_id": "CUST004",
+    "product_id": "WMK_P008",
+    "quantity": 3,
+    "purchase_date": "2025-05-10T07:52:40Z"
+  },
+  {
+    "invoice_id": "INV00020",
+    "customer_id": "CUST004",
+    "product_id": "WMK_P017",
+    "quantity": 3,
+    "purchase_date": "2025-05-10T07:52:40Z"
+  },
+  {
+    "invoice_id": "INV00020",
+    "customer_id": "CUST004",
+    "product_id": "WMK_P028",
+    "quantity": 3,
+    "purchase_date": "2025-05-10T07:52:40Z"
+  },
+  {
+    "invoice_id": "INV00021",
+    "customer_id": "CUST004",
+    "product_id": "WMK_P121",
+    "quantity": 3,
+    "purchase_date": "2024-12-03T07:03:06Z"
+  },
+  {
+    "invoice_id": "INV00021",
+    "customer_id": "CUST004",
+    "product_id": "WMK_P026",
+    "quantity": 2,
+    "purchase_date": "2024-12-03T07:03:06Z"
+  },
+  {
+    "invoice_id": "INV00021",
+    "customer_id": "CUST004",
+    "product_id": "WMK_P077",
+    "quantity": 1,
+    "purchase_date": "2024-12-03T07:03:06Z"
+  },
+  {
+    "invoice_id": "INV00021",
+    "customer_id": "CUST004",
+    "product_id": "WMK_P056",
+    "quantity": 2,
+    "purchase_date": "2024-12-03T07:03:06Z"
+  },
+  {
+    "invoice_id": "INV00021",
+    "customer_id": "CUST004",
+    "product_id": "WMK_P030",
+    "quantity": 3,
+    "purchase_date": "2024-12-03T07:03:06Z"
+  },
+  {
+    "invoice_id": "INV00022",
+    "customer_id": "CUST004",
+    "product_id": "WMK_P169",
+    "quantity": 2,
+    "purchase_date": "2024-09-04T04:03:26Z"
+  },
+  {
+    "invoice_id": "INV00023",
+    "customer_id": "CUST005",
+    "product_id": "WMK_P075",
+    "quantity": 1,
+    "purchase_date": "2025-02-14T13:27:47Z"
+  },
+  {
+    "invoice_id": "INV00023",
+    "customer_id": "CUST005",
+    "product_id": "WMK_P184",
+    "quantity": 3,
+    "purchase_date": "2025-02-14T13:27:47Z"
+  },
+  {
+    "invoice_id": "INV00023",
+    "customer_id": "CUST005",
+    "product_id": "WMK_P097",
+    "quantity": 2,
+    "purchase_date": "2025-02-14T13:27:47Z"
+  },
+  {
+    "invoice_id": "INV00023",
+    "customer_id": "CUST005",
+    "product_id": "WMK_P100",
+    "quantity": 3,
+    "purchase_date": "2025-02-14T13:27:47Z"
+  },
+  {
+    "invoice_id": "INV00023",
+    "customer_id": "CUST005",
+    "product_id": "WMK_P177",
+    "quantity": 3,
+    "purchase_date": "2025-02-14T13:27:47Z"
+  },
+  {
+    "invoice_id": "INV00024",
+    "customer_id": "CUST005",
+    "product_id": "WMK_P037",
+    "quantity": 3,
+    "purchase_date": "2025-06-26T02:47:41Z"
+  },
+  {
+    "invoice_id": "INV00024",
+    "customer_id": "CUST005",
+    "product_id": "WMK_P079",
+    "quantity": 3,
+    "purchase_date": "2025-06-26T02:47:41Z"
+  },
+  {
+    "invoice_id": "INV00024",
+    "customer_id": "CUST005",
+    "product_id": "WMK_P123",
+    "quantity": 2,
+    "purchase_date": "2025-06-26T02:47:41Z"
+  },
+  {
+    "invoice_id": "INV00024",
+    "customer_id": "CUST005",
+    "product_id": "WMK_P044",
+    "quantity": 3,
+    "purchase_date": "2025-06-26T02:47:41Z"
+  },
+  {
+    "invoice_id": "INV00024",
+    "customer_id": "CUST005",
+    "product_id": "WMK_P087",
+    "quantity": 2,
+    "purchase_date": "2025-06-26T02:47:41Z"
+  },
+  {
+    "invoice_id": "INV00025",
+    "customer_id": "CUST005",
+    "product_id": "WMK_P067",
+    "quantity": 3,
+    "purchase_date": "2025-05-31T19:51:18Z"
+  },
+  {
+    "invoice_id": "INV00025",
+    "customer_id": "CUST005",
+    "product_id": "WMK_P020",
+    "quantity": 3,
+    "purchase_date": "2025-05-31T19:51:18Z"
+  },
+  {
+    "invoice_id": "INV00025",
+    "customer_id": "CUST005",
+    "product_id": "WMK_P022",
+    "quantity": 1,
+    "purchase_date": "2025-05-31T19:51:18Z"
+  },
+  {
+    "invoice_id": "INV00025",
+    "customer_id": "CUST005",
+    "product_id": "WMK_P132",
+    "quantity": 3,
+    "purchase_date": "2025-05-31T19:51:18Z"
+  },
+  {
+    "invoice_id": "INV00025",
+    "customer_id": "CUST005",
+    "product_id": "WMK_P173",
+    "quantity": 2,
+    "purchase_date": "2025-05-31T19:51:18Z"
+  },
+  {
+    "invoice_id": "INV00026",
+    "customer_id": "CUST005",
+    "product_id": "WMK_P171",
+    "quantity": 3,
+    "purchase_date": "2024-10-09T18:12:26Z"
+  },
+  {
+    "invoice_id": "INV00026",
+    "customer_id": "CUST005",
+    "product_id": "WMK_P119",
+    "quantity": 2,
+    "purchase_date": "2024-10-09T18:12:26Z"
+  },
+  {
+    "invoice_id": "INV00026",
+    "customer_id": "CUST005",
+    "product_id": "WMK_P185",
+    "quantity": 2,
+    "purchase_date": "2024-10-09T18:12:26Z"
+  },
+  {
+    "invoice_id": "INV00026",
+    "customer_id": "CUST005",
+    "product_id": "WMK_P084",
+    "quantity": 3,
+    "purchase_date": "2024-10-09T18:12:26Z"
+  },
+  {
+    "invoice_id": "INV00026",
+    "customer_id": "CUST005",
+    "product_id": "WMK_P058",
+    "quantity": 3,
+    "purchase_date": "2024-10-09T18:12:26Z"
+  },
+  {
+    "invoice_id": "INV00027",
+    "customer_id": "CUST005",
+    "product_id": "WMK_P029",
+    "quantity": 1,
+    "purchase_date": "2025-04-12T07:21:52Z"
+  },
+  {
+    "invoice_id": "INV00027",
+    "customer_id": "CUST005",
+    "product_id": "WMK_P068",
+    "quantity": 1,
+    "purchase_date": "2025-04-12T07:21:52Z"
+  },
+  {
+    "invoice_id": "INV00027",
+    "customer_id": "CUST005",
+    "product_id": "WMK_P184",
+    "quantity": 1,
+    "purchase_date": "2025-04-12T07:21:52Z"
+  },
+  {
+    "invoice_id": "INV00028",
+    "customer_id": "CUST005",
+    "product_id": "WMK_P014",
+    "quantity": 1,
+    "purchase_date": "2024-10-04T08:02:30Z"
+  },
+  {
+    "invoice_id": "INV00029",
+    "customer_id": "CUST006",
+    "product_id": "WMK_P054",
+    "quantity": 1,
+    "purchase_date": "2025-02-24T20:46:48Z"
+  },
+  {
+    "invoice_id": "INV00029",
+    "customer_id": "CUST006",
+    "product_id": "WMK_P038",
+    "quantity": 3,
+    "purchase_date": "2025-02-24T20:46:48Z"
+  },
+  {
+    "invoice_id": "INV00030",
+    "customer_id": "CUST006",
+    "product_id": "WMK_P104",
+    "quantity": 1,
+    "purchase_date": "2025-03-15T08:22:24Z"
+  },
+  {
+    "invoice_id": "INV00030",
+    "customer_id": "CUST006",
+    "product_id": "WMK_P055",
+    "quantity": 1,
+    "purchase_date": "2025-03-15T08:22:24Z"
+  },
+  {
+    "invoice_id": "INV00030",
+    "customer_id": "CUST006",
+    "product_id": "WMK_P103",
+    "quantity": 2,
+    "purchase_date": "2025-03-15T08:22:24Z"
+  },
+  {
+    "invoice_id": "INV00030",
+    "customer_id": "CUST006",
+    "product_id": "WMK_P161",
+    "quantity": 1,
+    "purchase_date": "2025-03-15T08:22:24Z"
+  },
+  {
+    "invoice_id": "INV00030",
+    "customer_id": "CUST006",
+    "product_id": "WMK_P107",
+    "quantity": 3,
+    "purchase_date": "2025-03-15T08:22:24Z"
+  },
+  {
+    "invoice_id": "INV00031",
+    "customer_id": "CUST006",
+    "product_id": "WMK_P186",
+    "quantity": 3,
+    "purchase_date": "2025-01-16T21:19:06Z"
+  },
+  {
+    "invoice_id": "INV00032",
+    "customer_id": "CUST006",
+    "product_id": "WMK_P089",
+    "quantity": 3,
+    "purchase_date": "2024-12-24T16:49:38Z"
+  },
+  {
+    "invoice_id": "INV00032",
+    "customer_id": "CUST006",
+    "product_id": "WMK_P197",
+    "quantity": 1,
+    "purchase_date": "2024-12-24T16:49:38Z"
+  },
+  {
+    "invoice_id": "INV00032",
+    "customer_id": "CUST006",
+    "product_id": "WMK_P108",
+    "quantity": 2,
+    "purchase_date": "2024-12-24T16:49:38Z"
+  },
+  {
+    "invoice_id": "INV00032",
+    "customer_id": "CUST006",
+    "product_id": "WMK_P029",
+    "quantity": 2,
+    "purchase_date": "2024-12-24T16:49:38Z"
+  },
+  {
+    "invoice_id": "INV00032",
+    "customer_id": "CUST006",
+    "product_id": "WMK_P174",
+    "quantity": 1,
+    "purchase_date": "2024-12-24T16:49:38Z"
+  },
+  {
+    "invoice_id": "INV00033",
+    "customer_id": "CUST006",
+    "product_id": "WMK_P138",
+    "quantity": 1,
+    "purchase_date": "2024-11-20T16:28:59Z"
+  },
+  {
+    "invoice_id": "INV00034",
+    "customer_id": "CUST006",
+    "product_id": "WMK_P007",
+    "quantity": 2,
+    "purchase_date": "2024-08-09T09:22:48Z"
+  },
+  {
+    "invoice_id": "INV00034",
+    "customer_id": "CUST006",
+    "product_id": "WMK_P017",
+    "quantity": 1,
+    "purchase_date": "2024-08-09T09:22:48Z"
+  },
+  {
+    "invoice_id": "INV00035",
+    "customer_id": "CUST006",
+    "product_id": "WMK_P132",
+    "quantity": 2,
+    "purchase_date": "2024-09-29T17:55:15Z"
+  },
+  {
+    "invoice_id": "INV00035",
+    "customer_id": "CUST006",
+    "product_id": "WMK_P189",
+    "quantity": 2,
+    "purchase_date": "2024-09-29T17:55:15Z"
+  },
+  {
+    "invoice_id": "INV00036",
+    "customer_id": "CUST007",
+    "product_id": "WMK_P075",
+    "quantity": 1,
+    "purchase_date": "2024-10-09T11:11:38Z"
+  },
+  {
+    "invoice_id": "INV00036",
+    "customer_id": "CUST007",
+    "product_id": "WMK_P071",
+    "quantity": 1,
+    "purchase_date": "2024-10-09T11:11:38Z"
+  },
+  {
+    "invoice_id": "INV00036",
+    "customer_id": "CUST007",
+    "product_id": "WMK_P002",
+    "quantity": 3,
+    "purchase_date": "2024-10-09T11:11:38Z"
+  },
+  {
+    "invoice_id": "INV00036",
+    "customer_id": "CUST007",
+    "product_id": "WMK_P006",
+    "quantity": 2,
+    "purchase_date": "2024-10-09T11:11:38Z"
+  },
+  {
+    "invoice_id": "INV00037",
+    "customer_id": "CUST007",
+    "product_id": "WMK_P015",
+    "quantity": 3,
+    "purchase_date": "2025-07-02T14:30:01Z"
+  },
+  {
+    "invoice_id": "INV00037",
+    "customer_id": "CUST007",
+    "product_id": "WMK_P152",
+    "quantity": 1,
+    "purchase_date": "2025-07-02T14:30:01Z"
+  },
+  {
+    "invoice_id": "INV00038",
+    "customer_id": "CUST007",
+    "product_id": "WMK_P098",
+    "quantity": 2,
+    "purchase_date": "2024-12-28T02:00:44Z"
+  },
+  {
+    "invoice_id": "INV00038",
+    "customer_id": "CUST007",
+    "product_id": "WMK_P014",
+    "quantity": 3,
+    "purchase_date": "2024-12-28T02:00:44Z"
+  },
+  {
+    "invoice_id": "INV00038",
+    "customer_id": "CUST007",
+    "product_id": "WMK_P154",
+    "quantity": 3,
+    "purchase_date": "2024-12-28T02:00:44Z"
+  },
+  {
+    "invoice_id": "INV00038",
+    "customer_id": "CUST007",
+    "product_id": "WMK_P101",
+    "quantity": 2,
+    "purchase_date": "2024-12-28T02:00:44Z"
+  },
+  {
+    "invoice_id": "INV00038",
+    "customer_id": "CUST007",
+    "product_id": "WMK_P093",
+    "quantity": 2,
+    "purchase_date": "2024-12-28T02:00:44Z"
+  },
+  {
+    "invoice_id": "INV00039",
+    "customer_id": "CUST008",
+    "product_id": "WMK_P054",
+    "quantity": 1,
+    "purchase_date": "2024-07-14T03:14:24Z"
+  },
+  {
+    "invoice_id": "INV00039",
+    "customer_id": "CUST008",
+    "product_id": "WMK_P156",
+    "quantity": 2,
+    "purchase_date": "2024-07-14T03:14:24Z"
+  },
+  {
+    "invoice_id": "INV00040",
+    "customer_id": "CUST008",
+    "product_id": "WMK_P141",
+    "quantity": 2,
+    "purchase_date": "2025-06-30T16:04:43Z"
+  },
+  {
+    "invoice_id": "INV00040",
+    "customer_id": "CUST008",
+    "product_id": "WMK_P095",
+    "quantity": 1,
+    "purchase_date": "2025-06-30T16:04:43Z"
+  },
+  {
+    "invoice_id": "INV00040",
+    "customer_id": "CUST008",
+    "product_id": "WMK_P065",
+    "quantity": 2,
+    "purchase_date": "2025-06-30T16:04:43Z"
+  },
+  {
+    "invoice_id": "INV00041",
+    "customer_id": "CUST008",
+    "product_id": "WMK_P044",
+    "quantity": 1,
+    "purchase_date": "2025-03-01T16:59:58Z"
+  },
+  {
+    "invoice_id": "INV00041",
+    "customer_id": "CUST008",
+    "product_id": "WMK_P104",
+    "quantity": 2,
+    "purchase_date": "2025-03-01T16:59:58Z"
+  },
+  {
+    "invoice_id": "INV00042",
+    "customer_id": "CUST008",
+    "product_id": "WMK_P169",
+    "quantity": 2,
+    "purchase_date": "2025-05-09T10:28:01Z"
+  },
+  {
+    "invoice_id": "INV00042",
+    "customer_id": "CUST008",
+    "product_id": "WMK_P072",
+    "quantity": 3,
+    "purchase_date": "2025-05-09T10:28:01Z"
+  },
+  {
+    "invoice_id": "INV00042",
+    "customer_id": "CUST008",
+    "product_id": "WMK_P181",
+    "quantity": 3,
+    "purchase_date": "2025-05-09T10:28:01Z"
+  },
+  {
+    "invoice_id": "INV00042",
+    "customer_id": "CUST008",
+    "product_id": "WMK_P197",
+    "quantity": 2,
+    "purchase_date": "2025-05-09T10:28:01Z"
+  },
+  {
+    "invoice_id": "INV00042",
+    "customer_id": "CUST008",
+    "product_id": "WMK_P119",
+    "quantity": 2,
+    "purchase_date": "2025-05-09T10:28:01Z"
+  },
+  {
+    "invoice_id": "INV00043",
+    "customer_id": "CUST008",
+    "product_id": "WMK_P109",
+    "quantity": 1,
+    "purchase_date": "2025-06-09T23:10:32Z"
+  },
+  {
+    "invoice_id": "INV00044",
+    "customer_id": "CUST009",
+    "product_id": "WMK_P040",
+    "quantity": 1,
+    "purchase_date": "2024-07-23T07:29:08Z"
+  },
+  {
+    "invoice_id": "INV00044",
+    "customer_id": "CUST009",
+    "product_id": "WMK_P143",
+    "quantity": 3,
+    "purchase_date": "2024-07-23T07:29:08Z"
+  },
+  {
+    "invoice_id": "INV00045",
+    "customer_id": "CUST009",
+    "product_id": "WMK_P122",
+    "quantity": 3,
+    "purchase_date": "2024-07-22T10:30:11Z"
+  },
+  {
+    "invoice_id": "INV00045",
+    "customer_id": "CUST009",
+    "product_id": "WMK_P120",
+    "quantity": 1,
+    "purchase_date": "2024-07-22T10:30:11Z"
+  },
+  {
+    "invoice_id": "INV00046",
+    "customer_id": "CUST009",
+    "product_id": "WMK_P109",
+    "quantity": 3,
+    "purchase_date": "2024-12-17T13:00:23Z"
+  },
+  {
+    "invoice_id": "INV00046",
+    "customer_id": "CUST009",
+    "product_id": "WMK_P177",
+    "quantity": 1,
+    "purchase_date": "2024-12-17T13:00:23Z"
+  },
+  {
+    "invoice_id": "INV00047",
+    "customer_id": "CUST009",
+    "product_id": "WMK_P183",
+    "quantity": 2,
+    "purchase_date": "2024-12-28T00:09:04Z"
+  },
+  {
+    "invoice_id": "INV00047",
+    "customer_id": "CUST009",
+    "product_id": "WMK_P171",
+    "quantity": 1,
+    "purchase_date": "2024-12-28T00:09:04Z"
+  },
+  {
+    "invoice_id": "INV00047",
+    "customer_id": "CUST009",
+    "product_id": "WMK_P159",
+    "quantity": 1,
+    "purchase_date": "2024-12-28T00:09:04Z"
+  },
+  {
+    "invoice_id": "INV00048",
+    "customer_id": "CUST009",
+    "product_id": "WMK_P195",
+    "quantity": 2,
+    "purchase_date": "2025-03-08T11:10:10Z"
+  },
+  {
+    "invoice_id": "INV00049",
+    "customer_id": "CUST009",
+    "product_id": "WMK_P174",
+    "quantity": 3,
+    "purchase_date": "2025-06-24T16:19:00Z"
+  },
+  {
+    "invoice_id": "INV00049",
+    "customer_id": "CUST009",
+    "product_id": "WMK_P076",
+    "quantity": 3,
+    "purchase_date": "2025-06-24T16:19:00Z"
+  },
+  {
+    "invoice_id": "INV00049",
+    "customer_id": "CUST009",
+    "product_id": "WMK_P113",
+    "quantity": 3,
+    "purchase_date": "2025-06-24T16:19:00Z"
+  },
+  {
+    "invoice_id": "INV00049",
+    "customer_id": "CUST009",
+    "product_id": "WMK_P093",
+    "quantity": 2,
+    "purchase_date": "2025-06-24T16:19:00Z"
+  },
+  {
+    "invoice_id": "INV00050",
+    "customer_id": "CUST009",
+    "product_id": "WMK_P118",
+    "quantity": 1,
+    "purchase_date": "2025-06-24T08:27:37Z"
+  },
+  {
+    "invoice_id": "INV00050",
+    "customer_id": "CUST009",
+    "product_id": "WMK_P034",
+    "quantity": 1,
+    "purchase_date": "2025-06-24T08:27:37Z"
+  },
+  {
+    "invoice_id": "INV00051",
+    "customer_id": "CUST010",
+    "product_id": "WMK_P140",
+    "quantity": 1,
+    "purchase_date": "2025-02-08T08:19:37Z"
+  },
+  {
+    "invoice_id": "INV00051",
+    "customer_id": "CUST010",
+    "product_id": "WMK_P194",
+    "quantity": 3,
+    "purchase_date": "2025-02-08T08:19:37Z"
+  },
+  {
+    "invoice_id": "INV00051",
+    "customer_id": "CUST010",
+    "product_id": "WMK_P100",
+    "quantity": 3,
+    "purchase_date": "2025-02-08T08:19:37Z"
+  },
+  {
+    "invoice_id": "INV00051",
+    "customer_id": "CUST010",
+    "product_id": "WMK_P134",
+    "quantity": 1,
+    "purchase_date": "2025-02-08T08:19:37Z"
+  },
+  {
+    "invoice_id": "INV00051",
+    "customer_id": "CUST010",
+    "product_id": "WMK_P020",
+    "quantity": 1,
+    "purchase_date": "2025-02-08T08:19:37Z"
+  },
+  {
+    "invoice_id": "INV00052",
+    "customer_id": "CUST010",
+    "product_id": "WMK_P181",
+    "quantity": 1,
+    "purchase_date": "2024-09-12T20:58:00Z"
+  },
+  {
+    "invoice_id": "INV00052",
+    "customer_id": "CUST010",
+    "product_id": "WMK_P079",
+    "quantity": 3,
+    "purchase_date": "2024-09-12T20:58:00Z"
+  },
+  {
+    "invoice_id": "INV00053",
+    "customer_id": "CUST010",
+    "product_id": "WMK_P093",
+    "quantity": 1,
+    "purchase_date": "2024-11-05T08:48:29Z"
+  },
+  {
+    "invoice_id": "INV00053",
+    "customer_id": "CUST010",
+    "product_id": "WMK_P031",
+    "quantity": 2,
+    "purchase_date": "2024-11-05T08:48:29Z"
+  },
+  {
+    "invoice_id": "INV00053",
+    "customer_id": "CUST010",
+    "product_id": "WMK_P037",
+    "quantity": 1,
+    "purchase_date": "2024-11-05T08:48:29Z"
+  },
+  {
+    "invoice_id": "INV00053",
+    "customer_id": "CUST010",
+    "product_id": "WMK_P146",
+    "quantity": 1,
+    "purchase_date": "2024-11-05T08:48:29Z"
+  },
+  {
+    "invoice_id": "INV00054",
+    "customer_id": "CUST010",
+    "product_id": "WMK_P194",
+    "quantity": 1,
+    "purchase_date": "2025-01-28T00:06:42Z"
+  },
+  {
+    "invoice_id": "INV00054",
+    "customer_id": "CUST010",
+    "product_id": "WMK_P120",
+    "quantity": 1,
+    "purchase_date": "2025-01-28T00:06:42Z"
+  },
+  {
+    "invoice_id": "INV00054",
+    "customer_id": "CUST010",
+    "product_id": "WMK_P022",
+    "quantity": 1,
+    "purchase_date": "2025-01-28T00:06:42Z"
+  },
+  {
+    "invoice_id": "INV00054",
+    "customer_id": "CUST010",
+    "product_id": "WMK_P030",
+    "quantity": 3,
+    "purchase_date": "2025-01-28T00:06:42Z"
+  },
+  {
+    "invoice_id": "INV00054",
+    "customer_id": "CUST010",
+    "product_id": "WMK_P076",
+    "quantity": 2,
+    "purchase_date": "2025-01-28T00:06:42Z"
+  },
+  {
+    "invoice_id": "INV00055",
+    "customer_id": "CUST010",
+    "product_id": "WMK_P097",
+    "quantity": 1,
+    "purchase_date": "2024-08-04T21:48:38Z"
+  },
+  {
+    "invoice_id": "INV00055",
+    "customer_id": "CUST010",
+    "product_id": "WMK_P074",
+    "quantity": 3,
+    "purchase_date": "2024-08-04T21:48:38Z"
+  },
+  {
+    "invoice_id": "INV00055",
+    "customer_id": "CUST010",
+    "product_id": "WMK_P128",
+    "quantity": 1,
+    "purchase_date": "2024-08-04T21:48:38Z"
+  },
+  {
+    "invoice_id": "INV00056",
+    "customer_id": "CUST010",
+    "product_id": "WMK_P178",
+    "quantity": 3,
+    "purchase_date": "2024-08-05T15:03:16Z"
+  },
+  {
+    "invoice_id": "INV00056",
+    "customer_id": "CUST010",
+    "product_id": "WMK_P143",
+    "quantity": 3,
+    "purchase_date": "2024-08-05T15:03:16Z"
+  },
+  {
+    "invoice_id": "INV00056",
+    "customer_id": "CUST010",
+    "product_id": "WMK_P054",
+    "quantity": 3,
+    "purchase_date": "2024-08-05T15:03:16Z"
+  },
+  {
+    "invoice_id": "INV00056",
+    "customer_id": "CUST010",
+    "product_id": "WMK_P152",
+    "quantity": 3,
+    "purchase_date": "2024-08-05T15:03:16Z"
+  },
+  {
+    "invoice_id": "INV00057",
+    "customer_id": "CUST010",
+    "product_id": "WMK_P191",
+    "quantity": 3,
+    "purchase_date": "2024-12-02T00:54:32Z"
+  },
+  {
+    "invoice_id": "INV00057",
+    "customer_id": "CUST010",
+    "product_id": "WMK_P080",
+    "quantity": 1,
+    "purchase_date": "2024-12-02T00:54:32Z"
+  },
+  {
+    "invoice_id": "INV00057",
+    "customer_id": "CUST010",
+    "product_id": "WMK_P115",
+    "quantity": 2,
+    "purchase_date": "2024-12-02T00:54:32Z"
+  },
+  {
+    "invoice_id": "INV00058",
+    "customer_id": "CUST011",
+    "product_id": "WMK_P105",
+    "quantity": 2,
+    "purchase_date": "2025-06-18T21:10:43Z"
+  },
+  {
+    "invoice_id": "INV00058",
+    "customer_id": "CUST011",
+    "product_id": "WMK_P040",
+    "quantity": 1,
+    "purchase_date": "2025-06-18T21:10:43Z"
+  },
+  {
+    "invoice_id": "INV00058",
+    "customer_id": "CUST011",
+    "product_id": "WMK_P089",
+    "quantity": 1,
+    "purchase_date": "2025-06-18T21:10:43Z"
+  },
+  {
+    "invoice_id": "INV00058",
+    "customer_id": "CUST011",
+    "product_id": "WMK_P142",
+    "quantity": 3,
+    "purchase_date": "2025-06-18T21:10:43Z"
+  },
+  {
+    "invoice_id": "INV00058",
+    "customer_id": "CUST011",
+    "product_id": "WMK_P131",
+    "quantity": 3,
+    "purchase_date": "2025-06-18T21:10:43Z"
+  },
+  {
+    "invoice_id": "INV00059",
+    "customer_id": "CUST011",
+    "product_id": "WMK_P186",
+    "quantity": 3,
+    "purchase_date": "2024-07-25T23:25:03Z"
+  },
+  {
+    "invoice_id": "INV00059",
+    "customer_id": "CUST011",
+    "product_id": "WMK_P175",
+    "quantity": 3,
+    "purchase_date": "2024-07-25T23:25:03Z"
+  },
+  {
+    "invoice_id": "INV00059",
+    "customer_id": "CUST011",
+    "product_id": "WMK_P181",
+    "quantity": 3,
+    "purchase_date": "2024-07-25T23:25:03Z"
+  },
+  {
+    "invoice_id": "INV00059",
+    "customer_id": "CUST011",
+    "product_id": "WMK_P006",
+    "quantity": 3,
+    "purchase_date": "2024-07-25T23:25:03Z"
+  },
+  {
+    "invoice_id": "INV00059",
+    "customer_id": "CUST011",
+    "product_id": "WMK_P031",
+    "quantity": 2,
+    "purchase_date": "2024-07-25T23:25:03Z"
+  },
+  {
+    "invoice_id": "INV00060",
+    "customer_id": "CUST011",
+    "product_id": "WMK_P036",
+    "quantity": 1,
+    "purchase_date": "2025-07-13T23:33:00Z"
+  },
+  {
+    "invoice_id": "INV00060",
+    "customer_id": "CUST011",
+    "product_id": "WMK_P018",
+    "quantity": 3,
+    "purchase_date": "2025-07-13T23:33:00Z"
+  },
+  {
+    "invoice_id": "INV00060",
+    "customer_id": "CUST011",
+    "product_id": "WMK_P028",
+    "quantity": 3,
+    "purchase_date": "2025-07-13T23:33:00Z"
+  },
+  {
+    "invoice_id": "INV00061",
+    "customer_id": "CUST011",
+    "product_id": "WMK_P095",
+    "quantity": 2,
+    "purchase_date": "2025-05-29T19:44:34Z"
+  },
+  {
+    "invoice_id": "INV00061",
+    "customer_id": "CUST011",
+    "product_id": "WMK_P127",
+    "quantity": 1,
+    "purchase_date": "2025-05-29T19:44:34Z"
+  },
+  {
+    "invoice_id": "INV00061",
+    "customer_id": "CUST011",
+    "product_id": "WMK_P181",
+    "quantity": 3,
+    "purchase_date": "2025-05-29T19:44:34Z"
+  },
+  {
+    "invoice_id": "INV00061",
+    "customer_id": "CUST011",
+    "product_id": "WMK_P149",
+    "quantity": 1,
+    "purchase_date": "2025-05-29T19:44:34Z"
+  },
+  {
+    "invoice_id": "INV00062",
+    "customer_id": "CUST012",
+    "product_id": "WMK_P042",
+    "quantity": 1,
+    "purchase_date": "2025-03-03T00:32:48Z"
+  },
+  {
+    "invoice_id": "INV00062",
+    "customer_id": "CUST012",
+    "product_id": "WMK_P174",
+    "quantity": 3,
+    "purchase_date": "2025-03-03T00:32:48Z"
+  },
+  {
+    "invoice_id": "INV00062",
+    "customer_id": "CUST012",
+    "product_id": "WMK_P085",
+    "quantity": 3,
+    "purchase_date": "2025-03-03T00:32:48Z"
+  },
+  {
+    "invoice_id": "INV00063",
+    "customer_id": "CUST012",
+    "product_id": "WMK_P157",
+    "quantity": 1,
+    "purchase_date": "2025-03-06T21:57:03Z"
+  },
+  {
+    "invoice_id": "INV00063",
+    "customer_id": "CUST012",
+    "product_id": "WMK_P129",
+    "quantity": 3,
+    "purchase_date": "2025-03-06T21:57:03Z"
+  },
+  {
+    "invoice_id": "INV00063",
+    "customer_id": "CUST012",
+    "product_id": "WMK_P088",
+    "quantity": 3,
+    "purchase_date": "2025-03-06T21:57:03Z"
+  },
+  {
+    "invoice_id": "INV00063",
+    "customer_id": "CUST012",
+    "product_id": "WMK_P044",
+    "quantity": 2,
+    "purchase_date": "2025-03-06T21:57:03Z"
+  },
+  {
+    "invoice_id": "INV00063",
+    "customer_id": "CUST012",
+    "product_id": "WMK_P031",
+    "quantity": 2,
+    "purchase_date": "2025-03-06T21:57:03Z"
+  },
+  {
+    "invoice_id": "INV00064",
+    "customer_id": "CUST012",
+    "product_id": "WMK_P041",
+    "quantity": 3,
+    "purchase_date": "2025-03-13T04:27:49Z"
+  },
+  {
+    "invoice_id": "INV00064",
+    "customer_id": "CUST012",
+    "product_id": "WMK_P184",
+    "quantity": 2,
+    "purchase_date": "2025-03-13T04:27:49Z"
+  },
+  {
+    "invoice_id": "INV00064",
+    "customer_id": "CUST012",
+    "product_id": "WMK_P032",
+    "quantity": 3,
+    "purchase_date": "2025-03-13T04:27:49Z"
+  },
+  {
+    "invoice_id": "INV00064",
+    "customer_id": "CUST012",
+    "product_id": "WMK_P013",
+    "quantity": 2,
+    "purchase_date": "2025-03-13T04:27:49Z"
+  },
+  {
+    "invoice_id": "INV00064",
+    "customer_id": "CUST012",
+    "product_id": "WMK_P056",
+    "quantity": 3,
+    "purchase_date": "2025-03-13T04:27:49Z"
+  },
+  {
+    "invoice_id": "INV00065",
+    "customer_id": "CUST012",
+    "product_id": "WMK_P141",
+    "quantity": 2,
+    "purchase_date": "2025-04-23T10:23:11Z"
+  },
+  {
+    "invoice_id": "INV00065",
+    "customer_id": "CUST012",
+    "product_id": "WMK_P113",
+    "quantity": 2,
+    "purchase_date": "2025-04-23T10:23:11Z"
+  },
+  {
+    "invoice_id": "INV00065",
+    "customer_id": "CUST012",
+    "product_id": "WMK_P146",
+    "quantity": 3,
+    "purchase_date": "2025-04-23T10:23:11Z"
+  },
+  {
+    "invoice_id": "INV00065",
+    "customer_id": "CUST012",
+    "product_id": "WMK_P054",
+    "quantity": 1,
+    "purchase_date": "2025-04-23T10:23:11Z"
+  },
+  {
+    "invoice_id": "INV00066",
+    "customer_id": "CUST012",
+    "product_id": "WMK_P081",
+    "quantity": 3,
+    "purchase_date": "2025-06-15T10:05:55Z"
+  },
+  {
+    "invoice_id": "INV00066",
+    "customer_id": "CUST012",
+    "product_id": "WMK_P057",
+    "quantity": 1,
+    "purchase_date": "2025-06-15T10:05:55Z"
+  },
+  {
+    "invoice_id": "INV00067",
+    "customer_id": "CUST012",
+    "product_id": "WMK_P190",
+    "quantity": 2,
+    "purchase_date": "2025-06-27T19:52:37Z"
+  },
+  {
+    "invoice_id": "INV00067",
+    "customer_id": "CUST012",
+    "product_id": "WMK_P044",
+    "quantity": 1,
+    "purchase_date": "2025-06-27T19:52:37Z"
+  },
+  {
+    "invoice_id": "INV00067",
+    "customer_id": "CUST012",
+    "product_id": "WMK_P076",
+    "quantity": 2,
+    "purchase_date": "2025-06-27T19:52:37Z"
+  },
+  {
+    "invoice_id": "INV00067",
+    "customer_id": "CUST012",
+    "product_id": "WMK_P167",
+    "quantity": 2,
+    "purchase_date": "2025-06-27T19:52:37Z"
+  },
+  {
+    "invoice_id": "INV00068",
+    "customer_id": "CUST013",
+    "product_id": "WMK_P050",
+    "quantity": 1,
+    "purchase_date": "2024-11-07T14:48:35Z"
+  },
+  {
+    "invoice_id": "INV00068",
+    "customer_id": "CUST013",
+    "product_id": "WMK_P106",
+    "quantity": 2,
+    "purchase_date": "2024-11-07T14:48:35Z"
+  },
+  {
+    "invoice_id": "INV00068",
+    "customer_id": "CUST013",
+    "product_id": "WMK_P024",
+    "quantity": 1,
+    "purchase_date": "2024-11-07T14:48:35Z"
+  },
+  {
+    "invoice_id": "INV00068",
+    "customer_id": "CUST013",
+    "product_id": "WMK_P037",
+    "quantity": 3,
+    "purchase_date": "2024-11-07T14:48:35Z"
+  },
+  {
+    "invoice_id": "INV00068",
+    "customer_id": "CUST013",
+    "product_id": "WMK_P159",
+    "quantity": 2,
+    "purchase_date": "2024-11-07T14:48:35Z"
+  },
+  {
+    "invoice_id": "INV00069",
+    "customer_id": "CUST013",
+    "product_id": "WMK_P200",
+    "quantity": 1,
+    "purchase_date": "2025-03-08T01:38:09Z"
+  },
+  {
+    "invoice_id": "INV00069",
+    "customer_id": "CUST013",
+    "product_id": "WMK_P011",
+    "quantity": 3,
+    "purchase_date": "2025-03-08T01:38:09Z"
+  },
+  {
+    "invoice_id": "INV00070",
+    "customer_id": "CUST013",
+    "product_id": "WMK_P200",
+    "quantity": 3,
+    "purchase_date": "2024-07-24T05:15:39Z"
+  },
+  {
+    "invoice_id": "INV00070",
+    "customer_id": "CUST013",
+    "product_id": "WMK_P187",
+    "quantity": 3,
+    "purchase_date": "2024-07-24T05:15:39Z"
+  },
+  {
+    "invoice_id": "INV00071",
+    "customer_id": "CUST013",
+    "product_id": "WMK_P117",
+    "quantity": 3,
+    "purchase_date": "2025-01-18T23:17:47Z"
+  },
+  {
+    "invoice_id": "INV00072",
+    "customer_id": "CUST014",
+    "product_id": "WMK_P173",
+    "quantity": 1,
+    "purchase_date": "2025-06-29T17:09:23Z"
+  },
+  {
+    "invoice_id": "INV00072",
+    "customer_id": "CUST014",
+    "product_id": "WMK_P109",
+    "quantity": 2,
+    "purchase_date": "2025-06-29T17:09:23Z"
+  },
+  {
+    "invoice_id": "INV00072",
+    "customer_id": "CUST014",
+    "product_id": "WMK_P066",
+    "quantity": 2,
+    "purchase_date": "2025-06-29T17:09:23Z"
+  },
+  {
+    "invoice_id": "INV00072",
+    "customer_id": "CUST014",
+    "product_id": "WMK_P086",
+    "quantity": 1,
+    "purchase_date": "2025-06-29T17:09:23Z"
+  },
+  {
+    "invoice_id": "INV00072",
+    "customer_id": "CUST014",
+    "product_id": "WMK_P068",
+    "quantity": 1,
+    "purchase_date": "2025-06-29T17:09:23Z"
+  },
+  {
+    "invoice_id": "INV00073",
+    "customer_id": "CUST014",
+    "product_id": "WMK_P143",
+    "quantity": 3,
+    "purchase_date": "2024-09-21T14:58:35Z"
+  },
+  {
+    "invoice_id": "INV00073",
+    "customer_id": "CUST014",
+    "product_id": "WMK_P123",
+    "quantity": 3,
+    "purchase_date": "2024-09-21T14:58:35Z"
+  },
+  {
+    "invoice_id": "INV00073",
+    "customer_id": "CUST014",
+    "product_id": "WMK_P130",
+    "quantity": 2,
+    "purchase_date": "2024-09-21T14:58:35Z"
+  },
+  {
+    "invoice_id": "INV00073",
+    "customer_id": "CUST014",
+    "product_id": "WMK_P128",
+    "quantity": 1,
+    "purchase_date": "2024-09-21T14:58:35Z"
+  },
+  {
+    "invoice_id": "INV00074",
+    "customer_id": "CUST014",
+    "product_id": "WMK_P124",
+    "quantity": 1,
+    "purchase_date": "2025-01-24T09:55:39Z"
+  },
+  {
+    "invoice_id": "INV00074",
+    "customer_id": "CUST014",
+    "product_id": "WMK_P094",
+    "quantity": 2,
+    "purchase_date": "2025-01-24T09:55:39Z"
+  },
+  {
+    "invoice_id": "INV00074",
+    "customer_id": "CUST014",
+    "product_id": "WMK_P185",
+    "quantity": 3,
+    "purchase_date": "2025-01-24T09:55:39Z"
+  },
+  {
+    "invoice_id": "INV00074",
+    "customer_id": "CUST014",
+    "product_id": "WMK_P119",
+    "quantity": 1,
+    "purchase_date": "2025-01-24T09:55:39Z"
+  },
+  {
+    "invoice_id": "INV00074",
+    "customer_id": "CUST014",
+    "product_id": "WMK_P003",
+    "quantity": 2,
+    "purchase_date": "2025-01-24T09:55:39Z"
+  },
+  {
+    "invoice_id": "INV00075",
+    "customer_id": "CUST014",
+    "product_id": "WMK_P074",
+    "quantity": 2,
+    "purchase_date": "2025-02-10T22:32:44Z"
+  },
+  {
+    "invoice_id": "INV00075",
+    "customer_id": "CUST014",
+    "product_id": "WMK_P001",
+    "quantity": 3,
+    "purchase_date": "2025-02-10T22:32:44Z"
+  },
+  {
+    "invoice_id": "INV00075",
+    "customer_id": "CUST014",
+    "product_id": "WMK_P099",
+    "quantity": 3,
+    "purchase_date": "2025-02-10T22:32:44Z"
+  },
+  {
+    "invoice_id": "INV00075",
+    "customer_id": "CUST014",
+    "product_id": "WMK_P093",
+    "quantity": 1,
+    "purchase_date": "2025-02-10T22:32:44Z"
+  },
+  {
+    "invoice_id": "INV00076",
+    "customer_id": "CUST014",
+    "product_id": "WMK_P151",
+    "quantity": 1,
+    "purchase_date": "2025-04-15T11:31:14Z"
+  },
+  {
+    "invoice_id": "INV00076",
+    "customer_id": "CUST014",
+    "product_id": "WMK_P199",
+    "quantity": 2,
+    "purchase_date": "2025-04-15T11:31:14Z"
+  },
+  {
+    "invoice_id": "INV00076",
+    "customer_id": "CUST014",
+    "product_id": "WMK_P011",
+    "quantity": 3,
+    "purchase_date": "2025-04-15T11:31:14Z"
+  },
+  {
+    "invoice_id": "INV00076",
+    "customer_id": "CUST014",
+    "product_id": "WMK_P083",
+    "quantity": 1,
+    "purchase_date": "2025-04-15T11:31:14Z"
+  },
+  {
+    "invoice_id": "INV00076",
+    "customer_id": "CUST014",
+    "product_id": "WMK_P003",
+    "quantity": 2,
+    "purchase_date": "2025-04-15T11:31:14Z"
+  },
+  {
+    "invoice_id": "INV00077",
+    "customer_id": "CUST014",
+    "product_id": "WMK_P139",
+    "quantity": 2,
+    "purchase_date": "2024-09-25T14:41:48Z"
+  },
+  {
+    "invoice_id": "INV00077",
+    "customer_id": "CUST014",
+    "product_id": "WMK_P085",
+    "quantity": 1,
+    "purchase_date": "2024-09-25T14:41:48Z"
+  },
+  {
+    "invoice_id": "INV00077",
+    "customer_id": "CUST014",
+    "product_id": "WMK_P049",
+    "quantity": 1,
+    "purchase_date": "2024-09-25T14:41:48Z"
+  },
+  {
+    "invoice_id": "INV00077",
+    "customer_id": "CUST014",
+    "product_id": "WMK_P104",
+    "quantity": 2,
+    "purchase_date": "2024-09-25T14:41:48Z"
+  },
+  {
+    "invoice_id": "INV00077",
+    "customer_id": "CUST014",
+    "product_id": "WMK_P131",
+    "quantity": 3,
+    "purchase_date": "2024-09-25T14:41:48Z"
+  },
+  {
+    "invoice_id": "INV00078",
+    "customer_id": "CUST014",
+    "product_id": "WMK_P121",
+    "quantity": 1,
+    "purchase_date": "2025-06-24T13:08:49Z"
+  },
+  {
+    "invoice_id": "INV00078",
+    "customer_id": "CUST014",
+    "product_id": "WMK_P197",
+    "quantity": 2,
+    "purchase_date": "2025-06-24T13:08:49Z"
+  },
+  {
+    "invoice_id": "INV00078",
+    "customer_id": "CUST014",
+    "product_id": "WMK_P023",
+    "quantity": 2,
+    "purchase_date": "2025-06-24T13:08:49Z"
+  },
+  {
+    "invoice_id": "INV00079",
+    "customer_id": "CUST015",
+    "product_id": "WMK_P088",
+    "quantity": 1,
+    "purchase_date": "2025-03-17T16:39:22Z"
+  },
+  {
+    "invoice_id": "INV00080",
+    "customer_id": "CUST015",
+    "product_id": "WMK_P012",
+    "quantity": 3,
+    "purchase_date": "2024-07-25T06:33:48Z"
+  },
+  {
+    "invoice_id": "INV00080",
+    "customer_id": "CUST015",
+    "product_id": "WMK_P097",
+    "quantity": 2,
+    "purchase_date": "2024-07-25T06:33:48Z"
+  },
+  {
+    "invoice_id": "INV00080",
+    "customer_id": "CUST015",
+    "product_id": "WMK_P095",
+    "quantity": 3,
+    "purchase_date": "2024-07-25T06:33:48Z"
+  },
+  {
+    "invoice_id": "INV00080",
+    "customer_id": "CUST015",
+    "product_id": "WMK_P087",
+    "quantity": 1,
+    "purchase_date": "2024-07-25T06:33:48Z"
+  },
+  {
+    "invoice_id": "INV00081",
+    "customer_id": "CUST015",
+    "product_id": "WMK_P072",
+    "quantity": 3,
+    "purchase_date": "2025-02-19T01:25:09Z"
+  },
+  {
+    "invoice_id": "INV00081",
+    "customer_id": "CUST015",
+    "product_id": "WMK_P180",
+    "quantity": 3,
+    "purchase_date": "2025-02-19T01:25:09Z"
+  },
+  {
+    "invoice_id": "INV00082",
+    "customer_id": "CUST015",
+    "product_id": "WMK_P143",
+    "quantity": 3,
+    "purchase_date": "2025-06-04T02:01:06Z"
+  },
+  {
+    "invoice_id": "INV00082",
+    "customer_id": "CUST015",
+    "product_id": "WMK_P078",
+    "quantity": 2,
+    "purchase_date": "2025-06-04T02:01:06Z"
+  },
+  {
+    "invoice_id": "INV00082",
+    "customer_id": "CUST015",
+    "product_id": "WMK_P159",
+    "quantity": 1,
+    "purchase_date": "2025-06-04T02:01:06Z"
+  },
+  {
+    "invoice_id": "INV00083",
+    "customer_id": "CUST015",
+    "product_id": "WMK_P160",
+    "quantity": 3,
+    "purchase_date": "2024-10-28T23:11:20Z"
+  },
+  {
+    "invoice_id": "INV00084",
+    "customer_id": "CUST015",
+    "product_id": "WMK_P167",
+    "quantity": 3,
+    "purchase_date": "2025-01-29T20:27:00Z"
+  },
+  {
+    "invoice_id": "INV00084",
+    "customer_id": "CUST015",
+    "product_id": "WMK_P074",
+    "quantity": 2,
+    "purchase_date": "2025-01-29T20:27:00Z"
+  },
+  {
+    "invoice_id": "INV00084",
+    "customer_id": "CUST015",
+    "product_id": "WMK_P166",
+    "quantity": 2,
+    "purchase_date": "2025-01-29T20:27:00Z"
+  },
+  {
+    "invoice_id": "INV00085",
+    "customer_id": "CUST015",
+    "product_id": "WMK_P182",
+    "quantity": 3,
+    "purchase_date": "2025-03-06T18:32:01Z"
+  },
+  {
+    "invoice_id": "INV00085",
+    "customer_id": "CUST015",
+    "product_id": "WMK_P014",
+    "quantity": 2,
+    "purchase_date": "2025-03-06T18:32:01Z"
+  },
+  {
+    "invoice_id": "INV00085",
+    "customer_id": "CUST015",
+    "product_id": "WMK_P149",
+    "quantity": 1,
+    "purchase_date": "2025-03-06T18:32:01Z"
+  },
+  {
+    "invoice_id": "INV00085",
+    "customer_id": "CUST015",
+    "product_id": "WMK_P167",
+    "quantity": 1,
+    "purchase_date": "2025-03-06T18:32:01Z"
+  },
+  {
+    "invoice_id": "INV00086",
+    "customer_id": "CUST016",
+    "product_id": "WMK_P109",
+    "quantity": 2,
+    "purchase_date": "2024-11-19T03:09:49Z"
+  },
+  {
+    "invoice_id": "INV00086",
+    "customer_id": "CUST016",
+    "product_id": "WMK_P072",
+    "quantity": 3,
+    "purchase_date": "2024-11-19T03:09:49Z"
+  },
+  {
+    "invoice_id": "INV00086",
+    "customer_id": "CUST016",
+    "product_id": "WMK_P119",
+    "quantity": 3,
+    "purchase_date": "2024-11-19T03:09:49Z"
+  },
+  {
+    "invoice_id": "INV00087",
+    "customer_id": "CUST016",
+    "product_id": "WMK_P095",
+    "quantity": 2,
+    "purchase_date": "2025-06-10T19:22:16Z"
+  },
+  {
+    "invoice_id": "INV00087",
+    "customer_id": "CUST016",
+    "product_id": "WMK_P191",
+    "quantity": 3,
+    "purchase_date": "2025-06-10T19:22:16Z"
+  },
+  {
+    "invoice_id": "INV00087",
+    "customer_id": "CUST016",
+    "product_id": "WMK_P103",
+    "quantity": 1,
+    "purchase_date": "2025-06-10T19:22:16Z"
+  },
+  {
+    "invoice_id": "INV00087",
+    "customer_id": "CUST016",
+    "product_id": "WMK_P031",
+    "quantity": 3,
+    "purchase_date": "2025-06-10T19:22:16Z"
+  },
+  {
+    "invoice_id": "INV00088",
+    "customer_id": "CUST016",
+    "product_id": "WMK_P050",
+    "quantity": 1,
+    "purchase_date": "2024-12-22T11:07:35Z"
+  },
+  {
+    "invoice_id": "INV00088",
+    "customer_id": "CUST016",
+    "product_id": "WMK_P172",
+    "quantity": 2,
+    "purchase_date": "2024-12-22T11:07:35Z"
+  },
+  {
+    "invoice_id": "INV00089",
+    "customer_id": "CUST016",
+    "product_id": "WMK_P031",
+    "quantity": 2,
+    "purchase_date": "2025-05-01T00:48:51Z"
+  },
+  {
+    "invoice_id": "INV00090",
+    "customer_id": "CUST017",
+    "product_id": "WMK_P019",
+    "quantity": 3,
+    "purchase_date": "2025-02-19T09:27:43Z"
+  },
+  {
+    "invoice_id": "INV00090",
+    "customer_id": "CUST017",
+    "product_id": "WMK_P031",
+    "quantity": 2,
+    "purchase_date": "2025-02-19T09:27:43Z"
+  },
+  {
+    "invoice_id": "INV00090",
+    "customer_id": "CUST017",
+    "product_id": "WMK_P060",
+    "quantity": 1,
+    "purchase_date": "2025-02-19T09:27:43Z"
+  },
+  {
+    "invoice_id": "INV00090",
+    "customer_id": "CUST017",
+    "product_id": "WMK_P039",
+    "quantity": 1,
+    "purchase_date": "2025-02-19T09:27:43Z"
+  },
+  {
+    "invoice_id": "INV00090",
+    "customer_id": "CUST017",
+    "product_id": "WMK_P167",
+    "quantity": 2,
+    "purchase_date": "2025-02-19T09:27:43Z"
+  },
+  {
+    "invoice_id": "INV00091",
+    "customer_id": "CUST017",
+    "product_id": "WMK_P122",
+    "quantity": 1,
+    "purchase_date": "2025-02-27T18:52:18Z"
+  },
+  {
+    "invoice_id": "INV00091",
+    "customer_id": "CUST017",
+    "product_id": "WMK_P177",
+    "quantity": 2,
+    "purchase_date": "2025-02-27T18:52:18Z"
+  },
+  {
+    "invoice_id": "INV00092",
+    "customer_id": "CUST017",
+    "product_id": "WMK_P068",
+    "quantity": 1,
+    "purchase_date": "2025-03-08T02:12:39Z"
+  },
+  {
+    "invoice_id": "INV00093",
+    "customer_id": "CUST017",
+    "product_id": "WMK_P025",
+    "quantity": 3,
+    "purchase_date": "2025-05-10T17:08:32Z"
+  },
+  {
+    "invoice_id": "INV00093",
+    "customer_id": "CUST017",
+    "product_id": "WMK_P130",
+    "quantity": 3,
+    "purchase_date": "2025-05-10T17:08:32Z"
+  },
+  {
+    "invoice_id": "INV00093",
+    "customer_id": "CUST017",
+    "product_id": "WMK_P037",
+    "quantity": 3,
+    "purchase_date": "2025-05-10T17:08:32Z"
+  },
+  {
+    "invoice_id": "INV00094",
+    "customer_id": "CUST017",
+    "product_id": "WMK_P194",
+    "quantity": 1,
+    "purchase_date": "2025-04-03T07:03:40Z"
+  },
+  {
+    "invoice_id": "INV00094",
+    "customer_id": "CUST017",
+    "product_id": "WMK_P002",
+    "quantity": 3,
+    "purchase_date": "2025-04-03T07:03:40Z"
+  },
+  {
+    "invoice_id": "INV00094",
+    "customer_id": "CUST017",
+    "product_id": "WMK_P044",
+    "quantity": 1,
+    "purchase_date": "2025-04-03T07:03:40Z"
+  },
+  {
+    "invoice_id": "INV00095",
+    "customer_id": "CUST018",
+    "product_id": "WMK_P172",
+    "quantity": 1,
+    "purchase_date": "2024-10-02T08:19:12Z"
+  },
+  {
+    "invoice_id": "INV00095",
+    "customer_id": "CUST018",
+    "product_id": "WMK_P103",
+    "quantity": 2,
+    "purchase_date": "2024-10-02T08:19:12Z"
+  },
+  {
+    "invoice_id": "INV00095",
+    "customer_id": "CUST018",
+    "product_id": "WMK_P086",
+    "quantity": 3,
+    "purchase_date": "2024-10-02T08:19:12Z"
+  },
+  {
+    "invoice_id": "INV00095",
+    "customer_id": "CUST018",
+    "product_id": "WMK_P141",
+    "quantity": 3,
+    "purchase_date": "2024-10-02T08:19:12Z"
+  },
+  {
+    "invoice_id": "INV00095",
+    "customer_id": "CUST018",
+    "product_id": "WMK_P117",
+    "quantity": 3,
+    "purchase_date": "2024-10-02T08:19:12Z"
+  },
+  {
+    "invoice_id": "INV00096",
+    "customer_id": "CUST018",
+    "product_id": "WMK_P104",
+    "quantity": 1,
+    "purchase_date": "2025-06-08T22:06:31Z"
+  },
+  {
+    "invoice_id": "INV00096",
+    "customer_id": "CUST018",
+    "product_id": "WMK_P009",
+    "quantity": 1,
+    "purchase_date": "2025-06-08T22:06:31Z"
+  },
+  {
+    "invoice_id": "INV00097",
+    "customer_id": "CUST018",
+    "product_id": "WMK_P027",
+    "quantity": 2,
+    "purchase_date": "2025-06-24T06:08:46Z"
+  },
+  {
+    "invoice_id": "INV00097",
+    "customer_id": "CUST018",
+    "product_id": "WMK_P151",
+    "quantity": 1,
+    "purchase_date": "2025-06-24T06:08:46Z"
+  },
+  {
+    "invoice_id": "INV00097",
+    "customer_id": "CUST018",
+    "product_id": "WMK_P060",
+    "quantity": 1,
+    "purchase_date": "2025-06-24T06:08:46Z"
+  },
+  {
+    "invoice_id": "INV00097",
+    "customer_id": "CUST018",
+    "product_id": "WMK_P007",
+    "quantity": 3,
+    "purchase_date": "2025-06-24T06:08:46Z"
+  },
+  {
+    "invoice_id": "INV00098",
+    "customer_id": "CUST018",
+    "product_id": "WMK_P039",
+    "quantity": 2,
+    "purchase_date": "2025-01-18T11:06:05Z"
+  },
+  {
+    "invoice_id": "INV00099",
+    "customer_id": "CUST018",
+    "product_id": "WMK_P021",
+    "quantity": 3,
+    "purchase_date": "2025-03-17T21:12:09Z"
+  },
+  {
+    "invoice_id": "INV00099",
+    "customer_id": "CUST018",
+    "product_id": "WMK_P110",
+    "quantity": 1,
+    "purchase_date": "2025-03-17T21:12:09Z"
+  },
+  {
+    "invoice_id": "INV00099",
+    "customer_id": "CUST018",
+    "product_id": "WMK_P042",
+    "quantity": 1,
+    "purchase_date": "2025-03-17T21:12:09Z"
+  },
+  {
+    "invoice_id": "INV00099",
+    "customer_id": "CUST018",
+    "product_id": "WMK_P167",
+    "quantity": 1,
+    "purchase_date": "2025-03-17T21:12:09Z"
+  },
+  {
+    "invoice_id": "INV00099",
+    "customer_id": "CUST018",
+    "product_id": "WMK_P169",
+    "quantity": 2,
+    "purchase_date": "2025-03-17T21:12:09Z"
+  },
+  {
+    "invoice_id": "INV00100",
+    "customer_id": "CUST019",
+    "product_id": "WMK_P180",
+    "quantity": 2,
+    "purchase_date": "2025-05-13T05:59:31Z"
+  },
+  {
+    "invoice_id": "INV00100",
+    "customer_id": "CUST019",
+    "product_id": "WMK_P063",
+    "quantity": 2,
+    "purchase_date": "2025-05-13T05:59:31Z"
+  },
+  {
+    "invoice_id": "INV00101",
+    "customer_id": "CUST019",
+    "product_id": "WMK_P094",
+    "quantity": 1,
+    "purchase_date": "2024-12-14T20:32:56Z"
+  },
+  {
+    "invoice_id": "INV00101",
+    "customer_id": "CUST019",
+    "product_id": "WMK_P153",
+    "quantity": 3,
+    "purchase_date": "2024-12-14T20:32:56Z"
+  },
+  {
+    "invoice_id": "INV00101",
+    "customer_id": "CUST019",
+    "product_id": "WMK_P095",
+    "quantity": 3,
+    "purchase_date": "2024-12-14T20:32:56Z"
+  },
+  {
+    "invoice_id": "INV00101",
+    "customer_id": "CUST019",
+    "product_id": "WMK_P047",
+    "quantity": 3,
+    "purchase_date": "2024-12-14T20:32:56Z"
+  },
+  {
+    "invoice_id": "INV00102",
+    "customer_id": "CUST019",
+    "product_id": "WMK_P185",
+    "quantity": 3,
+    "purchase_date": "2024-11-08T14:49:45Z"
+  },
+  {
+    "invoice_id": "INV00102",
+    "customer_id": "CUST019",
+    "product_id": "WMK_P086",
+    "quantity": 3,
+    "purchase_date": "2024-11-08T14:49:45Z"
+  },
+  {
+    "invoice_id": "INV00102",
+    "customer_id": "CUST019",
+    "product_id": "WMK_P160",
+    "quantity": 1,
+    "purchase_date": "2024-11-08T14:49:45Z"
+  },
+  {
+    "invoice_id": "INV00102",
+    "customer_id": "CUST019",
+    "product_id": "WMK_P003",
+    "quantity": 3,
+    "purchase_date": "2024-11-08T14:49:45Z"
+  },
+  {
+    "invoice_id": "INV00103",
+    "customer_id": "CUST019",
+    "product_id": "WMK_P070",
+    "quantity": 3,
+    "purchase_date": "2024-09-10T14:39:06Z"
+  },
+  {
+    "invoice_id": "INV00103",
+    "customer_id": "CUST019",
+    "product_id": "WMK_P124",
+    "quantity": 3,
+    "purchase_date": "2024-09-10T14:39:06Z"
+  },
+  {
+    "invoice_id": "INV00103",
+    "customer_id": "CUST019",
+    "product_id": "WMK_P046",
+    "quantity": 3,
+    "purchase_date": "2024-09-10T14:39:06Z"
+  },
+  {
+    "invoice_id": "INV00104",
+    "customer_id": "CUST019",
+    "product_id": "WMK_P045",
+    "quantity": 3,
+    "purchase_date": "2025-04-12T18:43:53Z"
+  },
+  {
+    "invoice_id": "INV00104",
+    "customer_id": "CUST019",
+    "product_id": "WMK_P147",
+    "quantity": 1,
+    "purchase_date": "2025-04-12T18:43:53Z"
+  },
+  {
+    "invoice_id": "INV00104",
+    "customer_id": "CUST019",
+    "product_id": "WMK_P064",
+    "quantity": 1,
+    "purchase_date": "2025-04-12T18:43:53Z"
+  },
+  {
+    "invoice_id": "INV00104",
+    "customer_id": "CUST019",
+    "product_id": "WMK_P110",
+    "quantity": 1,
+    "purchase_date": "2025-04-12T18:43:53Z"
+  },
+  {
+    "invoice_id": "INV00104",
+    "customer_id": "CUST019",
+    "product_id": "WMK_P052",
+    "quantity": 2,
+    "purchase_date": "2025-04-12T18:43:53Z"
+  },
+  {
+    "invoice_id": "INV00105",
+    "customer_id": "CUST019",
+    "product_id": "WMK_P185",
+    "quantity": 3,
+    "purchase_date": "2025-05-06T12:00:26Z"
+  },
+  {
+    "invoice_id": "INV00105",
+    "customer_id": "CUST019",
+    "product_id": "WMK_P198",
+    "quantity": 1,
+    "purchase_date": "2025-05-06T12:00:26Z"
+  },
+  {
+    "invoice_id": "INV00105",
+    "customer_id": "CUST019",
+    "product_id": "WMK_P025",
+    "quantity": 2,
+    "purchase_date": "2025-05-06T12:00:26Z"
+  },
+  {
+    "invoice_id": "INV00106",
+    "customer_id": "CUST019",
+    "product_id": "WMK_P039",
+    "quantity": 2,
+    "purchase_date": "2025-06-04T06:38:28Z"
+  },
+  {
+    "invoice_id": "INV00106",
+    "customer_id": "CUST019",
+    "product_id": "WMK_P090",
+    "quantity": 3,
+    "purchase_date": "2025-06-04T06:38:28Z"
+  },
+  {
+    "invoice_id": "INV00107",
+    "customer_id": "CUST020",
+    "product_id": "WMK_P038",
+    "quantity": 2,
+    "purchase_date": "2025-01-19T17:00:08Z"
+  },
+  {
+    "invoice_id": "INV00107",
+    "customer_id": "CUST020",
+    "product_id": "WMK_P030",
+    "quantity": 2,
+    "purchase_date": "2025-01-19T17:00:08Z"
+  },
+  {
+    "invoice_id": "INV00107",
+    "customer_id": "CUST020",
+    "product_id": "WMK_P153",
+    "quantity": 3,
+    "purchase_date": "2025-01-19T17:00:08Z"
+  },
+  {
+    "invoice_id": "INV00107",
+    "customer_id": "CUST020",
+    "product_id": "WMK_P151",
+    "quantity": 2,
+    "purchase_date": "2025-01-19T17:00:08Z"
+  },
+  {
+    "invoice_id": "INV00108",
+    "customer_id": "CUST020",
+    "product_id": "WMK_P052",
+    "quantity": 1,
+    "purchase_date": "2024-09-26T09:33:35Z"
+  },
+  {
+    "invoice_id": "INV00108",
+    "customer_id": "CUST020",
+    "product_id": "WMK_P097",
+    "quantity": 2,
+    "purchase_date": "2024-09-26T09:33:35Z"
+  },
+  {
+    "invoice_id": "INV00108",
+    "customer_id": "CUST020",
+    "product_id": "WMK_P119",
+    "quantity": 2,
+    "purchase_date": "2024-09-26T09:33:35Z"
+  },
+  {
+    "invoice_id": "INV00108",
+    "customer_id": "CUST020",
+    "product_id": "WMK_P032",
+    "quantity": 2,
+    "purchase_date": "2024-09-26T09:33:35Z"
+  },
+  {
+    "invoice_id": "INV00108",
+    "customer_id": "CUST020",
+    "product_id": "WMK_P051",
+    "quantity": 2,
+    "purchase_date": "2024-09-26T09:33:35Z"
+  },
+  {
+    "invoice_id": "INV00109",
+    "customer_id": "CUST020",
+    "product_id": "WMK_P019",
+    "quantity": 3,
+    "purchase_date": "2025-02-14T17:40:36Z"
+  },
+  {
+    "invoice_id": "INV00109",
+    "customer_id": "CUST020",
+    "product_id": "WMK_P021",
+    "quantity": 2,
+    "purchase_date": "2025-02-14T17:40:36Z"
+  },
+  {
+    "invoice_id": "INV00109",
+    "customer_id": "CUST020",
+    "product_id": "WMK_P130",
+    "quantity": 1,
+    "purchase_date": "2025-02-14T17:40:36Z"
+  },
+  {
+    "invoice_id": "INV00109",
+    "customer_id": "CUST020",
+    "product_id": "WMK_P106",
+    "quantity": 3,
+    "purchase_date": "2025-02-14T17:40:36Z"
+  },
+  {
+    "invoice_id": "INV00109",
+    "customer_id": "CUST020",
+    "product_id": "WMK_P171",
+    "quantity": 3,
+    "purchase_date": "2025-02-14T17:40:36Z"
+  },
+  {
+    "invoice_id": "INV00110",
+    "customer_id": "CUST020",
+    "product_id": "WMK_P087",
+    "quantity": 2,
+    "purchase_date": "2025-02-01T12:55:42Z"
+  },
+  {
+    "invoice_id": "INV00110",
+    "customer_id": "CUST020",
+    "product_id": "WMK_P063",
+    "quantity": 1,
+    "purchase_date": "2025-02-01T12:55:42Z"
+  },
+  {
+    "invoice_id": "INV00110",
+    "customer_id": "CUST020",
+    "product_id": "WMK_P161",
+    "quantity": 1,
+    "purchase_date": "2025-02-01T12:55:42Z"
+  },
+  {
+    "invoice_id": "INV00110",
+    "customer_id": "CUST020",
+    "product_id": "WMK_P031",
+    "quantity": 2,
+    "purchase_date": "2025-02-01T12:55:42Z"
+  },
+  {
+    "invoice_id": "INV00110",
+    "customer_id": "CUST020",
+    "product_id": "WMK_P179",
+    "quantity": 1,
+    "purchase_date": "2025-02-01T12:55:42Z"
+  },
+  {
+    "invoice_id": "INV00111",
+    "customer_id": "CUST020",
+    "product_id": "WMK_P184",
+    "quantity": 3,
+    "purchase_date": "2024-12-17T05:01:43Z"
+  },
+  {
+    "invoice_id": "INV00111",
+    "customer_id": "CUST020",
+    "product_id": "WMK_P118",
+    "quantity": 3,
+    "purchase_date": "2024-12-17T05:01:43Z"
+  },
+  {
+    "invoice_id": "INV00111",
+    "customer_id": "CUST020",
+    "product_id": "WMK_P016",
+    "quantity": 3,
+    "purchase_date": "2024-12-17T05:01:43Z"
+  },
+  {
+    "invoice_id": "INV00111",
+    "customer_id": "CUST020",
+    "product_id": "WMK_P173",
+    "quantity": 1,
+    "purchase_date": "2024-12-17T05:01:43Z"
+  },
+  {
+    "invoice_id": "INV00112",
+    "customer_id": "CUST020",
+    "product_id": "WMK_P122",
+    "quantity": 3,
+    "purchase_date": "2025-02-11T14:45:16Z"
+  },
+  {
+    "invoice_id": "INV00112",
+    "customer_id": "CUST020",
+    "product_id": "WMK_P099",
+    "quantity": 2,
+    "purchase_date": "2025-02-11T14:45:16Z"
+  },
+  {
+    "invoice_id": "INV00112",
+    "customer_id": "CUST020",
+    "product_id": "WMK_P089",
+    "quantity": 2,
+    "purchase_date": "2025-02-11T14:45:16Z"
+  },
+  {
+    "invoice_id": "INV00112",
+    "customer_id": "CUST020",
+    "product_id": "WMK_P040",
+    "quantity": 1,
+    "purchase_date": "2025-02-11T14:45:16Z"
+  },
+  {
+    "invoice_id": "INV00113",
+    "customer_id": "CUST020",
+    "product_id": "WMK_P185",
+    "quantity": 3,
+    "purchase_date": "2025-02-08T03:36:18Z"
+  },
+  {
+    "invoice_id": "INV00114",
+    "customer_id": "CUST021",
+    "product_id": "WMK_P180",
+    "quantity": 1,
+    "purchase_date": "2025-07-06T14:09:33Z"
+  },
+  {
+    "invoice_id": "INV00114",
+    "customer_id": "CUST021",
+    "product_id": "WMK_P152",
+    "quantity": 2,
+    "purchase_date": "2025-07-06T14:09:33Z"
+  },
+  {
+    "invoice_id": "INV00115",
+    "customer_id": "CUST021",
+    "product_id": "WMK_P043",
+    "quantity": 2,
+    "purchase_date": "2025-06-03T08:50:31Z"
+  },
+  {
+    "invoice_id": "INV00115",
+    "customer_id": "CUST021",
+    "product_id": "WMK_P069",
+    "quantity": 1,
+    "purchase_date": "2025-06-03T08:50:31Z"
+  },
+  {
+    "invoice_id": "INV00115",
+    "customer_id": "CUST021",
+    "product_id": "WMK_P132",
+    "quantity": 3,
+    "purchase_date": "2025-06-03T08:50:31Z"
+  },
+  {
+    "invoice_id": "INV00115",
+    "customer_id": "CUST021",
+    "product_id": "WMK_P080",
+    "quantity": 3,
+    "purchase_date": "2025-06-03T08:50:31Z"
+  },
+  {
+    "invoice_id": "INV00115",
+    "customer_id": "CUST021",
+    "product_id": "WMK_P119",
+    "quantity": 2,
+    "purchase_date": "2025-06-03T08:50:31Z"
+  },
+  {
+    "invoice_id": "INV00116",
+    "customer_id": "CUST021",
+    "product_id": "WMK_P176",
+    "quantity": 2,
+    "purchase_date": "2024-08-30T11:48:57Z"
+  },
+  {
+    "invoice_id": "INV00116",
+    "customer_id": "CUST021",
+    "product_id": "WMK_P130",
+    "quantity": 1,
+    "purchase_date": "2024-08-30T11:48:57Z"
+  },
+  {
+    "invoice_id": "INV00116",
+    "customer_id": "CUST021",
+    "product_id": "WMK_P026",
+    "quantity": 1,
+    "purchase_date": "2024-08-30T11:48:57Z"
+  },
+  {
+    "invoice_id": "INV00117",
+    "customer_id": "CUST022",
+    "product_id": "WMK_P185",
+    "quantity": 3,
+    "purchase_date": "2024-08-06T19:32:25Z"
+  },
+  {
+    "invoice_id": "INV00117",
+    "customer_id": "CUST022",
+    "product_id": "WMK_P070",
+    "quantity": 3,
+    "purchase_date": "2024-08-06T19:32:25Z"
+  },
+  {
+    "invoice_id": "INV00117",
+    "customer_id": "CUST022",
+    "product_id": "WMK_P083",
+    "quantity": 3,
+    "purchase_date": "2024-08-06T19:32:25Z"
+  },
+  {
+    "invoice_id": "INV00117",
+    "customer_id": "CUST022",
+    "product_id": "WMK_P182",
+    "quantity": 2,
+    "purchase_date": "2024-08-06T19:32:25Z"
+  },
+  {
+    "invoice_id": "INV00117",
+    "customer_id": "CUST022",
+    "product_id": "WMK_P039",
+    "quantity": 3,
+    "purchase_date": "2024-08-06T19:32:25Z"
+  },
+  {
+    "invoice_id": "INV00118",
+    "customer_id": "CUST022",
+    "product_id": "WMK_P191",
+    "quantity": 3,
+    "purchase_date": "2025-02-25T17:36:47Z"
+  },
+  {
+    "invoice_id": "INV00118",
+    "customer_id": "CUST022",
+    "product_id": "WMK_P162",
+    "quantity": 3,
+    "purchase_date": "2025-02-25T17:36:47Z"
+  },
+  {
+    "invoice_id": "INV00118",
+    "customer_id": "CUST022",
+    "product_id": "WMK_P103",
+    "quantity": 2,
+    "purchase_date": "2025-02-25T17:36:47Z"
+  },
+  {
+    "invoice_id": "INV00118",
+    "customer_id": "CUST022",
+    "product_id": "WMK_P011",
+    "quantity": 2,
+    "purchase_date": "2025-02-25T17:36:47Z"
+  },
+  {
+    "invoice_id": "INV00119",
+    "customer_id": "CUST022",
+    "product_id": "WMK_P085",
+    "quantity": 1,
+    "purchase_date": "2025-06-11T14:24:11Z"
+  },
+  {
+    "invoice_id": "INV00119",
+    "customer_id": "CUST022",
+    "product_id": "WMK_P196",
+    "quantity": 3,
+    "purchase_date": "2025-06-11T14:24:11Z"
+  },
+  {
+    "invoice_id": "INV00119",
+    "customer_id": "CUST022",
+    "product_id": "WMK_P157",
+    "quantity": 1,
+    "purchase_date": "2025-06-11T14:24:11Z"
+  },
+  {
+    "invoice_id": "INV00120",
+    "customer_id": "CUST022",
+    "product_id": "WMK_P181",
+    "quantity": 1,
+    "purchase_date": "2024-07-27T04:45:00Z"
+  },
+  {
+    "invoice_id": "INV00120",
+    "customer_id": "CUST022",
+    "product_id": "WMK_P170",
+    "quantity": 1,
+    "purchase_date": "2024-07-27T04:45:00Z"
+  },
+  {
+    "invoice_id": "INV00121",
+    "customer_id": "CUST022",
+    "product_id": "WMK_P151",
+    "quantity": 3,
+    "purchase_date": "2024-08-28T01:35:36Z"
+  },
+  {
+    "invoice_id": "INV00122",
+    "customer_id": "CUST022",
+    "product_id": "WMK_P066",
+    "quantity": 2,
+    "purchase_date": "2024-11-18T14:11:46Z"
+  },
+  {
+    "invoice_id": "INV00122",
+    "customer_id": "CUST022",
+    "product_id": "WMK_P090",
+    "quantity": 3,
+    "purchase_date": "2024-11-18T14:11:46Z"
+  },
+  {
+    "invoice_id": "INV00122",
+    "customer_id": "CUST022",
+    "product_id": "WMK_P098",
+    "quantity": 2,
+    "purchase_date": "2024-11-18T14:11:46Z"
+  },
+  {
+    "invoice_id": "INV00122",
+    "customer_id": "CUST022",
+    "product_id": "WMK_P147",
+    "quantity": 1,
+    "purchase_date": "2024-11-18T14:11:46Z"
+  },
+  {
+    "invoice_id": "INV00122",
+    "customer_id": "CUST022",
+    "product_id": "WMK_P110",
+    "quantity": 1,
+    "purchase_date": "2024-11-18T14:11:46Z"
+  },
+  {
+    "invoice_id": "INV00123",
+    "customer_id": "CUST023",
+    "product_id": "WMK_P051",
+    "quantity": 1,
+    "purchase_date": "2024-09-30T12:24:07Z"
+  },
+  {
+    "invoice_id": "INV00123",
+    "customer_id": "CUST023",
+    "product_id": "WMK_P134",
+    "quantity": 2,
+    "purchase_date": "2024-09-30T12:24:07Z"
+  },
+  {
+    "invoice_id": "INV00123",
+    "customer_id": "CUST023",
+    "product_id": "WMK_P126",
+    "quantity": 3,
+    "purchase_date": "2024-09-30T12:24:07Z"
+  },
+  {
+    "invoice_id": "INV00123",
+    "customer_id": "CUST023",
+    "product_id": "WMK_P176",
+    "quantity": 2,
+    "purchase_date": "2024-09-30T12:24:07Z"
+  },
+  {
+    "invoice_id": "INV00123",
+    "customer_id": "CUST023",
+    "product_id": "WMK_P093",
+    "quantity": 3,
+    "purchase_date": "2024-09-30T12:24:07Z"
+  },
+  {
+    "invoice_id": "INV00124",
+    "customer_id": "CUST023",
+    "product_id": "WMK_P107",
+    "quantity": 1,
+    "purchase_date": "2024-09-08T14:57:10Z"
+  },
+  {
+    "invoice_id": "INV00124",
+    "customer_id": "CUST023",
+    "product_id": "WMK_P010",
+    "quantity": 2,
+    "purchase_date": "2024-09-08T14:57:10Z"
+  },
+  {
+    "invoice_id": "INV00124",
+    "customer_id": "CUST023",
+    "product_id": "WMK_P027",
+    "quantity": 2,
+    "purchase_date": "2024-09-08T14:57:10Z"
+  },
+  {
+    "invoice_id": "INV00124",
+    "customer_id": "CUST023",
+    "product_id": "WMK_P151",
+    "quantity": 3,
+    "purchase_date": "2024-09-08T14:57:10Z"
+  },
+  {
+    "invoice_id": "INV00125",
+    "customer_id": "CUST023",
+    "product_id": "WMK_P114",
+    "quantity": 3,
+    "purchase_date": "2025-06-08T22:00:18Z"
+  },
+  {
+    "invoice_id": "INV00125",
+    "customer_id": "CUST023",
+    "product_id": "WMK_P027",
+    "quantity": 1,
+    "purchase_date": "2025-06-08T22:00:18Z"
+  },
+  {
+    "invoice_id": "INV00125",
+    "customer_id": "CUST023",
+    "product_id": "WMK_P121",
+    "quantity": 2,
+    "purchase_date": "2025-06-08T22:00:18Z"
+  },
+  {
+    "invoice_id": "INV00125",
+    "customer_id": "CUST023",
+    "product_id": "WMK_P083",
+    "quantity": 1,
+    "purchase_date": "2025-06-08T22:00:18Z"
+  },
+  {
+    "invoice_id": "INV00125",
+    "customer_id": "CUST023",
+    "product_id": "WMK_P146",
+    "quantity": 1,
+    "purchase_date": "2025-06-08T22:00:18Z"
+  },
+  {
+    "invoice_id": "INV00126",
+    "customer_id": "CUST024",
+    "product_id": "WMK_P196",
+    "quantity": 1,
+    "purchase_date": "2025-06-09T15:51:21Z"
+  },
+  {
+    "invoice_id": "INV00126",
+    "customer_id": "CUST024",
+    "product_id": "WMK_P131",
+    "quantity": 3,
+    "purchase_date": "2025-06-09T15:51:21Z"
+  },
+  {
+    "invoice_id": "INV00127",
+    "customer_id": "CUST024",
+    "product_id": "WMK_P115",
+    "quantity": 2,
+    "purchase_date": "2024-08-05T07:40:42Z"
+  },
+  {
+    "invoice_id": "INV00127",
+    "customer_id": "CUST024",
+    "product_id": "WMK_P015",
+    "quantity": 3,
+    "purchase_date": "2024-08-05T07:40:42Z"
+  },
+  {
+    "invoice_id": "INV00127",
+    "customer_id": "CUST024",
+    "product_id": "WMK_P127",
+    "quantity": 3,
+    "purchase_date": "2024-08-05T07:40:42Z"
+  },
+  {
+    "invoice_id": "INV00128",
+    "customer_id": "CUST024",
+    "product_id": "WMK_P148",
+    "quantity": 2,
+    "purchase_date": "2024-08-12T05:31:21Z"
+  },
+  {
+    "invoice_id": "INV00129",
+    "customer_id": "CUST024",
+    "product_id": "WMK_P070",
+    "quantity": 3,
+    "purchase_date": "2024-12-27T21:27:44Z"
+  },
+  {
+    "invoice_id": "INV00129",
+    "customer_id": "CUST024",
+    "product_id": "WMK_P037",
+    "quantity": 2,
+    "purchase_date": "2024-12-27T21:27:44Z"
+  },
+  {
+    "invoice_id": "INV00130",
+    "customer_id": "CUST024",
+    "product_id": "WMK_P133",
+    "quantity": 1,
+    "purchase_date": "2024-09-18T23:08:03Z"
+  },
+  {
+    "invoice_id": "INV00130",
+    "customer_id": "CUST024",
+    "product_id": "WMK_P068",
+    "quantity": 2,
+    "purchase_date": "2024-09-18T23:08:03Z"
+  },
+  {
+    "invoice_id": "INV00130",
+    "customer_id": "CUST024",
+    "product_id": "WMK_P144",
+    "quantity": 1,
+    "purchase_date": "2024-09-18T23:08:03Z"
+  },
+  {
+    "invoice_id": "INV00130",
+    "customer_id": "CUST024",
+    "product_id": "WMK_P126",
+    "quantity": 1,
+    "purchase_date": "2024-09-18T23:08:03Z"
+  },
+  {
+    "invoice_id": "INV00130",
+    "customer_id": "CUST024",
+    "product_id": "WMK_P020",
+    "quantity": 3,
+    "purchase_date": "2024-09-18T23:08:03Z"
+  },
+  {
+    "invoice_id": "INV00131",
+    "customer_id": "CUST024",
+    "product_id": "WMK_P191",
+    "quantity": 3,
+    "purchase_date": "2025-01-27T10:27:13Z"
+  },
+  {
+    "invoice_id": "INV00131",
+    "customer_id": "CUST024",
+    "product_id": "WMK_P005",
+    "quantity": 3,
+    "purchase_date": "2025-01-27T10:27:13Z"
+  },
+  {
+    "invoice_id": "INV00132",
+    "customer_id": "CUST025",
+    "product_id": "WMK_P023",
+    "quantity": 1,
+    "purchase_date": "2025-06-20T06:27:28Z"
+  },
+  {
+    "invoice_id": "INV00132",
+    "customer_id": "CUST025",
+    "product_id": "WMK_P146",
+    "quantity": 1,
+    "purchase_date": "2025-06-20T06:27:28Z"
+  },
+  {
+    "invoice_id": "INV00132",
+    "customer_id": "CUST025",
+    "product_id": "WMK_P009",
+    "quantity": 1,
+    "purchase_date": "2025-06-20T06:27:28Z"
+  },
+  {
+    "invoice_id": "INV00132",
+    "customer_id": "CUST025",
+    "product_id": "WMK_P096",
+    "quantity": 1,
+    "purchase_date": "2025-06-20T06:27:28Z"
+  },
+  {
+    "invoice_id": "INV00133",
+    "customer_id": "CUST025",
+    "product_id": "WMK_P066",
+    "quantity": 1,
+    "purchase_date": "2024-09-30T08:46:16Z"
+  },
+  {
+    "invoice_id": "INV00133",
+    "customer_id": "CUST025",
+    "product_id": "WMK_P002",
+    "quantity": 1,
+    "purchase_date": "2024-09-30T08:46:16Z"
+  },
+  {
+    "invoice_id": "INV00133",
+    "customer_id": "CUST025",
+    "product_id": "WMK_P147",
+    "quantity": 2,
+    "purchase_date": "2024-09-30T08:46:16Z"
+  },
+  {
+    "invoice_id": "INV00133",
+    "customer_id": "CUST025",
+    "product_id": "WMK_P059",
+    "quantity": 3,
+    "purchase_date": "2024-09-30T08:46:16Z"
+  },
+  {
+    "invoice_id": "INV00133",
+    "customer_id": "CUST025",
+    "product_id": "WMK_P110",
+    "quantity": 1,
+    "purchase_date": "2024-09-30T08:46:16Z"
+  },
+  {
+    "invoice_id": "INV00134",
+    "customer_id": "CUST025",
+    "product_id": "WMK_P018",
+    "quantity": 3,
+    "purchase_date": "2025-03-25T18:51:36Z"
+  },
+  {
+    "invoice_id": "INV00135",
+    "customer_id": "CUST025",
+    "product_id": "WMK_P040",
+    "quantity": 3,
+    "purchase_date": "2025-06-06T23:35:01Z"
+  },
+  {
+    "invoice_id": "INV00136",
+    "customer_id": "CUST026",
+    "product_id": "WMK_P121",
+    "quantity": 1,
+    "purchase_date": "2025-04-04T23:07:39Z"
+  },
+  {
+    "invoice_id": "INV00136",
+    "customer_id": "CUST026",
+    "product_id": "WMK_P139",
+    "quantity": 1,
+    "purchase_date": "2025-04-04T23:07:39Z"
+  },
+  {
+    "invoice_id": "INV00136",
+    "customer_id": "CUST026",
+    "product_id": "WMK_P098",
+    "quantity": 3,
+    "purchase_date": "2025-04-04T23:07:39Z"
+  },
+  {
+    "invoice_id": "INV00136",
+    "customer_id": "CUST026",
+    "product_id": "WMK_P094",
+    "quantity": 1,
+    "purchase_date": "2025-04-04T23:07:39Z"
+  },
+  {
+    "invoice_id": "INV00137",
+    "customer_id": "CUST026",
+    "product_id": "WMK_P129",
+    "quantity": 3,
+    "purchase_date": "2025-06-12T12:34:01Z"
+  },
+  {
+    "invoice_id": "INV00137",
+    "customer_id": "CUST026",
+    "product_id": "WMK_P091",
+    "quantity": 1,
+    "purchase_date": "2025-06-12T12:34:01Z"
+  },
+  {
+    "invoice_id": "INV00137",
+    "customer_id": "CUST026",
+    "product_id": "WMK_P055",
+    "quantity": 1,
+    "purchase_date": "2025-06-12T12:34:01Z"
+  },
+  {
+    "invoice_id": "INV00137",
+    "customer_id": "CUST026",
+    "product_id": "WMK_P155",
+    "quantity": 1,
+    "purchase_date": "2025-06-12T12:34:01Z"
+  },
+  {
+    "invoice_id": "INV00138",
+    "customer_id": "CUST026",
+    "product_id": "WMK_P170",
+    "quantity": 3,
+    "purchase_date": "2025-05-25T14:41:35Z"
+  },
+  {
+    "invoice_id": "INV00138",
+    "customer_id": "CUST026",
+    "product_id": "WMK_P139",
+    "quantity": 1,
+    "purchase_date": "2025-05-25T14:41:35Z"
+  },
+  {
+    "invoice_id": "INV00139",
+    "customer_id": "CUST027",
+    "product_id": "WMK_P046",
+    "quantity": 2,
+    "purchase_date": "2024-08-08T23:22:34Z"
+  },
+  {
+    "invoice_id": "INV00139",
+    "customer_id": "CUST027",
+    "product_id": "WMK_P200",
+    "quantity": 1,
+    "purchase_date": "2024-08-08T23:22:34Z"
+  },
+  {
+    "invoice_id": "INV00139",
+    "customer_id": "CUST027",
+    "product_id": "WMK_P136",
+    "quantity": 2,
+    "purchase_date": "2024-08-08T23:22:34Z"
+  },
+  {
+    "invoice_id": "INV00140",
+    "customer_id": "CUST027",
+    "product_id": "WMK_P012",
+    "quantity": 2,
+    "purchase_date": "2025-04-19T09:00:52Z"
+  },
+  {
+    "invoice_id": "INV00140",
+    "customer_id": "CUST027",
+    "product_id": "WMK_P022",
+    "quantity": 2,
+    "purchase_date": "2025-04-19T09:00:52Z"
+  },
+  {
+    "invoice_id": "INV00140",
+    "customer_id": "CUST027",
+    "product_id": "WMK_P169",
+    "quantity": 3,
+    "purchase_date": "2025-04-19T09:00:52Z"
+  },
+  {
+    "invoice_id": "INV00140",
+    "customer_id": "CUST027",
+    "product_id": "WMK_P026",
+    "quantity": 2,
+    "purchase_date": "2025-04-19T09:00:52Z"
+  },
+  {
+    "invoice_id": "INV00140",
+    "customer_id": "CUST027",
+    "product_id": "WMK_P144",
+    "quantity": 1,
+    "purchase_date": "2025-04-19T09:00:52Z"
+  },
+  {
+    "invoice_id": "INV00141",
+    "customer_id": "CUST027",
+    "product_id": "WMK_P012",
+    "quantity": 1,
+    "purchase_date": "2024-12-14T05:54:43Z"
+  },
+  {
+    "invoice_id": "INV00141",
+    "customer_id": "CUST027",
+    "product_id": "WMK_P021",
+    "quantity": 3,
+    "purchase_date": "2024-12-14T05:54:43Z"
+  },
+  {
+    "invoice_id": "INV00142",
+    "customer_id": "CUST027",
+    "product_id": "WMK_P199",
+    "quantity": 3,
+    "purchase_date": "2025-06-03T20:44:08Z"
+  },
+  {
+    "invoice_id": "INV00142",
+    "customer_id": "CUST027",
+    "product_id": "WMK_P115",
+    "quantity": 3,
+    "purchase_date": "2025-06-03T20:44:08Z"
+  },
+  {
+    "invoice_id": "INV00142",
+    "customer_id": "CUST027",
+    "product_id": "WMK_P066",
+    "quantity": 1,
+    "purchase_date": "2025-06-03T20:44:08Z"
+  },
+  {
+    "invoice_id": "INV00142",
+    "customer_id": "CUST027",
+    "product_id": "WMK_P086",
+    "quantity": 3,
+    "purchase_date": "2025-06-03T20:44:08Z"
+  },
+  {
+    "invoice_id": "INV00142",
+    "customer_id": "CUST027",
+    "product_id": "WMK_P005",
+    "quantity": 2,
+    "purchase_date": "2025-06-03T20:44:08Z"
+  },
+  {
+    "invoice_id": "INV00143",
+    "customer_id": "CUST027",
+    "product_id": "WMK_P020",
+    "quantity": 1,
+    "purchase_date": "2024-09-24T03:10:32Z"
+  },
+  {
+    "invoice_id": "INV00144",
+    "customer_id": "CUST027",
+    "product_id": "WMK_P095",
+    "quantity": 1,
+    "purchase_date": "2025-05-30T05:33:56Z"
+  },
+  {
+    "invoice_id": "INV00144",
+    "customer_id": "CUST027",
+    "product_id": "WMK_P036",
+    "quantity": 1,
+    "purchase_date": "2025-05-30T05:33:56Z"
+  },
+  {
+    "invoice_id": "INV00145",
+    "customer_id": "CUST028",
+    "product_id": "WMK_P158",
+    "quantity": 1,
+    "purchase_date": "2025-05-04T03:23:26Z"
+  },
+  {
+    "invoice_id": "INV00146",
+    "customer_id": "CUST028",
+    "product_id": "WMK_P176",
+    "quantity": 2,
+    "purchase_date": "2024-11-29T02:44:34Z"
+  },
+  {
+    "invoice_id": "INV00146",
+    "customer_id": "CUST028",
+    "product_id": "WMK_P164",
+    "quantity": 3,
+    "purchase_date": "2024-11-29T02:44:34Z"
+  },
+  {
+    "invoice_id": "INV00146",
+    "customer_id": "CUST028",
+    "product_id": "WMK_P133",
+    "quantity": 1,
+    "purchase_date": "2024-11-29T02:44:34Z"
+  },
+  {
+    "invoice_id": "INV00146",
+    "customer_id": "CUST028",
+    "product_id": "WMK_P199",
+    "quantity": 1,
+    "purchase_date": "2024-11-29T02:44:34Z"
+  },
+  {
+    "invoice_id": "INV00147",
+    "customer_id": "CUST028",
+    "product_id": "WMK_P176",
+    "quantity": 2,
+    "purchase_date": "2025-03-02T23:14:15Z"
+  },
+  {
+    "invoice_id": "INV00147",
+    "customer_id": "CUST028",
+    "product_id": "WMK_P051",
+    "quantity": 1,
+    "purchase_date": "2025-03-02T23:14:15Z"
+  },
+  {
+    "invoice_id": "INV00147",
+    "customer_id": "CUST028",
+    "product_id": "WMK_P137",
+    "quantity": 2,
+    "purchase_date": "2025-03-02T23:14:15Z"
+  },
+  {
+    "invoice_id": "INV00148",
+    "customer_id": "CUST028",
+    "product_id": "WMK_P110",
+    "quantity": 3,
+    "purchase_date": "2024-11-28T19:21:27Z"
+  },
+  {
+    "invoice_id": "INV00148",
+    "customer_id": "CUST028",
+    "product_id": "WMK_P073",
+    "quantity": 3,
+    "purchase_date": "2024-11-28T19:21:27Z"
+  },
+  {
+    "invoice_id": "INV00148",
+    "customer_id": "CUST028",
+    "product_id": "WMK_P061",
+    "quantity": 2,
+    "purchase_date": "2024-11-28T19:21:27Z"
+  },
+  {
+    "invoice_id": "INV00149",
+    "customer_id": "CUST028",
+    "product_id": "WMK_P173",
+    "quantity": 3,
+    "purchase_date": "2025-03-21T03:23:02Z"
+  },
+  {
+    "invoice_id": "INV00149",
+    "customer_id": "CUST028",
+    "product_id": "WMK_P005",
+    "quantity": 1,
+    "purchase_date": "2025-03-21T03:23:02Z"
+  },
+  {
+    "invoice_id": "INV00149",
+    "customer_id": "CUST028",
+    "product_id": "WMK_P117",
+    "quantity": 2,
+    "purchase_date": "2025-03-21T03:23:02Z"
+  },
+  {
+    "invoice_id": "INV00150",
+    "customer_id": "CUST028",
+    "product_id": "WMK_P166",
+    "quantity": 1,
+    "purchase_date": "2025-07-09T20:03:36Z"
+  },
+  {
+    "invoice_id": "INV00150",
+    "customer_id": "CUST028",
+    "product_id": "WMK_P053",
+    "quantity": 1,
+    "purchase_date": "2025-07-09T20:03:36Z"
+  },
+  {
+    "invoice_id": "INV00150",
+    "customer_id": "CUST028",
+    "product_id": "WMK_P122",
+    "quantity": 3,
+    "purchase_date": "2025-07-09T20:03:36Z"
+  },
+  {
+    "invoice_id": "INV00150",
+    "customer_id": "CUST028",
+    "product_id": "WMK_P197",
+    "quantity": 1,
+    "purchase_date": "2025-07-09T20:03:36Z"
+  },
+  {
+    "invoice_id": "INV00151",
+    "customer_id": "CUST028",
+    "product_id": "WMK_P187",
+    "quantity": 1,
+    "purchase_date": "2024-10-21T17:43:04Z"
+  },
+  {
+    "invoice_id": "INV00151",
+    "customer_id": "CUST028",
+    "product_id": "WMK_P182",
+    "quantity": 1,
+    "purchase_date": "2024-10-21T17:43:04Z"
+  },
+  {
+    "invoice_id": "INV00152",
+    "customer_id": "CUST029",
+    "product_id": "WMK_P046",
+    "quantity": 3,
+    "purchase_date": "2024-08-20T21:52:27Z"
+  },
+  {
+    "invoice_id": "INV00152",
+    "customer_id": "CUST029",
+    "product_id": "WMK_P174",
+    "quantity": 1,
+    "purchase_date": "2024-08-20T21:52:27Z"
+  },
+  {
+    "invoice_id": "INV00153",
+    "customer_id": "CUST029",
+    "product_id": "WMK_P188",
+    "quantity": 3,
+    "purchase_date": "2024-08-09T02:54:43Z"
+  },
+  {
+    "invoice_id": "INV00153",
+    "customer_id": "CUST029",
+    "product_id": "WMK_P194",
+    "quantity": 2,
+    "purchase_date": "2024-08-09T02:54:43Z"
+  },
+  {
+    "invoice_id": "INV00153",
+    "customer_id": "CUST029",
+    "product_id": "WMK_P177",
+    "quantity": 2,
+    "purchase_date": "2024-08-09T02:54:43Z"
+  },
+  {
+    "invoice_id": "INV00153",
+    "customer_id": "CUST029",
+    "product_id": "WMK_P146",
+    "quantity": 2,
+    "purchase_date": "2024-08-09T02:54:43Z"
+  },
+  {
+    "invoice_id": "INV00154",
+    "customer_id": "CUST029",
+    "product_id": "WMK_P101",
+    "quantity": 3,
+    "purchase_date": "2024-10-08T08:51:03Z"
+  },
+  {
+    "invoice_id": "INV00154",
+    "customer_id": "CUST029",
+    "product_id": "WMK_P185",
+    "quantity": 1,
+    "purchase_date": "2024-10-08T08:51:03Z"
+  },
+  {
+    "invoice_id": "INV00155",
+    "customer_id": "CUST029",
+    "product_id": "WMK_P158",
+    "quantity": 2,
+    "purchase_date": "2024-08-30T17:18:45Z"
+  },
+  {
+    "invoice_id": "INV00155",
+    "customer_id": "CUST029",
+    "product_id": "WMK_P100",
+    "quantity": 1,
+    "purchase_date": "2024-08-30T17:18:45Z"
+  },
+  {
+    "invoice_id": "INV00155",
+    "customer_id": "CUST029",
+    "product_id": "WMK_P020",
+    "quantity": 1,
+    "purchase_date": "2024-08-30T17:18:45Z"
+  },
+  {
+    "invoice_id": "INV00155",
+    "customer_id": "CUST029",
+    "product_id": "WMK_P144",
+    "quantity": 1,
+    "purchase_date": "2024-08-30T17:18:45Z"
+  },
+  {
+    "invoice_id": "INV00155",
+    "customer_id": "CUST029",
+    "product_id": "WMK_P192",
+    "quantity": 3,
+    "purchase_date": "2024-08-30T17:18:45Z"
+  },
+  {
+    "invoice_id": "INV00156",
+    "customer_id": "CUST029",
+    "product_id": "WMK_P117",
+    "quantity": 1,
+    "purchase_date": "2024-08-21T02:34:08Z"
+  },
+  {
+    "invoice_id": "INV00156",
+    "customer_id": "CUST029",
+    "product_id": "WMK_P153",
+    "quantity": 1,
+    "purchase_date": "2024-08-21T02:34:08Z"
+  },
+  {
+    "invoice_id": "INV00156",
+    "customer_id": "CUST029",
+    "product_id": "WMK_P024",
+    "quantity": 1,
+    "purchase_date": "2024-08-21T02:34:08Z"
+  },
+  {
+    "invoice_id": "INV00156",
+    "customer_id": "CUST029",
+    "product_id": "WMK_P058",
+    "quantity": 3,
+    "purchase_date": "2024-08-21T02:34:08Z"
+  },
+  {
+    "invoice_id": "INV00157",
+    "customer_id": "CUST029",
+    "product_id": "WMK_P123",
+    "quantity": 2,
+    "purchase_date": "2024-08-20T09:57:00Z"
+  },
+  {
+    "invoice_id": "INV00157",
+    "customer_id": "CUST029",
+    "product_id": "WMK_P168",
+    "quantity": 3,
+    "purchase_date": "2024-08-20T09:57:00Z"
+  },
+  {
+    "invoice_id": "INV00157",
+    "customer_id": "CUST029",
+    "product_id": "WMK_P152",
+    "quantity": 1,
+    "purchase_date": "2024-08-20T09:57:00Z"
+  },
+  {
+    "invoice_id": "INV00157",
+    "customer_id": "CUST029",
+    "product_id": "WMK_P017",
+    "quantity": 1,
+    "purchase_date": "2024-08-20T09:57:00Z"
+  },
+  {
+    "invoice_id": "INV00157",
+    "customer_id": "CUST029",
+    "product_id": "WMK_P188",
+    "quantity": 1,
+    "purchase_date": "2024-08-20T09:57:00Z"
+  },
+  {
+    "invoice_id": "INV00158",
+    "customer_id": "CUST029",
+    "product_id": "WMK_P068",
+    "quantity": 3,
+    "purchase_date": "2025-06-11T20:24:10Z"
+  },
+  {
+    "invoice_id": "INV00158",
+    "customer_id": "CUST029",
+    "product_id": "WMK_P127",
+    "quantity": 2,
+    "purchase_date": "2025-06-11T20:24:10Z"
+  },
+  {
+    "invoice_id": "INV00159",
+    "customer_id": "CUST030",
+    "product_id": "WMK_P113",
+    "quantity": 2,
+    "purchase_date": "2024-12-30T15:39:01Z"
+  },
+  {
+    "invoice_id": "INV00159",
+    "customer_id": "CUST030",
+    "product_id": "WMK_P177",
+    "quantity": 3,
+    "purchase_date": "2024-12-30T15:39:01Z"
+  },
+  {
+    "invoice_id": "INV00160",
+    "customer_id": "CUST030",
+    "product_id": "WMK_P094",
+    "quantity": 2,
+    "purchase_date": "2025-02-10T17:16:43Z"
+  },
+  {
+    "invoice_id": "INV00160",
+    "customer_id": "CUST030",
+    "product_id": "WMK_P089",
+    "quantity": 2,
+    "purchase_date": "2025-02-10T17:16:43Z"
+  },
+  {
+    "invoice_id": "INV00160",
+    "customer_id": "CUST030",
+    "product_id": "WMK_P036",
+    "quantity": 3,
+    "purchase_date": "2025-02-10T17:16:43Z"
+  },
+  {
+    "invoice_id": "INV00161",
+    "customer_id": "CUST030",
+    "product_id": "WMK_P069",
+    "quantity": 1,
+    "purchase_date": "2025-05-07T03:21:20Z"
+  },
+  {
+    "invoice_id": "INV00161",
+    "customer_id": "CUST030",
+    "product_id": "WMK_P083",
+    "quantity": 1,
+    "purchase_date": "2025-05-07T03:21:20Z"
+  },
+  {
+    "invoice_id": "INV00161",
+    "customer_id": "CUST030",
+    "product_id": "WMK_P007",
+    "quantity": 2,
+    "purchase_date": "2025-05-07T03:21:20Z"
+  },
+  {
+    "invoice_id": "INV00161",
+    "customer_id": "CUST030",
+    "product_id": "WMK_P169",
+    "quantity": 3,
+    "purchase_date": "2025-05-07T03:21:20Z"
+  },
+  {
+    "invoice_id": "INV00162",
+    "customer_id": "CUST031",
+    "product_id": "WMK_P015",
+    "quantity": 2,
+    "purchase_date": "2025-06-05T02:22:13Z"
+  },
+  {
+    "invoice_id": "INV00162",
+    "customer_id": "CUST031",
+    "product_id": "WMK_P197",
+    "quantity": 3,
+    "purchase_date": "2025-06-05T02:22:13Z"
+  },
+  {
+    "invoice_id": "INV00162",
+    "customer_id": "CUST031",
+    "product_id": "WMK_P100",
+    "quantity": 1,
+    "purchase_date": "2025-06-05T02:22:13Z"
+  },
+  {
+    "invoice_id": "INV00162",
+    "customer_id": "CUST031",
+    "product_id": "WMK_P001",
+    "quantity": 2,
+    "purchase_date": "2025-06-05T02:22:13Z"
+  },
+  {
+    "invoice_id": "INV00163",
+    "customer_id": "CUST031",
+    "product_id": "WMK_P085",
+    "quantity": 2,
+    "purchase_date": "2025-05-07T22:48:46Z"
+  },
+  {
+    "invoice_id": "INV00164",
+    "customer_id": "CUST031",
+    "product_id": "WMK_P088",
+    "quantity": 2,
+    "purchase_date": "2025-01-03T05:29:17Z"
+  },
+  {
+    "invoice_id": "INV00164",
+    "customer_id": "CUST031",
+    "product_id": "WMK_P115",
+    "quantity": 2,
+    "purchase_date": "2025-01-03T05:29:17Z"
+  },
+  {
+    "invoice_id": "INV00165",
+    "customer_id": "CUST031",
+    "product_id": "WMK_P005",
+    "quantity": 2,
+    "purchase_date": "2024-07-20T05:36:14Z"
+  },
+  {
+    "invoice_id": "INV00165",
+    "customer_id": "CUST031",
+    "product_id": "WMK_P021",
+    "quantity": 3,
+    "purchase_date": "2024-07-20T05:36:14Z"
+  },
+  {
+    "invoice_id": "INV00165",
+    "customer_id": "CUST031",
+    "product_id": "WMK_P001",
+    "quantity": 1,
+    "purchase_date": "2024-07-20T05:36:14Z"
+  },
+  {
+    "invoice_id": "INV00166",
+    "customer_id": "CUST031",
+    "product_id": "WMK_P167",
+    "quantity": 3,
+    "purchase_date": "2024-11-23T09:23:36Z"
+  },
+  {
+    "invoice_id": "INV00166",
+    "customer_id": "CUST031",
+    "product_id": "WMK_P072",
+    "quantity": 1,
+    "purchase_date": "2024-11-23T09:23:36Z"
+  },
+  {
+    "invoice_id": "INV00166",
+    "customer_id": "CUST031",
+    "product_id": "WMK_P172",
+    "quantity": 2,
+    "purchase_date": "2024-11-23T09:23:36Z"
+  },
+  {
+    "invoice_id": "INV00167",
+    "customer_id": "CUST031",
+    "product_id": "WMK_P155",
+    "quantity": 2,
+    "purchase_date": "2024-11-11T19:21:26Z"
+  },
+  {
+    "invoice_id": "INV00167",
+    "customer_id": "CUST031",
+    "product_id": "WMK_P157",
+    "quantity": 2,
+    "purchase_date": "2024-11-11T19:21:26Z"
+  },
+  {
+    "invoice_id": "INV00167",
+    "customer_id": "CUST031",
+    "product_id": "WMK_P066",
+    "quantity": 3,
+    "purchase_date": "2024-11-11T19:21:26Z"
+  },
+  {
+    "invoice_id": "INV00167",
+    "customer_id": "CUST031",
+    "product_id": "WMK_P053",
+    "quantity": 1,
+    "purchase_date": "2024-11-11T19:21:26Z"
+  },
+  {
+    "invoice_id": "INV00168",
+    "customer_id": "CUST031",
+    "product_id": "WMK_P080",
+    "quantity": 1,
+    "purchase_date": "2025-02-09T19:09:43Z"
+  },
+  {
+    "invoice_id": "INV00168",
+    "customer_id": "CUST031",
+    "product_id": "WMK_P174",
+    "quantity": 1,
+    "purchase_date": "2025-02-09T19:09:43Z"
+  },
+  {
+    "invoice_id": "INV00169",
+    "customer_id": "CUST032",
+    "product_id": "WMK_P028",
+    "quantity": 3,
+    "purchase_date": "2025-01-01T13:05:50Z"
+  },
+  {
+    "invoice_id": "INV00170",
+    "customer_id": "CUST032",
+    "product_id": "WMK_P102",
+    "quantity": 2,
+    "purchase_date": "2024-11-06T14:03:50Z"
+  },
+  {
+    "invoice_id": "INV00170",
+    "customer_id": "CUST032",
+    "product_id": "WMK_P013",
+    "quantity": 2,
+    "purchase_date": "2024-11-06T14:03:50Z"
+  },
+  {
+    "invoice_id": "INV00170",
+    "customer_id": "CUST032",
+    "product_id": "WMK_P063",
+    "quantity": 1,
+    "purchase_date": "2024-11-06T14:03:50Z"
+  },
+  {
+    "invoice_id": "INV00170",
+    "customer_id": "CUST032",
+    "product_id": "WMK_P094",
+    "quantity": 1,
+    "purchase_date": "2024-11-06T14:03:50Z"
+  },
+  {
+    "invoice_id": "INV00171",
+    "customer_id": "CUST032",
+    "product_id": "WMK_P012",
+    "quantity": 3,
+    "purchase_date": "2024-07-18T23:46:43Z"
+  },
+  {
+    "invoice_id": "INV00171",
+    "customer_id": "CUST032",
+    "product_id": "WMK_P064",
+    "quantity": 1,
+    "purchase_date": "2024-07-18T23:46:43Z"
+  },
+  {
+    "invoice_id": "INV00172",
+    "customer_id": "CUST032",
+    "product_id": "WMK_P028",
+    "quantity": 1,
+    "purchase_date": "2024-08-10T10:27:13Z"
+  },
+  {
+    "invoice_id": "INV00172",
+    "customer_id": "CUST032",
+    "product_id": "WMK_P171",
+    "quantity": 3,
+    "purchase_date": "2024-08-10T10:27:13Z"
+  },
+  {
+    "invoice_id": "INV00172",
+    "customer_id": "CUST032",
+    "product_id": "WMK_P129",
+    "quantity": 3,
+    "purchase_date": "2024-08-10T10:27:13Z"
+  },
+  {
+    "invoice_id": "INV00173",
+    "customer_id": "CUST032",
+    "product_id": "WMK_P145",
+    "quantity": 3,
+    "purchase_date": "2024-07-18T23:56:56Z"
+  },
+  {
+    "invoice_id": "INV00173",
+    "customer_id": "CUST032",
+    "product_id": "WMK_P018",
+    "quantity": 2,
+    "purchase_date": "2024-07-18T23:56:56Z"
+  },
+  {
+    "invoice_id": "INV00173",
+    "customer_id": "CUST032",
+    "product_id": "WMK_P038",
+    "quantity": 1,
+    "purchase_date": "2024-07-18T23:56:56Z"
+  },
+  {
+    "invoice_id": "INV00173",
+    "customer_id": "CUST032",
+    "product_id": "WMK_P142",
+    "quantity": 3,
+    "purchase_date": "2024-07-18T23:56:56Z"
+  },
+  {
+    "invoice_id": "INV00174",
+    "customer_id": "CUST032",
+    "product_id": "WMK_P012",
+    "quantity": 3,
+    "purchase_date": "2024-08-31T07:00:33Z"
+  },
+  {
+    "invoice_id": "INV00174",
+    "customer_id": "CUST032",
+    "product_id": "WMK_P194",
+    "quantity": 1,
+    "purchase_date": "2024-08-31T07:00:33Z"
+  },
+  {
+    "invoice_id": "INV00174",
+    "customer_id": "CUST032",
+    "product_id": "WMK_P075",
+    "quantity": 2,
+    "purchase_date": "2024-08-31T07:00:33Z"
+  },
+  {
+    "invoice_id": "INV00174",
+    "customer_id": "CUST032",
+    "product_id": "WMK_P016",
+    "quantity": 3,
+    "purchase_date": "2024-08-31T07:00:33Z"
+  },
+  {
+    "invoice_id": "INV00175",
+    "customer_id": "CUST033",
+    "product_id": "WMK_P122",
+    "quantity": 3,
+    "purchase_date": "2025-01-13T02:25:45Z"
+  },
+  {
+    "invoice_id": "INV00176",
+    "customer_id": "CUST033",
+    "product_id": "WMK_P008",
+    "quantity": 1,
+    "purchase_date": "2025-05-17T03:07:18Z"
+  },
+  {
+    "invoice_id": "INV00176",
+    "customer_id": "CUST033",
+    "product_id": "WMK_P092",
+    "quantity": 1,
+    "purchase_date": "2025-05-17T03:07:18Z"
+  },
+  {
+    "invoice_id": "INV00177",
+    "customer_id": "CUST033",
+    "product_id": "WMK_P187",
+    "quantity": 1,
+    "purchase_date": "2025-03-12T16:01:04Z"
+  },
+  {
+    "invoice_id": "INV00177",
+    "customer_id": "CUST033",
+    "product_id": "WMK_P025",
+    "quantity": 2,
+    "purchase_date": "2025-03-12T16:01:04Z"
+  },
+  {
+    "invoice_id": "INV00177",
+    "customer_id": "CUST033",
+    "product_id": "WMK_P180",
+    "quantity": 3,
+    "purchase_date": "2025-03-12T16:01:04Z"
+  },
+  {
+    "invoice_id": "INV00177",
+    "customer_id": "CUST033",
+    "product_id": "WMK_P188",
+    "quantity": 1,
+    "purchase_date": "2025-03-12T16:01:04Z"
+  },
+  {
+    "invoice_id": "INV00177",
+    "customer_id": "CUST033",
+    "product_id": "WMK_P032",
+    "quantity": 1,
+    "purchase_date": "2025-03-12T16:01:04Z"
+  },
+  {
+    "invoice_id": "INV00178",
+    "customer_id": "CUST033",
+    "product_id": "WMK_P085",
+    "quantity": 3,
+    "purchase_date": "2024-08-29T17:41:37Z"
+  },
+  {
+    "invoice_id": "INV00178",
+    "customer_id": "CUST033",
+    "product_id": "WMK_P075",
+    "quantity": 3,
+    "purchase_date": "2024-08-29T17:41:37Z"
+  },
+  {
+    "invoice_id": "INV00178",
+    "customer_id": "CUST033",
+    "product_id": "WMK_P065",
+    "quantity": 2,
+    "purchase_date": "2024-08-29T17:41:37Z"
+  },
+  {
+    "invoice_id": "INV00178",
+    "customer_id": "CUST033",
+    "product_id": "WMK_P028",
+    "quantity": 2,
+    "purchase_date": "2024-08-29T17:41:37Z"
+  },
+  {
+    "invoice_id": "INV00179",
+    "customer_id": "CUST034",
+    "product_id": "WMK_P106",
+    "quantity": 1,
+    "purchase_date": "2024-08-12T15:06:07Z"
+  },
+  {
+    "invoice_id": "INV00179",
+    "customer_id": "CUST034",
+    "product_id": "WMK_P081",
+    "quantity": 3,
+    "purchase_date": "2024-08-12T15:06:07Z"
+  },
+  {
+    "invoice_id": "INV00179",
+    "customer_id": "CUST034",
+    "product_id": "WMK_P191",
+    "quantity": 1,
+    "purchase_date": "2024-08-12T15:06:07Z"
+  },
+  {
+    "invoice_id": "INV00180",
+    "customer_id": "CUST034",
+    "product_id": "WMK_P164",
+    "quantity": 1,
+    "purchase_date": "2025-04-29T17:36:57Z"
+  },
+  {
+    "invoice_id": "INV00180",
+    "customer_id": "CUST034",
+    "product_id": "WMK_P142",
+    "quantity": 1,
+    "purchase_date": "2025-04-29T17:36:57Z"
+  },
+  {
+    "invoice_id": "INV00181",
+    "customer_id": "CUST034",
+    "product_id": "WMK_P046",
+    "quantity": 1,
+    "purchase_date": "2024-11-21T20:31:17Z"
+  },
+  {
+    "invoice_id": "INV00182",
+    "customer_id": "CUST034",
+    "product_id": "WMK_P159",
+    "quantity": 2,
+    "purchase_date": "2024-09-17T15:36:14Z"
+  },
+  {
+    "invoice_id": "INV00182",
+    "customer_id": "CUST034",
+    "product_id": "WMK_P192",
+    "quantity": 2,
+    "purchase_date": "2024-09-17T15:36:14Z"
+  },
+  {
+    "invoice_id": "INV00182",
+    "customer_id": "CUST034",
+    "product_id": "WMK_P008",
+    "quantity": 2,
+    "purchase_date": "2024-09-17T15:36:14Z"
+  },
+  {
+    "invoice_id": "INV00182",
+    "customer_id": "CUST034",
+    "product_id": "WMK_P030",
+    "quantity": 1,
+    "purchase_date": "2024-09-17T15:36:14Z"
+  },
+  {
+    "invoice_id": "INV00183",
+    "customer_id": "CUST034",
+    "product_id": "WMK_P122",
+    "quantity": 2,
+    "purchase_date": "2025-01-31T14:25:42Z"
+  },
+  {
+    "invoice_id": "INV00184",
+    "customer_id": "CUST034",
+    "product_id": "WMK_P141",
+    "quantity": 1,
+    "purchase_date": "2025-04-28T04:18:59Z"
+  },
+  {
+    "invoice_id": "INV00185",
+    "customer_id": "CUST035",
+    "product_id": "WMK_P175",
+    "quantity": 1,
+    "purchase_date": "2025-02-21T10:57:02Z"
+  },
+  {
+    "invoice_id": "INV00185",
+    "customer_id": "CUST035",
+    "product_id": "WMK_P018",
+    "quantity": 2,
+    "purchase_date": "2025-02-21T10:57:02Z"
+  },
+  {
+    "invoice_id": "INV00185",
+    "customer_id": "CUST035",
+    "product_id": "WMK_P159",
+    "quantity": 1,
+    "purchase_date": "2025-02-21T10:57:02Z"
+  },
+  {
+    "invoice_id": "INV00185",
+    "customer_id": "CUST035",
+    "product_id": "WMK_P015",
+    "quantity": 2,
+    "purchase_date": "2025-02-21T10:57:02Z"
+  },
+  {
+    "invoice_id": "INV00185",
+    "customer_id": "CUST035",
+    "product_id": "WMK_P140",
+    "quantity": 3,
+    "purchase_date": "2025-02-21T10:57:02Z"
+  },
+  {
+    "invoice_id": "INV00186",
+    "customer_id": "CUST035",
+    "product_id": "WMK_P040",
+    "quantity": 2,
+    "purchase_date": "2025-04-21T16:42:46Z"
+  },
+  {
+    "invoice_id": "INV00186",
+    "customer_id": "CUST035",
+    "product_id": "WMK_P133",
+    "quantity": 1,
+    "purchase_date": "2025-04-21T16:42:46Z"
+  },
+  {
+    "invoice_id": "INV00186",
+    "customer_id": "CUST035",
+    "product_id": "WMK_P110",
+    "quantity": 3,
+    "purchase_date": "2025-04-21T16:42:46Z"
+  },
+  {
+    "invoice_id": "INV00186",
+    "customer_id": "CUST035",
+    "product_id": "WMK_P191",
+    "quantity": 2,
+    "purchase_date": "2025-04-21T16:42:46Z"
+  },
+  {
+    "invoice_id": "INV00186",
+    "customer_id": "CUST035",
+    "product_id": "WMK_P085",
+    "quantity": 2,
+    "purchase_date": "2025-04-21T16:42:46Z"
+  },
+  {
+    "invoice_id": "INV00187",
+    "customer_id": "CUST035",
+    "product_id": "WMK_P064",
+    "quantity": 1,
+    "purchase_date": "2025-07-07T10:31:49Z"
+  },
+  {
+    "invoice_id": "INV00187",
+    "customer_id": "CUST035",
+    "product_id": "WMK_P195",
+    "quantity": 1,
+    "purchase_date": "2025-07-07T10:31:49Z"
+  },
+  {
+    "invoice_id": "INV00187",
+    "customer_id": "CUST035",
+    "product_id": "WMK_P044",
+    "quantity": 1,
+    "purchase_date": "2025-07-07T10:31:49Z"
+  },
+  {
+    "invoice_id": "INV00187",
+    "customer_id": "CUST035",
+    "product_id": "WMK_P177",
+    "quantity": 3,
+    "purchase_date": "2025-07-07T10:31:49Z"
+  },
+  {
+    "invoice_id": "INV00187",
+    "customer_id": "CUST035",
+    "product_id": "WMK_P112",
+    "quantity": 1,
+    "purchase_date": "2025-07-07T10:31:49Z"
+  },
+  {
+    "invoice_id": "INV00188",
+    "customer_id": "CUST035",
+    "product_id": "WMK_P163",
+    "quantity": 3,
+    "purchase_date": "2025-02-07T04:04:58Z"
+  },
+  {
+    "invoice_id": "INV00188",
+    "customer_id": "CUST035",
+    "product_id": "WMK_P034",
+    "quantity": 3,
+    "purchase_date": "2025-02-07T04:04:58Z"
+  },
+  {
+    "invoice_id": "INV00188",
+    "customer_id": "CUST035",
+    "product_id": "WMK_P083",
+    "quantity": 3,
+    "purchase_date": "2025-02-07T04:04:58Z"
+  },
+  {
+    "invoice_id": "INV00188",
+    "customer_id": "CUST035",
+    "product_id": "WMK_P103",
+    "quantity": 3,
+    "purchase_date": "2025-02-07T04:04:58Z"
+  },
+  {
+    "invoice_id": "INV00188",
+    "customer_id": "CUST035",
+    "product_id": "WMK_P115",
+    "quantity": 3,
+    "purchase_date": "2025-02-07T04:04:58Z"
+  },
+  {
+    "invoice_id": "INV00189",
+    "customer_id": "CUST036",
+    "product_id": "WMK_P116",
+    "quantity": 2,
+    "purchase_date": "2025-06-01T23:28:37Z"
+  },
+  {
+    "invoice_id": "INV00190",
+    "customer_id": "CUST036",
+    "product_id": "WMK_P156",
+    "quantity": 1,
+    "purchase_date": "2024-11-08T01:58:07Z"
+  },
+  {
+    "invoice_id": "INV00190",
+    "customer_id": "CUST036",
+    "product_id": "WMK_P194",
+    "quantity": 1,
+    "purchase_date": "2024-11-08T01:58:07Z"
+  },
+  {
+    "invoice_id": "INV00191",
+    "customer_id": "CUST036",
+    "product_id": "WMK_P170",
+    "quantity": 2,
+    "purchase_date": "2024-07-24T17:01:22Z"
+  },
+  {
+    "invoice_id": "INV00191",
+    "customer_id": "CUST036",
+    "product_id": "WMK_P187",
+    "quantity": 3,
+    "purchase_date": "2024-07-24T17:01:22Z"
+  },
+  {
+    "invoice_id": "INV00192",
+    "customer_id": "CUST036",
+    "product_id": "WMK_P132",
+    "quantity": 3,
+    "purchase_date": "2025-05-23T22:24:14Z"
+  },
+  {
+    "invoice_id": "INV00192",
+    "customer_id": "CUST036",
+    "product_id": "WMK_P010",
+    "quantity": 3,
+    "purchase_date": "2025-05-23T22:24:14Z"
+  },
+  {
+    "invoice_id": "INV00192",
+    "customer_id": "CUST036",
+    "product_id": "WMK_P040",
+    "quantity": 2,
+    "purchase_date": "2025-05-23T22:24:14Z"
+  },
+  {
+    "invoice_id": "INV00192",
+    "customer_id": "CUST036",
+    "product_id": "WMK_P150",
+    "quantity": 2,
+    "purchase_date": "2025-05-23T22:24:14Z"
+  },
+  {
+    "invoice_id": "INV00192",
+    "customer_id": "CUST036",
+    "product_id": "WMK_P078",
+    "quantity": 2,
+    "purchase_date": "2025-05-23T22:24:14Z"
+  },
+  {
+    "invoice_id": "INV00193",
+    "customer_id": "CUST036",
+    "product_id": "WMK_P129",
+    "quantity": 1,
+    "purchase_date": "2024-12-02T03:28:10Z"
+  },
+  {
+    "invoice_id": "INV00193",
+    "customer_id": "CUST036",
+    "product_id": "WMK_P174",
+    "quantity": 1,
+    "purchase_date": "2024-12-02T03:28:10Z"
+  },
+  {
+    "invoice_id": "INV00193",
+    "customer_id": "CUST036",
+    "product_id": "WMK_P041",
+    "quantity": 2,
+    "purchase_date": "2024-12-02T03:28:10Z"
+  },
+  {
+    "invoice_id": "INV00194",
+    "customer_id": "CUST036",
+    "product_id": "WMK_P117",
+    "quantity": 2,
+    "purchase_date": "2025-06-02T03:03:46Z"
+  },
+  {
+    "invoice_id": "INV00194",
+    "customer_id": "CUST036",
+    "product_id": "WMK_P145",
+    "quantity": 3,
+    "purchase_date": "2025-06-02T03:03:46Z"
+  },
+  {
+    "invoice_id": "INV00194",
+    "customer_id": "CUST036",
+    "product_id": "WMK_P179",
+    "quantity": 3,
+    "purchase_date": "2025-06-02T03:03:46Z"
+  },
+  {
+    "invoice_id": "INV00195",
+    "customer_id": "CUST036",
+    "product_id": "WMK_P105",
+    "quantity": 3,
+    "purchase_date": "2024-11-14T15:58:59Z"
+  },
+  {
+    "invoice_id": "INV00195",
+    "customer_id": "CUST036",
+    "product_id": "WMK_P036",
+    "quantity": 2,
+    "purchase_date": "2024-11-14T15:58:59Z"
+  },
+  {
+    "invoice_id": "INV00195",
+    "customer_id": "CUST036",
+    "product_id": "WMK_P178",
+    "quantity": 2,
+    "purchase_date": "2024-11-14T15:58:59Z"
+  },
+  {
+    "invoice_id": "INV00195",
+    "customer_id": "CUST036",
+    "product_id": "WMK_P040",
+    "quantity": 3,
+    "purchase_date": "2024-11-14T15:58:59Z"
+  },
+  {
+    "invoice_id": "INV00196",
+    "customer_id": "CUST037",
+    "product_id": "WMK_P136",
+    "quantity": 3,
+    "purchase_date": "2024-12-24T21:04:41Z"
+  },
+  {
+    "invoice_id": "INV00196",
+    "customer_id": "CUST037",
+    "product_id": "WMK_P046",
+    "quantity": 3,
+    "purchase_date": "2024-12-24T21:04:41Z"
+  },
+  {
+    "invoice_id": "INV00196",
+    "customer_id": "CUST037",
+    "product_id": "WMK_P096",
+    "quantity": 3,
+    "purchase_date": "2024-12-24T21:04:41Z"
+  },
+  {
+    "invoice_id": "INV00196",
+    "customer_id": "CUST037",
+    "product_id": "WMK_P066",
+    "quantity": 2,
+    "purchase_date": "2024-12-24T21:04:41Z"
+  },
+  {
+    "invoice_id": "INV00196",
+    "customer_id": "CUST037",
+    "product_id": "WMK_P099",
+    "quantity": 3,
+    "purchase_date": "2024-12-24T21:04:41Z"
+  },
+  {
+    "invoice_id": "INV00197",
+    "customer_id": "CUST037",
+    "product_id": "WMK_P144",
+    "quantity": 2,
+    "purchase_date": "2025-03-12T13:02:34Z"
+  },
+  {
+    "invoice_id": "INV00197",
+    "customer_id": "CUST037",
+    "product_id": "WMK_P158",
+    "quantity": 1,
+    "purchase_date": "2025-03-12T13:02:34Z"
+  },
+  {
+    "invoice_id": "INV00197",
+    "customer_id": "CUST037",
+    "product_id": "WMK_P076",
+    "quantity": 3,
+    "purchase_date": "2025-03-12T13:02:34Z"
+  },
+  {
+    "invoice_id": "INV00198",
+    "customer_id": "CUST037",
+    "product_id": "WMK_P004",
+    "quantity": 3,
+    "purchase_date": "2024-11-25T07:32:05Z"
+  },
+  {
+    "invoice_id": "INV00198",
+    "customer_id": "CUST037",
+    "product_id": "WMK_P072",
+    "quantity": 2,
+    "purchase_date": "2024-11-25T07:32:05Z"
+  },
+  {
+    "invoice_id": "INV00199",
+    "customer_id": "CUST038",
+    "product_id": "WMK_P101",
+    "quantity": 3,
+    "purchase_date": "2024-12-29T23:08:48Z"
+  },
+  {
+    "invoice_id": "INV00200",
+    "customer_id": "CUST038",
+    "product_id": "WMK_P184",
+    "quantity": 2,
+    "purchase_date": "2024-08-14T02:35:28Z"
+  },
+  {
+    "invoice_id": "INV00200",
+    "customer_id": "CUST038",
+    "product_id": "WMK_P148",
+    "quantity": 3,
+    "purchase_date": "2024-08-14T02:35:28Z"
+  },
+  {
+    "invoice_id": "INV00200",
+    "customer_id": "CUST038",
+    "product_id": "WMK_P132",
+    "quantity": 1,
+    "purchase_date": "2024-08-14T02:35:28Z"
+  },
+  {
+    "invoice_id": "INV00200",
+    "customer_id": "CUST038",
+    "product_id": "WMK_P113",
+    "quantity": 2,
+    "purchase_date": "2024-08-14T02:35:28Z"
+  },
+  {
+    "invoice_id": "INV00201",
+    "customer_id": "CUST038",
+    "product_id": "WMK_P011",
+    "quantity": 2,
+    "purchase_date": "2024-12-22T11:58:08Z"
+  },
+  {
+    "invoice_id": "INV00202",
+    "customer_id": "CUST038",
+    "product_id": "WMK_P181",
+    "quantity": 2,
+    "purchase_date": "2024-09-26T20:51:08Z"
+  },
+  {
+    "invoice_id": "INV00202",
+    "customer_id": "CUST038",
+    "product_id": "WMK_P099",
+    "quantity": 1,
+    "purchase_date": "2024-09-26T20:51:08Z"
+  },
+  {
+    "invoice_id": "INV00202",
+    "customer_id": "CUST038",
+    "product_id": "WMK_P065",
+    "quantity": 1,
+    "purchase_date": "2024-09-26T20:51:08Z"
+  },
+  {
+    "invoice_id": "INV00202",
+    "customer_id": "CUST038",
+    "product_id": "WMK_P061",
+    "quantity": 1,
+    "purchase_date": "2024-09-26T20:51:08Z"
+  },
+  {
+    "invoice_id": "INV00203",
+    "customer_id": "CUST038",
+    "product_id": "WMK_P120",
+    "quantity": 1,
+    "purchase_date": "2024-11-24T06:57:45Z"
+  },
+  {
+    "invoice_id": "INV00203",
+    "customer_id": "CUST038",
+    "product_id": "WMK_P007",
+    "quantity": 3,
+    "purchase_date": "2024-11-24T06:57:45Z"
+  },
+  {
+    "invoice_id": "INV00204",
+    "customer_id": "CUST039",
+    "product_id": "WMK_P052",
+    "quantity": 1,
+    "purchase_date": "2025-04-01T12:14:17Z"
+  },
+  {
+    "invoice_id": "INV00205",
+    "customer_id": "CUST039",
+    "product_id": "WMK_P173",
+    "quantity": 3,
+    "purchase_date": "2024-11-03T02:22:04Z"
+  },
+  {
+    "invoice_id": "INV00206",
+    "customer_id": "CUST039",
+    "product_id": "WMK_P151",
+    "quantity": 3,
+    "purchase_date": "2024-10-05T09:29:19Z"
+  },
+  {
+    "invoice_id": "INV00206",
+    "customer_id": "CUST039",
+    "product_id": "WMK_P117",
+    "quantity": 2,
+    "purchase_date": "2024-10-05T09:29:19Z"
+  },
+  {
+    "invoice_id": "INV00206",
+    "customer_id": "CUST039",
+    "product_id": "WMK_P136",
+    "quantity": 1,
+    "purchase_date": "2024-10-05T09:29:19Z"
+  },
+  {
+    "invoice_id": "INV00206",
+    "customer_id": "CUST039",
+    "product_id": "WMK_P027",
+    "quantity": 1,
+    "purchase_date": "2024-10-05T09:29:19Z"
+  },
+  {
+    "invoice_id": "INV00206",
+    "customer_id": "CUST039",
+    "product_id": "WMK_P069",
+    "quantity": 2,
+    "purchase_date": "2024-10-05T09:29:19Z"
+  },
+  {
+    "invoice_id": "INV00207",
+    "customer_id": "CUST039",
+    "product_id": "WMK_P141",
+    "quantity": 3,
+    "purchase_date": "2025-03-05T05:11:56Z"
+  },
+  {
+    "invoice_id": "INV00207",
+    "customer_id": "CUST039",
+    "product_id": "WMK_P031",
+    "quantity": 1,
+    "purchase_date": "2025-03-05T05:11:56Z"
+  },
+  {
+    "invoice_id": "INV00207",
+    "customer_id": "CUST039",
+    "product_id": "WMK_P083",
+    "quantity": 3,
+    "purchase_date": "2025-03-05T05:11:56Z"
+  },
+  {
+    "invoice_id": "INV00207",
+    "customer_id": "CUST039",
+    "product_id": "WMK_P110",
+    "quantity": 1,
+    "purchase_date": "2025-03-05T05:11:56Z"
+  },
+  {
+    "invoice_id": "INV00208",
+    "customer_id": "CUST039",
+    "product_id": "WMK_P002",
+    "quantity": 1,
+    "purchase_date": "2024-10-23T08:07:50Z"
+  },
+  {
+    "invoice_id": "INV00208",
+    "customer_id": "CUST039",
+    "product_id": "WMK_P149",
+    "quantity": 2,
+    "purchase_date": "2024-10-23T08:07:50Z"
+  },
+  {
+    "invoice_id": "INV00208",
+    "customer_id": "CUST039",
+    "product_id": "WMK_P106",
+    "quantity": 2,
+    "purchase_date": "2024-10-23T08:07:50Z"
+  },
+  {
+    "invoice_id": "INV00209",
+    "customer_id": "CUST039",
+    "product_id": "WMK_P113",
+    "quantity": 2,
+    "purchase_date": "2025-06-07T16:39:27Z"
+  },
+  {
+    "invoice_id": "INV00210",
+    "customer_id": "CUST040",
+    "product_id": "WMK_P186",
+    "quantity": 2,
+    "purchase_date": "2024-09-11T08:19:44Z"
+  },
+  {
+    "invoice_id": "INV00210",
+    "customer_id": "CUST040",
+    "product_id": "WMK_P060",
+    "quantity": 1,
+    "purchase_date": "2024-09-11T08:19:44Z"
+  },
+  {
+    "invoice_id": "INV00210",
+    "customer_id": "CUST040",
+    "product_id": "WMK_P047",
+    "quantity": 1,
+    "purchase_date": "2024-09-11T08:19:44Z"
+  },
+  {
+    "invoice_id": "INV00210",
+    "customer_id": "CUST040",
+    "product_id": "WMK_P017",
+    "quantity": 3,
+    "purchase_date": "2024-09-11T08:19:44Z"
+  },
+  {
+    "invoice_id": "INV00211",
+    "customer_id": "CUST040",
+    "product_id": "WMK_P146",
+    "quantity": 3,
+    "purchase_date": "2024-08-10T20:51:18Z"
+  },
+  {
+    "invoice_id": "INV00211",
+    "customer_id": "CUST040",
+    "product_id": "WMK_P134",
+    "quantity": 1,
+    "purchase_date": "2024-08-10T20:51:18Z"
+  },
+  {
+    "invoice_id": "INV00211",
+    "customer_id": "CUST040",
+    "product_id": "WMK_P089",
+    "quantity": 3,
+    "purchase_date": "2024-08-10T20:51:18Z"
+  },
+  {
+    "invoice_id": "INV00211",
+    "customer_id": "CUST040",
+    "product_id": "WMK_P054",
+    "quantity": 3,
+    "purchase_date": "2024-08-10T20:51:18Z"
+  },
+  {
+    "invoice_id": "INV00212",
+    "customer_id": "CUST040",
+    "product_id": "WMK_P150",
+    "quantity": 3,
+    "purchase_date": "2024-10-22T01:14:54Z"
+  },
+  {
+    "invoice_id": "INV00212",
+    "customer_id": "CUST040",
+    "product_id": "WMK_P016",
+    "quantity": 3,
+    "purchase_date": "2024-10-22T01:14:54Z"
+  },
+  {
+    "invoice_id": "INV00212",
+    "customer_id": "CUST040",
+    "product_id": "WMK_P159",
+    "quantity": 3,
+    "purchase_date": "2024-10-22T01:14:54Z"
+  },
+  {
+    "invoice_id": "INV00213",
+    "customer_id": "CUST040",
+    "product_id": "WMK_P107",
+    "quantity": 2,
+    "purchase_date": "2025-03-01T23:11:17Z"
+  },
+  {
+    "invoice_id": "INV00213",
+    "customer_id": "CUST040",
+    "product_id": "WMK_P033",
+    "quantity": 1,
+    "purchase_date": "2025-03-01T23:11:17Z"
+  },
+  {
+    "invoice_id": "INV00213",
+    "customer_id": "CUST040",
+    "product_id": "WMK_P098",
+    "quantity": 1,
+    "purchase_date": "2025-03-01T23:11:17Z"
+  },
+  {
+    "invoice_id": "INV00213",
+    "customer_id": "CUST040",
+    "product_id": "WMK_P070",
+    "quantity": 3,
+    "purchase_date": "2025-03-01T23:11:17Z"
+  },
+  {
+    "invoice_id": "INV00213",
+    "customer_id": "CUST040",
+    "product_id": "WMK_P047",
+    "quantity": 1,
+    "purchase_date": "2025-03-01T23:11:17Z"
+  },
+  {
+    "invoice_id": "INV00214",
+    "customer_id": "CUST040",
+    "product_id": "WMK_P117",
+    "quantity": 2,
+    "purchase_date": "2024-07-14T01:32:57Z"
+  },
+  {
+    "invoice_id": "INV00214",
+    "customer_id": "CUST040",
+    "product_id": "WMK_P070",
+    "quantity": 2,
+    "purchase_date": "2024-07-14T01:32:57Z"
+  },
+  {
+    "invoice_id": "INV00214",
+    "customer_id": "CUST040",
+    "product_id": "WMK_P158",
+    "quantity": 2,
+    "purchase_date": "2024-07-14T01:32:57Z"
+  },
+  {
+    "invoice_id": "INV00214",
+    "customer_id": "CUST040",
+    "product_id": "WMK_P126",
+    "quantity": 2,
+    "purchase_date": "2024-07-14T01:32:57Z"
+  },
+  {
+    "invoice_id": "INV00214",
+    "customer_id": "CUST040",
+    "product_id": "WMK_P130",
+    "quantity": 2,
+    "purchase_date": "2024-07-14T01:32:57Z"
+  },
+  {
+    "invoice_id": "INV00215",
+    "customer_id": "CUST040",
+    "product_id": "WMK_P080",
+    "quantity": 2,
+    "purchase_date": "2025-01-22T13:54:40Z"
+  },
+  {
+    "invoice_id": "INV00215",
+    "customer_id": "CUST040",
+    "product_id": "WMK_P120",
+    "quantity": 1,
+    "purchase_date": "2025-01-22T13:54:40Z"
+  },
+  {
+    "invoice_id": "INV00215",
+    "customer_id": "CUST040",
+    "product_id": "WMK_P178",
+    "quantity": 1,
+    "purchase_date": "2025-01-22T13:54:40Z"
+  },
+  {
+    "invoice_id": "INV00215",
+    "customer_id": "CUST040",
+    "product_id": "WMK_P075",
+    "quantity": 2,
+    "purchase_date": "2025-01-22T13:54:40Z"
+  },
+  {
+    "invoice_id": "INV00215",
+    "customer_id": "CUST040",
+    "product_id": "WMK_P130",
+    "quantity": 3,
+    "purchase_date": "2025-01-22T13:54:40Z"
+  },
+  {
+    "invoice_id": "INV00216",
+    "customer_id": "CUST040",
+    "product_id": "WMK_P080",
+    "quantity": 3,
+    "purchase_date": "2024-08-01T18:45:27Z"
+  },
+  {
+    "invoice_id": "INV00217",
+    "customer_id": "CUST041",
+    "product_id": "WMK_P168",
+    "quantity": 1,
+    "purchase_date": "2025-06-28T14:06:40Z"
+  },
+  {
+    "invoice_id": "INV00217",
+    "customer_id": "CUST041",
+    "product_id": "WMK_P135",
+    "quantity": 1,
+    "purchase_date": "2025-06-28T14:06:40Z"
+  },
+  {
+    "invoice_id": "INV00217",
+    "customer_id": "CUST041",
+    "product_id": "WMK_P169",
+    "quantity": 3,
+    "purchase_date": "2025-06-28T14:06:40Z"
+  },
+  {
+    "invoice_id": "INV00218",
+    "customer_id": "CUST041",
+    "product_id": "WMK_P096",
+    "quantity": 1,
+    "purchase_date": "2025-04-20T23:17:29Z"
+  },
+  {
+    "invoice_id": "INV00218",
+    "customer_id": "CUST041",
+    "product_id": "WMK_P098",
+    "quantity": 3,
+    "purchase_date": "2025-04-20T23:17:29Z"
+  },
+  {
+    "invoice_id": "INV00219",
+    "customer_id": "CUST041",
+    "product_id": "WMK_P132",
+    "quantity": 1,
+    "purchase_date": "2025-02-18T01:56:36Z"
+  },
+  {
+    "invoice_id": "INV00219",
+    "customer_id": "CUST041",
+    "product_id": "WMK_P191",
+    "quantity": 3,
+    "purchase_date": "2025-02-18T01:56:36Z"
+  },
+  {
+    "invoice_id": "INV00220",
+    "customer_id": "CUST041",
+    "product_id": "WMK_P190",
+    "quantity": 1,
+    "purchase_date": "2024-09-13T03:23:41Z"
+  },
+  {
+    "invoice_id": "INV00220",
+    "customer_id": "CUST041",
+    "product_id": "WMK_P192",
+    "quantity": 3,
+    "purchase_date": "2024-09-13T03:23:41Z"
+  },
+  {
+    "invoice_id": "INV00221",
+    "customer_id": "CUST041",
+    "product_id": "WMK_P192",
+    "quantity": 1,
+    "purchase_date": "2024-09-07T14:37:33Z"
+  },
+  {
+    "invoice_id": "INV00221",
+    "customer_id": "CUST041",
+    "product_id": "WMK_P053",
+    "quantity": 3,
+    "purchase_date": "2024-09-07T14:37:33Z"
+  },
+  {
+    "invoice_id": "INV00221",
+    "customer_id": "CUST041",
+    "product_id": "WMK_P074",
+    "quantity": 1,
+    "purchase_date": "2024-09-07T14:37:33Z"
+  },
+  {
+    "invoice_id": "INV00221",
+    "customer_id": "CUST041",
+    "product_id": "WMK_P089",
+    "quantity": 3,
+    "purchase_date": "2024-09-07T14:37:33Z"
+  },
+  {
+    "invoice_id": "INV00221",
+    "customer_id": "CUST041",
+    "product_id": "WMK_P025",
+    "quantity": 3,
+    "purchase_date": "2024-09-07T14:37:33Z"
+  },
+  {
+    "invoice_id": "INV00222",
+    "customer_id": "CUST042",
+    "product_id": "WMK_P099",
+    "quantity": 1,
+    "purchase_date": "2025-07-02T13:26:37Z"
+  },
+  {
+    "invoice_id": "INV00222",
+    "customer_id": "CUST042",
+    "product_id": "WMK_P143",
+    "quantity": 1,
+    "purchase_date": "2025-07-02T13:26:37Z"
+  },
+  {
+    "invoice_id": "INV00222",
+    "customer_id": "CUST042",
+    "product_id": "WMK_P159",
+    "quantity": 3,
+    "purchase_date": "2025-07-02T13:26:37Z"
+  },
+  {
+    "invoice_id": "INV00222",
+    "customer_id": "CUST042",
+    "product_id": "WMK_P151",
+    "quantity": 3,
+    "purchase_date": "2025-07-02T13:26:37Z"
+  },
+  {
+    "invoice_id": "INV00223",
+    "customer_id": "CUST042",
+    "product_id": "WMK_P035",
+    "quantity": 2,
+    "purchase_date": "2025-01-02T04:05:43Z"
+  },
+  {
+    "invoice_id": "INV00223",
+    "customer_id": "CUST042",
+    "product_id": "WMK_P188",
+    "quantity": 2,
+    "purchase_date": "2025-01-02T04:05:43Z"
+  },
+  {
+    "invoice_id": "INV00223",
+    "customer_id": "CUST042",
+    "product_id": "WMK_P137",
+    "quantity": 1,
+    "purchase_date": "2025-01-02T04:05:43Z"
+  },
+  {
+    "invoice_id": "INV00224",
+    "customer_id": "CUST042",
+    "product_id": "WMK_P197",
+    "quantity": 3,
+    "purchase_date": "2025-05-18T08:27:47Z"
+  },
+  {
+    "invoice_id": "INV00224",
+    "customer_id": "CUST042",
+    "product_id": "WMK_P136",
+    "quantity": 2,
+    "purchase_date": "2025-05-18T08:27:47Z"
+  },
+  {
+    "invoice_id": "INV00224",
+    "customer_id": "CUST042",
+    "product_id": "WMK_P196",
+    "quantity": 3,
+    "purchase_date": "2025-05-18T08:27:47Z"
+  },
+  {
+    "invoice_id": "INV00225",
+    "customer_id": "CUST042",
+    "product_id": "WMK_P051",
+    "quantity": 2,
+    "purchase_date": "2025-01-15T02:51:23Z"
+  },
+  {
+    "invoice_id": "INV00225",
+    "customer_id": "CUST042",
+    "product_id": "WMK_P155",
+    "quantity": 2,
+    "purchase_date": "2025-01-15T02:51:23Z"
+  },
+  {
+    "invoice_id": "INV00225",
+    "customer_id": "CUST042",
+    "product_id": "WMK_P163",
+    "quantity": 2,
+    "purchase_date": "2025-01-15T02:51:23Z"
+  },
+  {
+    "invoice_id": "INV00225",
+    "customer_id": "CUST042",
+    "product_id": "WMK_P070",
+    "quantity": 2,
+    "purchase_date": "2025-01-15T02:51:23Z"
+  },
+  {
+    "invoice_id": "INV00226",
+    "customer_id": "CUST043",
+    "product_id": "WMK_P059",
+    "quantity": 1,
+    "purchase_date": "2024-10-15T07:19:04Z"
+  },
+  {
+    "invoice_id": "INV00227",
+    "customer_id": "CUST043",
+    "product_id": "WMK_P137",
+    "quantity": 1,
+    "purchase_date": "2025-05-31T10:45:59Z"
+  },
+  {
+    "invoice_id": "INV00227",
+    "customer_id": "CUST043",
+    "product_id": "WMK_P085",
+    "quantity": 1,
+    "purchase_date": "2025-05-31T10:45:59Z"
+  },
+  {
+    "invoice_id": "INV00227",
+    "customer_id": "CUST043",
+    "product_id": "WMK_P026",
+    "quantity": 2,
+    "purchase_date": "2025-05-31T10:45:59Z"
+  },
+  {
+    "invoice_id": "INV00227",
+    "customer_id": "CUST043",
+    "product_id": "WMK_P056",
+    "quantity": 1,
+    "purchase_date": "2025-05-31T10:45:59Z"
+  },
+  {
+    "invoice_id": "INV00228",
+    "customer_id": "CUST043",
+    "product_id": "WMK_P024",
+    "quantity": 3,
+    "purchase_date": "2025-02-12T12:39:45Z"
+  },
+  {
+    "invoice_id": "INV00229",
+    "customer_id": "CUST043",
+    "product_id": "WMK_P006",
+    "quantity": 1,
+    "purchase_date": "2025-02-14T05:46:57Z"
+  },
+  {
+    "invoice_id": "INV00229",
+    "customer_id": "CUST043",
+    "product_id": "WMK_P166",
+    "quantity": 2,
+    "purchase_date": "2025-02-14T05:46:57Z"
+  },
+  {
+    "invoice_id": "INV00229",
+    "customer_id": "CUST043",
+    "product_id": "WMK_P092",
+    "quantity": 1,
+    "purchase_date": "2025-02-14T05:46:57Z"
+  },
+  {
+    "invoice_id": "INV00229",
+    "customer_id": "CUST043",
+    "product_id": "WMK_P176",
+    "quantity": 3,
+    "purchase_date": "2025-02-14T05:46:57Z"
+  },
+  {
+    "invoice_id": "INV00230",
+    "customer_id": "CUST044",
+    "product_id": "WMK_P176",
+    "quantity": 3,
+    "purchase_date": "2025-05-02T21:51:38Z"
+  },
+  {
+    "invoice_id": "INV00230",
+    "customer_id": "CUST044",
+    "product_id": "WMK_P052",
+    "quantity": 2,
+    "purchase_date": "2025-05-02T21:51:38Z"
+  },
+  {
+    "invoice_id": "INV00231",
+    "customer_id": "CUST044",
+    "product_id": "WMK_P046",
+    "quantity": 3,
+    "purchase_date": "2024-11-27T08:12:43Z"
+  },
+  {
+    "invoice_id": "INV00231",
+    "customer_id": "CUST044",
+    "product_id": "WMK_P057",
+    "quantity": 2,
+    "purchase_date": "2024-11-27T08:12:43Z"
+  },
+  {
+    "invoice_id": "INV00231",
+    "customer_id": "CUST044",
+    "product_id": "WMK_P049",
+    "quantity": 3,
+    "purchase_date": "2024-11-27T08:12:43Z"
+  },
+  {
+    "invoice_id": "INV00231",
+    "customer_id": "CUST044",
+    "product_id": "WMK_P096",
+    "quantity": 1,
+    "purchase_date": "2024-11-27T08:12:43Z"
+  },
+  {
+    "invoice_id": "INV00231",
+    "customer_id": "CUST044",
+    "product_id": "WMK_P093",
+    "quantity": 1,
+    "purchase_date": "2024-11-27T08:12:43Z"
+  },
+  {
+    "invoice_id": "INV00232",
+    "customer_id": "CUST044",
+    "product_id": "WMK_P020",
+    "quantity": 3,
+    "purchase_date": "2024-11-22T21:37:21Z"
+  },
+  {
+    "invoice_id": "INV00232",
+    "customer_id": "CUST044",
+    "product_id": "WMK_P094",
+    "quantity": 1,
+    "purchase_date": "2024-11-22T21:37:21Z"
+  },
+  {
+    "invoice_id": "INV00232",
+    "customer_id": "CUST044",
+    "product_id": "WMK_P038",
+    "quantity": 3,
+    "purchase_date": "2024-11-22T21:37:21Z"
+  },
+  {
+    "invoice_id": "INV00232",
+    "customer_id": "CUST044",
+    "product_id": "WMK_P034",
+    "quantity": 2,
+    "purchase_date": "2024-11-22T21:37:21Z"
+  },
+  {
+    "invoice_id": "INV00233",
+    "customer_id": "CUST045",
+    "product_id": "WMK_P185",
+    "quantity": 2,
+    "purchase_date": "2025-06-30T11:49:53Z"
+  },
+  {
+    "invoice_id": "INV00233",
+    "customer_id": "CUST045",
+    "product_id": "WMK_P111",
+    "quantity": 3,
+    "purchase_date": "2025-06-30T11:49:53Z"
+  },
+  {
+    "invoice_id": "INV00233",
+    "customer_id": "CUST045",
+    "product_id": "WMK_P133",
+    "quantity": 1,
+    "purchase_date": "2025-06-30T11:49:53Z"
+  },
+  {
+    "invoice_id": "INV00234",
+    "customer_id": "CUST045",
+    "product_id": "WMK_P137",
+    "quantity": 3,
+    "purchase_date": "2025-05-22T22:09:30Z"
+  },
+  {
+    "invoice_id": "INV00234",
+    "customer_id": "CUST045",
+    "product_id": "WMK_P020",
+    "quantity": 1,
+    "purchase_date": "2025-05-22T22:09:30Z"
+  },
+  {
+    "invoice_id": "INV00234",
+    "customer_id": "CUST045",
+    "product_id": "WMK_P179",
+    "quantity": 3,
+    "purchase_date": "2025-05-22T22:09:30Z"
+  },
+  {
+    "invoice_id": "INV00235",
+    "customer_id": "CUST045",
+    "product_id": "WMK_P081",
+    "quantity": 1,
+    "purchase_date": "2024-10-11T07:46:22Z"
+  },
+  {
+    "invoice_id": "INV00235",
+    "customer_id": "CUST045",
+    "product_id": "WMK_P008",
+    "quantity": 1,
+    "purchase_date": "2024-10-11T07:46:22Z"
+  },
+  {
+    "invoice_id": "INV00235",
+    "customer_id": "CUST045",
+    "product_id": "WMK_P035",
+    "quantity": 1,
+    "purchase_date": "2024-10-11T07:46:22Z"
+  },
+  {
+    "invoice_id": "INV00235",
+    "customer_id": "CUST045",
+    "product_id": "WMK_P069",
+    "quantity": 1,
+    "purchase_date": "2024-10-11T07:46:22Z"
+  },
+  {
+    "invoice_id": "INV00235",
+    "customer_id": "CUST045",
+    "product_id": "WMK_P086",
+    "quantity": 2,
+    "purchase_date": "2024-10-11T07:46:22Z"
+  },
+  {
+    "invoice_id": "INV00236",
+    "customer_id": "CUST045",
+    "product_id": "WMK_P186",
+    "quantity": 2,
+    "purchase_date": "2024-11-16T01:15:43Z"
+  },
+  {
+    "invoice_id": "INV00236",
+    "customer_id": "CUST045",
+    "product_id": "WMK_P142",
+    "quantity": 1,
+    "purchase_date": "2024-11-16T01:15:43Z"
+  },
+  {
+    "invoice_id": "INV00237",
+    "customer_id": "CUST045",
+    "product_id": "WMK_P100",
+    "quantity": 2,
+    "purchase_date": "2024-10-13T16:23:11Z"
+  },
+  {
+    "invoice_id": "INV00237",
+    "customer_id": "CUST045",
+    "product_id": "WMK_P016",
+    "quantity": 1,
+    "purchase_date": "2024-10-13T16:23:11Z"
+  },
+  {
+    "invoice_id": "INV00237",
+    "customer_id": "CUST045",
+    "product_id": "WMK_P039",
+    "quantity": 1,
+    "purchase_date": "2024-10-13T16:23:11Z"
+  },
+  {
+    "invoice_id": "INV00237",
+    "customer_id": "CUST045",
+    "product_id": "WMK_P176",
+    "quantity": 3,
+    "purchase_date": "2024-10-13T16:23:11Z"
+  },
+  {
+    "invoice_id": "INV00237",
+    "customer_id": "CUST045",
+    "product_id": "WMK_P181",
+    "quantity": 1,
+    "purchase_date": "2024-10-13T16:23:11Z"
+  },
+  {
+    "invoice_id": "INV00238",
+    "customer_id": "CUST045",
+    "product_id": "WMK_P007",
+    "quantity": 1,
+    "purchase_date": "2025-04-21T02:55:22Z"
+  },
+  {
+    "invoice_id": "INV00238",
+    "customer_id": "CUST045",
+    "product_id": "WMK_P085",
+    "quantity": 1,
+    "purchase_date": "2025-04-21T02:55:22Z"
+  },
+  {
+    "invoice_id": "INV00238",
+    "customer_id": "CUST045",
+    "product_id": "WMK_P039",
+    "quantity": 1,
+    "purchase_date": "2025-04-21T02:55:22Z"
+  },
+  {
+    "invoice_id": "INV00238",
+    "customer_id": "CUST045",
+    "product_id": "WMK_P082",
+    "quantity": 1,
+    "purchase_date": "2025-04-21T02:55:22Z"
+  },
+  {
+    "invoice_id": "INV00239",
+    "customer_id": "CUST046",
+    "product_id": "WMK_P179",
+    "quantity": 3,
+    "purchase_date": "2025-06-13T18:34:44Z"
+  },
+  {
+    "invoice_id": "INV00239",
+    "customer_id": "CUST046",
+    "product_id": "WMK_P190",
+    "quantity": 1,
+    "purchase_date": "2025-06-13T18:34:44Z"
+  },
+  {
+    "invoice_id": "INV00239",
+    "customer_id": "CUST046",
+    "product_id": "WMK_P192",
+    "quantity": 1,
+    "purchase_date": "2025-06-13T18:34:44Z"
+  },
+  {
+    "invoice_id": "INV00239",
+    "customer_id": "CUST046",
+    "product_id": "WMK_P006",
+    "quantity": 1,
+    "purchase_date": "2025-06-13T18:34:44Z"
+  },
+  {
+    "invoice_id": "INV00239",
+    "customer_id": "CUST046",
+    "product_id": "WMK_P191",
+    "quantity": 1,
+    "purchase_date": "2025-06-13T18:34:44Z"
+  },
+  {
+    "invoice_id": "INV00240",
+    "customer_id": "CUST046",
+    "product_id": "WMK_P087",
+    "quantity": 2,
+    "purchase_date": "2025-05-22T00:00:57Z"
+  },
+  {
+    "invoice_id": "INV00241",
+    "customer_id": "CUST046",
+    "product_id": "WMK_P056",
+    "quantity": 3,
+    "purchase_date": "2025-01-31T05:55:11Z"
+  },
+  {
+    "invoice_id": "INV00241",
+    "customer_id": "CUST046",
+    "product_id": "WMK_P120",
+    "quantity": 1,
+    "purchase_date": "2025-01-31T05:55:11Z"
+  },
+  {
+    "invoice_id": "INV00241",
+    "customer_id": "CUST046",
+    "product_id": "WMK_P092",
+    "quantity": 3,
+    "purchase_date": "2025-01-31T05:55:11Z"
+  },
+  {
+    "invoice_id": "INV00242",
+    "customer_id": "CUST046",
+    "product_id": "WMK_P060",
+    "quantity": 2,
+    "purchase_date": "2025-01-13T10:01:50Z"
+  },
+  {
+    "invoice_id": "INV00243",
+    "customer_id": "CUST046",
+    "product_id": "WMK_P011",
+    "quantity": 1,
+    "purchase_date": "2025-05-20T15:17:16Z"
+  },
+  {
+    "invoice_id": "INV00243",
+    "customer_id": "CUST046",
+    "product_id": "WMK_P085",
+    "quantity": 3,
+    "purchase_date": "2025-05-20T15:17:16Z"
+  },
+  {
+    "invoice_id": "INV00244",
+    "customer_id": "CUST046",
+    "product_id": "WMK_P083",
+    "quantity": 1,
+    "purchase_date": "2025-05-27T06:25:00Z"
+  },
+  {
+    "invoice_id": "INV00244",
+    "customer_id": "CUST046",
+    "product_id": "WMK_P016",
+    "quantity": 3,
+    "purchase_date": "2025-05-27T06:25:00Z"
+  },
+  {
+    "invoice_id": "INV00244",
+    "customer_id": "CUST046",
+    "product_id": "WMK_P121",
+    "quantity": 1,
+    "purchase_date": "2025-05-27T06:25:00Z"
+  },
+  {
+    "invoice_id": "INV00245",
+    "customer_id": "CUST046",
+    "product_id": "WMK_P044",
+    "quantity": 3,
+    "purchase_date": "2025-06-22T19:26:14Z"
+  },
+  {
+    "invoice_id": "INV00246",
+    "customer_id": "CUST047",
+    "product_id": "WMK_P131",
+    "quantity": 2,
+    "purchase_date": "2024-07-26T02:02:12Z"
+  },
+  {
+    "invoice_id": "INV00246",
+    "customer_id": "CUST047",
+    "product_id": "WMK_P185",
+    "quantity": 2,
+    "purchase_date": "2024-07-26T02:02:12Z"
+  },
+  {
+    "invoice_id": "INV00246",
+    "customer_id": "CUST047",
+    "product_id": "WMK_P186",
+    "quantity": 2,
+    "purchase_date": "2024-07-26T02:02:12Z"
+  },
+  {
+    "invoice_id": "INV00246",
+    "customer_id": "CUST047",
+    "product_id": "WMK_P093",
+    "quantity": 3,
+    "purchase_date": "2024-07-26T02:02:12Z"
+  },
+  {
+    "invoice_id": "INV00246",
+    "customer_id": "CUST047",
+    "product_id": "WMK_P160",
+    "quantity": 3,
+    "purchase_date": "2024-07-26T02:02:12Z"
+  },
+  {
+    "invoice_id": "INV00247",
+    "customer_id": "CUST047",
+    "product_id": "WMK_P089",
+    "quantity": 2,
+    "purchase_date": "2025-02-02T13:43:00Z"
+  },
+  {
+    "invoice_id": "INV00247",
+    "customer_id": "CUST047",
+    "product_id": "WMK_P051",
+    "quantity": 1,
+    "purchase_date": "2025-02-02T13:43:00Z"
+  },
+  {
+    "invoice_id": "INV00248",
+    "customer_id": "CUST047",
+    "product_id": "WMK_P039",
+    "quantity": 1,
+    "purchase_date": "2024-10-16T17:56:56Z"
+  },
+  {
+    "invoice_id": "INV00248",
+    "customer_id": "CUST047",
+    "product_id": "WMK_P073",
+    "quantity": 3,
+    "purchase_date": "2024-10-16T17:56:56Z"
+  },
+  {
+    "invoice_id": "INV00248",
+    "customer_id": "CUST047",
+    "product_id": "WMK_P111",
+    "quantity": 2,
+    "purchase_date": "2024-10-16T17:56:56Z"
+  },
+  {
+    "invoice_id": "INV00249",
+    "customer_id": "CUST047",
+    "product_id": "WMK_P168",
+    "quantity": 2,
+    "purchase_date": "2025-02-20T00:23:25Z"
+  },
+  {
+    "invoice_id": "INV00250",
+    "customer_id": "CUST047",
+    "product_id": "WMK_P088",
+    "quantity": 1,
+    "purchase_date": "2024-11-23T00:46:27Z"
+  },
+  {
+    "invoice_id": "INV00250",
+    "customer_id": "CUST047",
+    "product_id": "WMK_P062",
+    "quantity": 2,
+    "purchase_date": "2024-11-23T00:46:27Z"
+  },
+  {
+    "invoice_id": "INV00251",
+    "customer_id": "CUST047",
+    "product_id": "WMK_P139",
+    "quantity": 1,
+    "purchase_date": "2025-07-11T03:12:39Z"
+  },
+  {
+    "invoice_id": "INV00251",
+    "customer_id": "CUST047",
+    "product_id": "WMK_P183",
+    "quantity": 1,
+    "purchase_date": "2025-07-11T03:12:39Z"
+  },
+  {
+    "invoice_id": "INV00251",
+    "customer_id": "CUST047",
+    "product_id": "WMK_P005",
+    "quantity": 2,
+    "purchase_date": "2025-07-11T03:12:39Z"
+  },
+  {
+    "invoice_id": "INV00251",
+    "customer_id": "CUST047",
+    "product_id": "WMK_P154",
+    "quantity": 1,
+    "purchase_date": "2025-07-11T03:12:39Z"
+  },
+  {
+    "invoice_id": "INV00252",
+    "customer_id": "CUST048",
+    "product_id": "WMK_P065",
+    "quantity": 1,
+    "purchase_date": "2024-11-27T07:37:29Z"
+  },
+  {
+    "invoice_id": "INV00252",
+    "customer_id": "CUST048",
+    "product_id": "WMK_P038",
+    "quantity": 1,
+    "purchase_date": "2024-11-27T07:37:29Z"
+  },
+  {
+    "invoice_id": "INV00252",
+    "customer_id": "CUST048",
+    "product_id": "WMK_P056",
+    "quantity": 3,
+    "purchase_date": "2024-11-27T07:37:29Z"
+  },
+  {
+    "invoice_id": "INV00253",
+    "customer_id": "CUST048",
+    "product_id": "WMK_P045",
+    "quantity": 2,
+    "purchase_date": "2025-02-22T12:25:41Z"
+  },
+  {
+    "invoice_id": "INV00253",
+    "customer_id": "CUST048",
+    "product_id": "WMK_P095",
+    "quantity": 1,
+    "purchase_date": "2025-02-22T12:25:41Z"
+  },
+  {
+    "invoice_id": "INV00253",
+    "customer_id": "CUST048",
+    "product_id": "WMK_P029",
+    "quantity": 1,
+    "purchase_date": "2025-02-22T12:25:41Z"
+  },
+  {
+    "invoice_id": "INV00254",
+    "customer_id": "CUST048",
+    "product_id": "WMK_P192",
+    "quantity": 3,
+    "purchase_date": "2024-12-07T04:32:49Z"
+  },
+  {
+    "invoice_id": "INV00254",
+    "customer_id": "CUST048",
+    "product_id": "WMK_P199",
+    "quantity": 3,
+    "purchase_date": "2024-12-07T04:32:49Z"
+  },
+  {
+    "invoice_id": "INV00254",
+    "customer_id": "CUST048",
+    "product_id": "WMK_P135",
+    "quantity": 3,
+    "purchase_date": "2024-12-07T04:32:49Z"
+  },
+  {
+    "invoice_id": "INV00255",
+    "customer_id": "CUST048",
+    "product_id": "WMK_P139",
+    "quantity": 1,
+    "purchase_date": "2025-01-08T12:02:22Z"
+  },
+  {
+    "invoice_id": "INV00255",
+    "customer_id": "CUST048",
+    "product_id": "WMK_P093",
+    "quantity": 2,
+    "purchase_date": "2025-01-08T12:02:22Z"
+  },
+  {
+    "invoice_id": "INV00255",
+    "customer_id": "CUST048",
+    "product_id": "WMK_P121",
+    "quantity": 1,
+    "purchase_date": "2025-01-08T12:02:22Z"
+  },
+  {
+    "invoice_id": "INV00255",
+    "customer_id": "CUST048",
+    "product_id": "WMK_P110",
+    "quantity": 2,
+    "purchase_date": "2025-01-08T12:02:22Z"
+  },
+  {
+    "invoice_id": "INV00256",
+    "customer_id": "CUST049",
+    "product_id": "WMK_P067",
+    "quantity": 3,
+    "purchase_date": "2024-08-26T11:25:31Z"
+  },
+  {
+    "invoice_id": "INV00257",
+    "customer_id": "CUST049",
+    "product_id": "WMK_P026",
+    "quantity": 3,
+    "purchase_date": "2025-06-17T04:51:45Z"
+  },
+  {
+    "invoice_id": "INV00257",
+    "customer_id": "CUST049",
+    "product_id": "WMK_P155",
+    "quantity": 1,
+    "purchase_date": "2025-06-17T04:51:45Z"
+  },
+  {
+    "invoice_id": "INV00257",
+    "customer_id": "CUST049",
+    "product_id": "WMK_P085",
+    "quantity": 3,
+    "purchase_date": "2025-06-17T04:51:45Z"
+  },
+  {
+    "invoice_id": "INV00257",
+    "customer_id": "CUST049",
+    "product_id": "WMK_P144",
+    "quantity": 3,
+    "purchase_date": "2025-06-17T04:51:45Z"
+  },
+  {
+    "invoice_id": "INV00257",
+    "customer_id": "CUST049",
+    "product_id": "WMK_P036",
+    "quantity": 2,
+    "purchase_date": "2025-06-17T04:51:45Z"
+  },
+  {
+    "invoice_id": "INV00258",
+    "customer_id": "CUST049",
+    "product_id": "WMK_P015",
+    "quantity": 1,
+    "purchase_date": "2025-06-12T06:51:01Z"
+  },
+  {
+    "invoice_id": "INV00258",
+    "customer_id": "CUST049",
+    "product_id": "WMK_P144",
+    "quantity": 2,
+    "purchase_date": "2025-06-12T06:51:01Z"
+  },
+  {
+    "invoice_id": "INV00258",
+    "customer_id": "CUST049",
+    "product_id": "WMK_P163",
+    "quantity": 3,
+    "purchase_date": "2025-06-12T06:51:01Z"
+  },
+  {
+    "invoice_id": "INV00259",
+    "customer_id": "CUST049",
+    "product_id": "WMK_P173",
+    "quantity": 1,
+    "purchase_date": "2024-12-05T07:55:44Z"
+  },
+  {
+    "invoice_id": "INV00259",
+    "customer_id": "CUST049",
+    "product_id": "WMK_P186",
+    "quantity": 1,
+    "purchase_date": "2024-12-05T07:55:44Z"
+  },
+  {
+    "invoice_id": "INV00260",
+    "customer_id": "CUST050",
+    "product_id": "WMK_P102",
+    "quantity": 2,
+    "purchase_date": "2025-01-15T16:22:20Z"
+  },
+  {
+    "invoice_id": "INV00260",
+    "customer_id": "CUST050",
+    "product_id": "WMK_P053",
+    "quantity": 2,
+    "purchase_date": "2025-01-15T16:22:20Z"
+  },
+  {
+    "invoice_id": "INV00261",
+    "customer_id": "CUST050",
+    "product_id": "WMK_P170",
+    "quantity": 2,
+    "purchase_date": "2025-03-13T18:41:21Z"
+  },
+  {
+    "invoice_id": "INV00261",
+    "customer_id": "CUST050",
+    "product_id": "WMK_P188",
+    "quantity": 2,
+    "purchase_date": "2025-03-13T18:41:21Z"
+  },
+  {
+    "invoice_id": "INV00261",
+    "customer_id": "CUST050",
+    "product_id": "WMK_P136",
+    "quantity": 3,
+    "purchase_date": "2025-03-13T18:41:21Z"
+  },
+  {
+    "invoice_id": "INV00261",
+    "customer_id": "CUST050",
+    "product_id": "WMK_P117",
+    "quantity": 3,
+    "purchase_date": "2025-03-13T18:41:21Z"
+  },
+  {
+    "invoice_id": "INV00262",
+    "customer_id": "CUST050",
+    "product_id": "WMK_P059",
+    "quantity": 2,
+    "purchase_date": "2025-03-04T17:46:57Z"
+  },
+  {
+    "invoice_id": "INV00262",
+    "customer_id": "CUST050",
+    "product_id": "WMK_P120",
+    "quantity": 2,
+    "purchase_date": "2025-03-04T17:46:57Z"
+  },
+  {
+    "invoice_id": "INV00263",
+    "customer_id": "CUST050",
+    "product_id": "WMK_P154",
+    "quantity": 1,
+    "purchase_date": "2025-05-24T14:51:10Z"
+  },
+  {
+    "invoice_id": "INV00264",
+    "customer_id": "CUST050",
+    "product_id": "WMK_P026",
+    "quantity": 1,
+    "purchase_date": "2025-04-05T09:24:30Z"
+  },
+  {
+    "invoice_id": "INV00264",
+    "customer_id": "CUST050",
+    "product_id": "WMK_P054",
+    "quantity": 2,
+    "purchase_date": "2025-04-05T09:24:30Z"
+  },
+  {
+    "invoice_id": "INV00264",
+    "customer_id": "CUST050",
+    "product_id": "WMK_P030",
+    "quantity": 2,
+    "purchase_date": "2025-04-05T09:24:30Z"
+  },
+  {
+    "invoice_id": "INV00264",
+    "customer_id": "CUST050",
+    "product_id": "WMK_P191",
+    "quantity": 3,
+    "purchase_date": "2025-04-05T09:24:30Z"
+  }
+]

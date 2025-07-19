@@ -1,0 +1,3002 @@
+[
+  {
+    "product_id": "WMK_P001",
+    "product_name": "GlowSkin Gentle Body Wash",
+    "brand": "GlowSkin",
+    "category": "Personal Care",
+    "subcategory": "Operation",
+    "price": 18.97,
+    "image_url": "https://via.placeholder.com/80?text=GlowSkin+Gentle+Body+Wash",
+    "description": "Second instead ever conference force join approach capital.",
+    "attributes": {
+      "type": "language",
+      "volume_ml": 500,
+      "fragrance_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P002",
+    "product_name": "CleanRight Dish Soap (Concentrated)",
+    "brand": "CleanRight",
+    "category": "Household Essentials",
+    "subcategory": "The",
+    "price": 23.54,
+    "image_url": "https://via.placeholder.com/80?text=CleanRight+Dish+Soap+(Concentrated)",
+    "description": "Read why paper interesting condition author use serve all part.",
+    "attributes": {
+      "scent": "child",
+      "size_ml": 500,
+      "eco_friendly": false
+    }
+  },
+  {
+    "product_id": "WMK_P003",
+    "product_name": "FreshHome Dish Soap (Concentrated)",
+    "brand": "FreshHome",
+    "category": "Household Essentials",
+    "subcategory": "Foot",
+    "price": 28.27,
+    "image_url": "https://via.placeholder.com/80?text=FreshHome+Dish+Soap+(Concentrated)",
+    "description": "Describe walk Congress series spend.",
+    "attributes": {
+      "scent": "project",
+      "size_ml": 500,
+      "eco_friendly": true
+    }
+  },
+  {
+    "product_id": "WMK_P004",
+    "product_name": "ShinePro Laundry Detergent (100 Loads)",
+    "brand": "ShinePro",
+    "category": "Household Essentials",
+    "subcategory": "Enjoy",
+    "price": 14.78,
+    "image_url": "https://via.placeholder.com/80?text=ShinePro+Laundry+Detergent+(100+Loads)",
+    "description": "Low by could statement food policy lead everybody.",
+    "attributes": {
+      "scent": "today",
+      "size_ml": 1500,
+      "eco_friendly": true
+    }
+  },
+  {
+    "product_id": "WMK_P005",
+    "product_name": "SmartLiving Smart Doorbell",
+    "brand": "SmartLiving",
+    "category": "Electronics & Home Goods",
+    "subcategory": "Push",
+    "price": 12.62,
+    "image_url": "https://via.placeholder.com/80?text=SmartLiving+Smart+Doorbell",
+    "description": "Onto also music level later hospital deal crime will region.",
+    "attributes": {
+      "color": "Cyan",
+      "power_watts": 15,
+      "warranty_years": 3
+    }
+  },
+  {
+    "product_id": "WMK_P006",
+    "product_name": "TechLife Robot Vacuum Cleaner",
+    "brand": "TechLife",
+    "category": "Electronics & Home Goods",
+    "subcategory": "Wear",
+    "price": 170.3,
+    "image_url": "https://via.placeholder.com/80?text=TechLife+Robot+Vacuum+Cleaner",
+    "description": "Cover service American top chair price serve green view agent.",
+    "attributes": {
+      "color": "MediumOrchid",
+      "power_watts": 69,
+      "warranty_years": 1
+    }
+  },
+  {
+    "product_id": "WMK_P007",
+    "product_name": "CleanRight Dish Soap (Concentrated)",
+    "brand": "CleanRight",
+    "category": "Household Essentials",
+    "subcategory": "Why",
+    "price": 18.56,
+    "image_url": "https://via.placeholder.com/80?text=CleanRight+Dish+Soap+(Concentrated)",
+    "description": "Professional tree wish use cut newspaper.",
+    "attributes": {
+      "scent": "control",
+      "size_ml": 1500,
+      "eco_friendly": false
+    }
+  },
+  {
+    "product_id": "WMK_P008",
+    "product_name": "CleanRight All-Purpose Cleaner Spray",
+    "brand": "CleanRight",
+    "category": "Household Essentials",
+    "subcategory": "Single",
+    "price": 21.43,
+    "image_url": "https://via.placeholder.com/80?text=CleanRight+All-Purpose+Cleaner+Spray",
+    "description": "Program start pick in include baby break son.",
+    "attributes": {
+      "scent": "generation",
+      "size_ml": 1000,
+      "eco_friendly": false
+    }
+  },
+  {
+    "product_id": "WMK_P009",
+    "product_name": "FreshHome Dish Soap (Concentrated)",
+    "brand": "FreshHome",
+    "category": "Household Essentials",
+    "subcategory": "Keep",
+    "price": 26.72,
+    "image_url": "https://via.placeholder.com/80?text=FreshHome+Dish+Soap+(Concentrated)",
+    "description": "Skill citizen partner peace lose recent sense into.",
+    "attributes": {
+      "scent": "who",
+      "size_ml": 2000,
+      "eco_friendly": false
+    }
+  },
+  {
+    "product_id": "WMK_P010",
+    "product_name": "AquaPure Herbal Tea Bags (20ct)",
+    "brand": "AquaPure",
+    "category": "Beverages",
+    "subcategory": "Even",
+    "price": 6.64,
+    "image_url": "https://via.placeholder.com/80?text=AquaPure+Herbal+Tea+Bags+(20ct)",
+    "description": "Improve with check mention individual investment media never.",
+    "attributes": {
+      "sugar_content": "zero",
+      "pack_size": "6_pack",
+      "caffeine_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P011",
+    "product_name": "MorningBrew Premium Coffee Beans (Bag)",
+    "brand": "MorningBrew",
+    "category": "Beverages",
+    "subcategory": "Along",
+    "price": 4.63,
+    "image_url": "https://via.placeholder.com/80?text=MorningBrew+Premium+Coffee+Beans+(Bag)",
+    "description": "Join argue do participant keep provide discuss.",
+    "attributes": {
+      "sugar_content": "diet",
+      "pack_size": "single_bottle",
+      "caffeine_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P012",
+    "product_name": "NutriSnack Fruit Gummy Bears",
+    "brand": "NutriSnack",
+    "category": "Snacks & Confectionery",
+    "subcategory": "Member",
+    "price": 7.9,
+    "image_url": "https://via.placeholder.com/80?text=NutriSnack+Fruit+Gummy+Bears",
+    "description": "Dream international discover any her.",
+    "attributes": {
+      "flavor": "live",
+      "pack_count": 1,
+      "gluten_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P013",
+    "product_name": "GlowSkin Hand Sanitizer (Large)",
+    "brand": "GlowSkin",
+    "category": "Personal Care",
+    "subcategory": "Line",
+    "price": 9.13,
+    "image_url": "https://via.placeholder.com/80?text=GlowSkin+Hand+Sanitizer+(Large)",
+    "description": "Nice theory carry benefit attention act fish church.",
+    "attributes": {
+      "type": "huge",
+      "volume_ml": 250,
+      "fragrance_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P014",
+    "product_name": "TechLife Smart Doorbell",
+    "brand": "TechLife",
+    "category": "Electronics & Home Goods",
+    "subcategory": "Stop",
+    "price": 175.58,
+    "image_url": "https://via.placeholder.com/80?text=TechLife+Smart+Doorbell",
+    "description": "Impact nation effect major civil hot entire recent energy year.",
+    "attributes": {
+      "color": "BurlyWood",
+      "power_watts": 138,
+      "warranty_years": 5
+    }
+  },
+  {
+    "product_id": "WMK_P015",
+    "product_name": "HomeComfort Portable Bluetooth Speaker",
+    "brand": "HomeComfort",
+    "category": "Electronics & Home Goods",
+    "subcategory": "Area",
+    "price": 195.26,
+    "image_url": "https://via.placeholder.com/80?text=HomeComfort+Portable+Bluetooth+Speaker",
+    "description": "Particular must success cup scene very.",
+    "attributes": {
+      "color": "GoldenRod",
+      "power_watts": 135,
+      "warranty_years": 4
+    }
+  },
+  {
+    "product_id": "WMK_P016",
+    "product_name": "FarmFresh Avocado (Each)",
+    "brand": "FarmFresh",
+    "category": "Dairy & Fresh Produce",
+    "subcategory": "Down",
+    "price": 5.97,
+    "image_url": "https://via.placeholder.com/80?text=FarmFresh+Avocado+(Each)",
+    "description": "Put fly another organization strategy difference hot win capital green.",
+    "attributes": {
+      "organic": false,
+      "freshness_guarantee": "7 days",
+      "farm_source": "Ayers, Evans and Sanchez"
+    }
+  },
+  {
+    "product_id": "WMK_P017",
+    "product_name": "Nature'sBest Milk (Gallon)",
+    "brand": "Nature'sBest",
+    "category": "Dairy & Fresh Produce",
+    "subcategory": "Available",
+    "price": 3.73,
+    "image_url": "https://via.placeholder.com/80?text=Nature'sBest+Milk+(Gallon)",
+    "description": "Beyond pressure spring discussion common sing south.",
+    "attributes": {
+      "organic": true,
+      "freshness_guarantee": "7 days",
+      "farm_source": "Kim-Kim"
+    }
+  },
+  {
+    "product_id": "WMK_P018",
+    "product_name": "MorningBrew Premium Coffee Beans (Bag)",
+    "brand": "MorningBrew",
+    "category": "Beverages",
+    "subcategory": "Attorney",
+    "price": 7.05,
+    "image_url": "https://via.placeholder.com/80?text=MorningBrew+Premium+Coffee+Beans+(Bag)",
+    "description": "Maintain on different we whose budget choice range member.",
+    "attributes": {
+      "sugar_content": "zero",
+      "pack_size": "12_pack",
+      "caffeine_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P019",
+    "product_name": "HomeComfort Robot Vacuum Cleaner",
+    "brand": "HomeComfort",
+    "category": "Electronics & Home Goods",
+    "subcategory": "West",
+    "price": 24.61,
+    "image_url": "https://via.placeholder.com/80?text=HomeComfort+Robot+Vacuum+Cleaner",
+    "description": "Cup red need common support trade we.",
+    "attributes": {
+      "color": "Azure",
+      "power_watts": 70,
+      "warranty_years": 2
+    }
+  },
+  {
+    "product_id": "WMK_P020",
+    "product_name": "Nature'sBest Organic Eggs (Dozen)",
+    "brand": "Nature'sBest",
+    "category": "Dairy & Fresh Produce",
+    "subcategory": "Media",
+    "price": 9.57,
+    "image_url": "https://via.placeholder.com/80?text=Nature'sBest+Organic+Eggs+(Dozen)",
+    "description": "Since any experience thought join future picture.",
+    "attributes": {
+      "organic": true,
+      "freshness_guarantee": "7 days",
+      "farm_source": "Harris-Melendez"
+    }
+  },
+  {
+    "product_id": "WMK_P021",
+    "product_name": "HealthyHair Hand Sanitizer (Large)",
+    "brand": "HealthyHair",
+    "category": "Personal Care",
+    "subcategory": "Type",
+    "price": 19.55,
+    "image_url": "https://via.placeholder.com/80?text=HealthyHair+Hand+Sanitizer+(Large)",
+    "description": "Tend national paper beat floor rise between house partner.",
+    "attributes": {
+      "type": "audience",
+      "volume_ml": 100,
+      "fragrance_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P022",
+    "product_name": "SmartLiving Portable Bluetooth Speaker",
+    "brand": "SmartLiving",
+    "category": "Electronics & Home Goods",
+    "subcategory": "Peace",
+    "price": 37.3,
+    "image_url": "https://via.placeholder.com/80?text=SmartLiving+Portable+Bluetooth+Speaker",
+    "description": "Team measure would foot assume if wind Congress stand.",
+    "attributes": {
+      "color": "RosyBrown",
+      "power_watts": 103,
+      "warranty_years": 1
+    }
+  },
+  {
+    "product_id": "WMK_P023",
+    "product_name": "FarmFresh Organic Eggs (Dozen)",
+    "brand": "FarmFresh",
+    "category": "Dairy & Fresh Produce",
+    "subcategory": "Most",
+    "price": 6.71,
+    "image_url": "https://via.placeholder.com/80?text=FarmFresh+Organic+Eggs+(Dozen)",
+    "description": "Who relate rise director necessary new.",
+    "attributes": {
+      "organic": false,
+      "freshness_guarantee": "7 days",
+      "farm_source": "Norris, Thomas and Meyer"
+    }
+  },
+  {
+    "product_id": "WMK_P024",
+    "product_name": "MorningBrew Cola (12-pack)",
+    "brand": "MorningBrew",
+    "category": "Beverages",
+    "subcategory": "Information",
+    "price": 9.76,
+    "image_url": "https://via.placeholder.com/80?text=MorningBrew+Cola+(12-pack)",
+    "description": "Us industry forget shoulder economic deep be improve.",
+    "attributes": {
+      "sugar_content": "diet",
+      "pack_size": "12_pack",
+      "caffeine_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P025",
+    "product_name": "GlowSkin Bar Soap (Value Pack)",
+    "brand": "GlowSkin",
+    "category": "Personal Care",
+    "subcategory": "Job",
+    "price": 12.81,
+    "image_url": "https://via.placeholder.com/80?text=GlowSkin+Bar+Soap+(Value+Pack)",
+    "description": "Laugh here success pressure happy great.",
+    "attributes": {
+      "type": "agree",
+      "volume_ml": 250,
+      "fragrance_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P026",
+    "product_name": "FarmFresh Avocado (Each)",
+    "brand": "FarmFresh",
+    "category": "Dairy & Fresh Produce",
+    "subcategory": "Over",
+    "price": 7.13,
+    "image_url": "https://via.placeholder.com/80?text=FarmFresh+Avocado+(Each)",
+    "description": "Measure build paper reach home material.",
+    "attributes": {
+      "organic": false,
+      "freshness_guarantee": "7 days",
+      "farm_source": "Castillo Inc"
+    }
+  },
+  {
+    "product_id": "WMK_P027",
+    "product_name": "DailyHarvest Organic Eggs (Dozen)",
+    "brand": "DailyHarvest",
+    "category": "Dairy & Fresh Produce",
+    "subcategory": "Eight",
+    "price": 9.67,
+    "image_url": "https://via.placeholder.com/80?text=DailyHarvest+Organic+Eggs+(Dozen)",
+    "description": "Against strong feel bill day show data under see.",
+    "attributes": {
+      "organic": true,
+      "freshness_guarantee": "7 days",
+      "farm_source": "Jones, Mcgee and Stone"
+    }
+  },
+  {
+    "product_id": "WMK_P028",
+    "product_name": "GlowSkin Moisturizing Shampoo",
+    "brand": "GlowSkin",
+    "category": "Personal Care",
+    "subcategory": "Visit",
+    "price": 3.11,
+    "image_url": "https://via.placeholder.com/80?text=GlowSkin+Moisturizing+Shampoo",
+    "description": "Yet from eat data teacher.",
+    "attributes": {
+      "type": "radio",
+      "volume_ml": 500,
+      "fragrance_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P029",
+    "product_name": "HealthyHair Gentle Body Wash",
+    "brand": "HealthyHair",
+    "category": "Personal Care",
+    "subcategory": "Read",
+    "price": 18.29,
+    "image_url": "https://via.placeholder.com/80?text=HealthyHair+Gentle+Body+Wash",
+    "description": "Stock success style beat heart.",
+    "attributes": {
+      "type": "once",
+      "volume_ml": 750,
+      "fragrance_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P030",
+    "product_name": "GlowSkin Bar Soap (Value Pack)",
+    "brand": "GlowSkin",
+    "category": "Personal Care",
+    "subcategory": "Simply",
+    "price": 9.83,
+    "image_url": "https://via.placeholder.com/80?text=GlowSkin+Bar+Soap+(Value+Pack)",
+    "description": "Dinner game church though around door particularly thought bring government.",
+    "attributes": {
+      "type": "evidence",
+      "volume_ml": 250,
+      "fragrance_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P031",
+    "product_name": "Nature'sBest Avocado (Each)",
+    "brand": "Nature'sBest",
+    "category": "Dairy & Fresh Produce",
+    "subcategory": "Boy",
+    "price": 8.34,
+    "image_url": "https://via.placeholder.com/80?text=Nature'sBest+Avocado+(Each)",
+    "description": "Home pay play turn reduce it full policy individual station.",
+    "attributes": {
+      "organic": true,
+      "freshness_guarantee": "7 days",
+      "farm_source": "Taylor-Johnson"
+    }
+  },
+  {
+    "product_id": "WMK_P032",
+    "product_name": "FreshHome All-Purpose Cleaner Spray",
+    "brand": "FreshHome",
+    "category": "Household Essentials",
+    "subcategory": "Receive",
+    "price": 20.48,
+    "image_url": "https://via.placeholder.com/80?text=FreshHome+All-Purpose+Cleaner+Spray",
+    "description": "Lot identify general practice senior.",
+    "attributes": {
+      "scent": "art",
+      "size_ml": 1000,
+      "eco_friendly": false
+    }
+  },
+  {
+    "product_id": "WMK_P033",
+    "product_name": "MorningBrew Orange Juice (Gallon)",
+    "brand": "MorningBrew",
+    "category": "Beverages",
+    "subcategory": "Make",
+    "price": 5.59,
+    "image_url": "https://via.placeholder.com/80?text=MorningBrew+Orange+Juice+(Gallon)",
+    "description": "Benefit very young product difficult idea themselves.",
+    "attributes": {
+      "sugar_content": "regular",
+      "pack_size": "12_pack",
+      "caffeine_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P034",
+    "product_name": "Nature'sBest Cheddar Cheese Block",
+    "brand": "Nature'sBest",
+    "category": "Dairy & Fresh Produce",
+    "subcategory": "To",
+    "price": 8.19,
+    "image_url": "https://via.placeholder.com/80?text=Nature'sBest+Cheddar+Cheese+Block",
+    "description": "Style very interest toward.",
+    "attributes": {
+      "organic": false,
+      "freshness_guarantee": "7 days",
+      "farm_source": "Kirk, Carter and Robinson"
+    }
+  },
+  {
+    "product_id": "WMK_P035",
+    "product_name": "MorningBrew Herbal Tea Bags (20ct)",
+    "brand": "MorningBrew",
+    "category": "Beverages",
+    "subcategory": "Child",
+    "price": 7.4,
+    "image_url": "https://via.placeholder.com/80?text=MorningBrew+Herbal+Tea+Bags+(20ct)",
+    "description": "Either police teacher although take idea movie.",
+    "attributes": {
+      "sugar_content": "regular",
+      "pack_size": "12_pack",
+      "caffeine_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P036",
+    "product_name": "FreshHome Laundry Detergent (100 Loads)",
+    "brand": "FreshHome",
+    "category": "Household Essentials",
+    "subcategory": "Mr",
+    "price": 25.23,
+    "image_url": "https://via.placeholder.com/80?text=FreshHome+Laundry+Detergent+(100+Loads)",
+    "description": "Front interview collection once change.",
+    "attributes": {
+      "scent": "military",
+      "size_ml": 1000,
+      "eco_friendly": true
+    }
+  },
+  {
+    "product_id": "WMK_P037",
+    "product_name": "ShinePro Laundry Detergent (100 Loads)",
+    "brand": "ShinePro",
+    "category": "Household Essentials",
+    "subcategory": "Under",
+    "price": 27.43,
+    "image_url": "https://via.placeholder.com/80?text=ShinePro+Laundry+Detergent+(100+Loads)",
+    "description": "Carry amount use body phone Republican who activity.",
+    "attributes": {
+      "scent": "site",
+      "size_ml": 2000,
+      "eco_friendly": false
+    }
+  },
+  {
+    "product_id": "WMK_P038",
+    "product_name": "ShinePro Dish Soap (Concentrated)",
+    "brand": "ShinePro",
+    "category": "Household Essentials",
+    "subcategory": "Bar",
+    "price": 11.45,
+    "image_url": "https://via.placeholder.com/80?text=ShinePro+Dish+Soap+(Concentrated)",
+    "description": "Fish yes song thus experience.",
+    "attributes": {
+      "scent": "sea",
+      "size_ml": 1000,
+      "eco_friendly": false
+    }
+  },
+  {
+    "product_id": "WMK_P039",
+    "product_name": "FreshBreath SPF 30 Sunscreen",
+    "brand": "FreshBreath",
+    "category": "Personal Care",
+    "subcategory": "Significant",
+    "price": 3.85,
+    "image_url": "https://via.placeholder.com/80?text=FreshBreath+SPF+30+Sunscreen",
+    "description": "Well billion across check rest bank newspaper question draw quality.",
+    "attributes": {
+      "type": "center",
+      "volume_ml": 750,
+      "fragrance_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P040",
+    "product_name": "HealthyHair SPF 30 Sunscreen",
+    "brand": "HealthyHair",
+    "category": "Personal Care",
+    "subcategory": "Pretty",
+    "price": 17.47,
+    "image_url": "https://via.placeholder.com/80?text=HealthyHair+SPF+30+Sunscreen",
+    "description": "Contain small blood meeting different name right.",
+    "attributes": {
+      "type": "politics",
+      "volume_ml": 250,
+      "fragrance_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P041",
+    "product_name": "FreshBreath Moisturizing Shampoo",
+    "brand": "FreshBreath",
+    "category": "Personal Care",
+    "subcategory": "Receive",
+    "price": 3.24,
+    "image_url": "https://via.placeholder.com/80?text=FreshBreath+Moisturizing+Shampoo",
+    "description": "So sister civil discuss rest image how project voice color.",
+    "attributes": {
+      "type": "make",
+      "volume_ml": 100,
+      "fragrance_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P042",
+    "product_name": "MorningBrew Orange Juice (Gallon)",
+    "brand": "MorningBrew",
+    "category": "Beverages",
+    "subcategory": "Knowledge",
+    "price": 3.28,
+    "image_url": "https://via.placeholder.com/80?text=MorningBrew+Orange+Juice+(Gallon)",
+    "description": "Believe show pressure draw vote threat.",
+    "attributes": {
+      "sugar_content": "regular",
+      "pack_size": "single_bottle",
+      "caffeine_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P043",
+    "product_name": "CleanRight All-Purpose Cleaner Spray",
+    "brand": "CleanRight",
+    "category": "Household Essentials",
+    "subcategory": "Particularly",
+    "price": 18.63,
+    "image_url": "https://via.placeholder.com/80?text=CleanRight+All-Purpose+Cleaner+Spray",
+    "description": "Half student rest area decision television get sign lead.",
+    "attributes": {
+      "scent": "respond",
+      "size_ml": 500,
+      "eco_friendly": false
+    }
+  },
+  {
+    "product_id": "WMK_P044",
+    "product_name": "FizzPop Herbal Tea Bags (20ct)",
+    "brand": "FizzPop",
+    "category": "Beverages",
+    "subcategory": "Sit",
+    "price": 4.67,
+    "image_url": "https://via.placeholder.com/80?text=FizzPop+Herbal+Tea+Bags+(20ct)",
+    "description": "Own score education discuss could itself just glass rest base.",
+    "attributes": {
+      "sugar_content": "regular",
+      "pack_size": "6_pack",
+      "caffeine_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P045",
+    "product_name": "SmartLiving Drip Coffee Maker",
+    "brand": "SmartLiving",
+    "category": "Electronics & Home Goods",
+    "subcategory": "Allow",
+    "price": 85.85,
+    "image_url": "https://via.placeholder.com/80?text=SmartLiving+Drip+Coffee+Maker",
+    "description": "Avoid task rise suddenly radio candidate.",
+    "attributes": {
+      "color": "Lime",
+      "power_watts": 153,
+      "warranty_years": 1
+    }
+  },
+  {
+    "product_id": "WMK_P046",
+    "product_name": "FreshHome Paper Towels (Mega Roll)",
+    "brand": "FreshHome",
+    "category": "Household Essentials",
+    "subcategory": "Threat",
+    "price": 8.5,
+    "image_url": "https://via.placeholder.com/80?text=FreshHome+Paper+Towels+(Mega+Roll)",
+    "description": "Kitchen admit here art prevent region increase it.",
+    "attributes": {
+      "scent": "experience",
+      "size_ml": 1500,
+      "eco_friendly": true
+    }
+  },
+  {
+    "product_id": "WMK_P047",
+    "product_name": "FreshBreath Hand Sanitizer (Large)",
+    "brand": "FreshBreath",
+    "category": "Personal Care",
+    "subcategory": "Year",
+    "price": 17.4,
+    "image_url": "https://via.placeholder.com/80?text=FreshBreath+Hand+Sanitizer+(Large)",
+    "description": "Commercial century bar political social give threat.",
+    "attributes": {
+      "type": "difficult",
+      "volume_ml": 750,
+      "fragrance_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P048",
+    "product_name": "FizzPop Sparkling Water (6-pack)",
+    "brand": "FizzPop",
+    "category": "Beverages",
+    "subcategory": "By",
+    "price": 4.58,
+    "image_url": "https://via.placeholder.com/80?text=FizzPop+Sparkling+Water+(6-pack)",
+    "description": "Political though those impact foot positive suffer Republican whatever.",
+    "attributes": {
+      "sugar_content": "zero",
+      "pack_size": "12_pack",
+      "caffeine_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P049",
+    "product_name": "FizzPop Premium Coffee Beans (Bag)",
+    "brand": "FizzPop",
+    "category": "Beverages",
+    "subcategory": "Political",
+    "price": 13.86,
+    "image_url": "https://via.placeholder.com/80?text=FizzPop+Premium+Coffee+Beans+(Bag)",
+    "description": "Though tend project market floor cultural sometimes.",
+    "attributes": {
+      "sugar_content": "zero",
+      "pack_size": "6_pack",
+      "caffeine_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P050",
+    "product_name": "NutriSnack Potato Chips (Large Bag)",
+    "brand": "NutriSnack",
+    "category": "Snacks & Confectionery",
+    "subcategory": "Door",
+    "price": 4.15,
+    "image_url": "https://via.placeholder.com/80?text=NutriSnack+Potato+Chips+(Large+Bag)",
+    "description": "Set improve money job perform available usually somebody.",
+    "attributes": {
+      "flavor": "nation",
+      "pack_count": 12,
+      "gluten_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P051",
+    "product_name": "SmartLiving Drip Coffee Maker",
+    "brand": "SmartLiving",
+    "category": "Electronics & Home Goods",
+    "subcategory": "Necessary",
+    "price": 104.24,
+    "image_url": "https://via.placeholder.com/80?text=SmartLiving+Drip+Coffee+Maker",
+    "description": "Similar audience tree even rest figure gun investment control day home.",
+    "attributes": {
+      "color": "PaleGoldenRod",
+      "power_watts": 12,
+      "warranty_years": 1
+    }
+  },
+  {
+    "product_id": "WMK_P052",
+    "product_name": "HealthyHair Moisturizing Shampoo",
+    "brand": "HealthyHair",
+    "category": "Personal Care",
+    "subcategory": "Sort",
+    "price": 6.81,
+    "image_url": "https://via.placeholder.com/80?text=HealthyHair+Moisturizing+Shampoo",
+    "description": "Everyone major body program occur garden against close.",
+    "attributes": {
+      "type": "detail",
+      "volume_ml": 750,
+      "fragrance_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P053",
+    "product_name": "GlowSkin Gentle Body Wash",
+    "brand": "GlowSkin",
+    "category": "Personal Care",
+    "subcategory": "Project",
+    "price": 6.09,
+    "image_url": "https://via.placeholder.com/80?text=GlowSkin+Gentle+Body+Wash",
+    "description": "Reach level change program character view two finally a lot.",
+    "attributes": {
+      "type": "identify",
+      "volume_ml": 100,
+      "fragrance_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P054",
+    "product_name": "HomeComfort Smart Doorbell",
+    "brand": "HomeComfort",
+    "category": "Electronics & Home Goods",
+    "subcategory": "Personal",
+    "price": 57.64,
+    "image_url": "https://via.placeholder.com/80?text=HomeComfort+Smart+Doorbell",
+    "description": "Commercial against wife thousand.",
+    "attributes": {
+      "color": "LightSkyBlue",
+      "power_watts": 111,
+      "warranty_years": 4
+    }
+  },
+  {
+    "product_id": "WMK_P055",
+    "product_name": "SweetDelight Granola Bars (Variety Pack)",
+    "brand": "SweetDelight",
+    "category": "Snacks & Confectionery",
+    "subcategory": "Yourself",
+    "price": 7.94,
+    "image_url": "https://via.placeholder.com/80?text=SweetDelight+Granola+Bars+(Variety+Pack)",
+    "description": "Safe represent production year line international our past special.",
+    "attributes": {
+      "flavor": "think",
+      "pack_count": 9,
+      "gluten_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P056",
+    "product_name": "SmartLiving Smart LED Bulb",
+    "brand": "SmartLiving",
+    "category": "Electronics & Home Goods",
+    "subcategory": "Stop",
+    "price": 172.22,
+    "image_url": "https://via.placeholder.com/80?text=SmartLiving+Smart+LED+Bulb",
+    "description": "Reality as suddenly cover seem shoulder cause three.",
+    "attributes": {
+      "color": "LightSlateGray",
+      "power_watts": 107,
+      "warranty_years": 4
+    }
+  },
+  {
+    "product_id": "WMK_P057",
+    "product_name": "Nature'sBest Cheddar Cheese Block",
+    "brand": "Nature'sBest",
+    "category": "Dairy & Fresh Produce",
+    "subcategory": "View",
+    "price": 3.73,
+    "image_url": "https://via.placeholder.com/80?text=Nature'sBest+Cheddar+Cheese+Block",
+    "description": "Guess begin full success should consumer say cold.",
+    "attributes": {
+      "organic": false,
+      "freshness_guarantee": "7 days",
+      "farm_source": "Washington-Young"
+    }
+  },
+  {
+    "product_id": "WMK_P058",
+    "product_name": "Nature'sBest Milk (Gallon)",
+    "brand": "Nature'sBest",
+    "category": "Dairy & Fresh Produce",
+    "subcategory": "Town",
+    "price": 5.04,
+    "image_url": "https://via.placeholder.com/80?text=Nature'sBest+Milk+(Gallon)",
+    "description": "Real create kind bill present dog once station yard contain new.",
+    "attributes": {
+      "organic": false,
+      "freshness_guarantee": "7 days",
+      "farm_source": "Fry, Holt and Mitchell"
+    }
+  },
+  {
+    "product_id": "WMK_P059",
+    "product_name": "ShinePro All-Purpose Cleaner Spray",
+    "brand": "ShinePro",
+    "category": "Household Essentials",
+    "subcategory": "Bar",
+    "price": 14.67,
+    "image_url": "https://via.placeholder.com/80?text=ShinePro+All-Purpose+Cleaner+Spray",
+    "description": "Tell anyone happy wonder up.",
+    "attributes": {
+      "scent": "together",
+      "size_ml": 2000,
+      "eco_friendly": false
+    }
+  },
+  {
+    "product_id": "WMK_P060",
+    "product_name": "MorningBrew Orange Juice (Gallon)",
+    "brand": "MorningBrew",
+    "category": "Beverages",
+    "subcategory": "Decide",
+    "price": 10.09,
+    "image_url": "https://via.placeholder.com/80?text=MorningBrew+Orange+Juice+(Gallon)",
+    "description": "Meeting official answer foot away several environmental everything.",
+    "attributes": {
+      "sugar_content": "regular",
+      "pack_size": "12_pack",
+      "caffeine_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P061",
+    "product_name": "MorningBrew Sparkling Water (6-pack)",
+    "brand": "MorningBrew",
+    "category": "Beverages",
+    "subcategory": "Above",
+    "price": 3.32,
+    "image_url": "https://via.placeholder.com/80?text=MorningBrew+Sparkling+Water+(6-pack)",
+    "description": "Add throughout impact identify far.",
+    "attributes": {
+      "sugar_content": "diet",
+      "pack_size": "6_pack",
+      "caffeine_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P062",
+    "product_name": "FreshHome Trash Bags (Heavy Duty)",
+    "brand": "FreshHome",
+    "category": "Household Essentials",
+    "subcategory": "Between",
+    "price": 16.74,
+    "image_url": "https://via.placeholder.com/80?text=FreshHome+Trash+Bags+(Heavy+Duty)",
+    "description": "Son player herself this game.",
+    "attributes": {
+      "scent": "make",
+      "size_ml": 1000,
+      "eco_friendly": false
+    }
+  },
+  {
+    "product_id": "WMK_P063",
+    "product_name": "NutriSnack Fruit Gummy Bears",
+    "brand": "NutriSnack",
+    "category": "Snacks & Confectionery",
+    "subcategory": "Create",
+    "price": 6.94,
+    "image_url": "https://via.placeholder.com/80?text=NutriSnack+Fruit+Gummy+Bears",
+    "description": "Five shoulder from art trial.",
+    "attributes": {
+      "flavor": "wrong",
+      "pack_count": 2,
+      "gluten_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P064",
+    "product_name": "TechLife Robot Vacuum Cleaner",
+    "brand": "TechLife",
+    "category": "Electronics & Home Goods",
+    "subcategory": "From",
+    "price": 181.91,
+    "image_url": "https://via.placeholder.com/80?text=TechLife+Robot+Vacuum+Cleaner",
+    "description": "Book be cup deal fast woman throw hair.",
+    "attributes": {
+      "color": "Snow",
+      "power_watts": 109,
+      "warranty_years": 4
+    }
+  },
+  {
+    "product_id": "WMK_P065",
+    "product_name": "CleanRight All-Purpose Cleaner Spray",
+    "brand": "CleanRight",
+    "category": "Household Essentials",
+    "subcategory": "Member",
+    "price": 10.76,
+    "image_url": "https://via.placeholder.com/80?text=CleanRight+All-Purpose+Cleaner+Spray",
+    "description": "Teacher job then mother whose crime.",
+    "attributes": {
+      "scent": "animal",
+      "size_ml": 500,
+      "eco_friendly": true
+    }
+  },
+  {
+    "product_id": "WMK_P066",
+    "product_name": "HealthyHair Moisturizing Shampoo",
+    "brand": "HealthyHair",
+    "category": "Personal Care",
+    "subcategory": "Relate",
+    "price": 16.62,
+    "image_url": "https://via.placeholder.com/80?text=HealthyHair+Moisturizing+Shampoo",
+    "description": "No know drug easy ready ever.",
+    "attributes": {
+      "type": "her",
+      "volume_ml": 500,
+      "fragrance_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P067",
+    "product_name": "ShinePro Dish Soap (Concentrated)",
+    "brand": "ShinePro",
+    "category": "Household Essentials",
+    "subcategory": "Close",
+    "price": 29.91,
+    "image_url": "https://via.placeholder.com/80?text=ShinePro+Dish+Soap+(Concentrated)",
+    "description": "Capital people bed perhaps option cold part evidence.",
+    "attributes": {
+      "scent": "office",
+      "size_ml": 2000,
+      "eco_friendly": true
+    }
+  },
+  {
+    "product_id": "WMK_P068",
+    "product_name": "SmartLiving Smart LED Bulb",
+    "brand": "SmartLiving",
+    "category": "Electronics & Home Goods",
+    "subcategory": "Choice",
+    "price": 139.53,
+    "image_url": "https://via.placeholder.com/80?text=SmartLiving+Smart+LED+Bulb",
+    "description": "Interest you imagine instead close wait know.",
+    "attributes": {
+      "color": "SkyBlue",
+      "power_watts": 8,
+      "warranty_years": 2
+    }
+  },
+  {
+    "product_id": "WMK_P069",
+    "product_name": "NutriSnack Milk Chocolate Bar",
+    "brand": "NutriSnack",
+    "category": "Snacks & Confectionery",
+    "subcategory": "Interview",
+    "price": 5.33,
+    "image_url": "https://via.placeholder.com/80?text=NutriSnack+Milk+Chocolate+Bar",
+    "description": "Brother draw recent magazine year hard hotel later fast.",
+    "attributes": {
+      "flavor": "put",
+      "pack_count": 1,
+      "gluten_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P070",
+    "product_name": "FarmFresh Greek Yogurt (Plain)",
+    "brand": "FarmFresh",
+    "category": "Dairy & Fresh Produce",
+    "subcategory": "Event",
+    "price": 8.37,
+    "image_url": "https://via.placeholder.com/80?text=FarmFresh+Greek+Yogurt+(Plain)",
+    "description": "Call away skill lawyer road key.",
+    "attributes": {
+      "organic": true,
+      "freshness_guarantee": "7 days",
+      "farm_source": "Avila LLC"
+    }
+  },
+  {
+    "product_id": "WMK_P071",
+    "product_name": "GlowSkin Moisturizing Shampoo",
+    "brand": "GlowSkin",
+    "category": "Personal Care",
+    "subcategory": "Want",
+    "price": 12.52,
+    "image_url": "https://via.placeholder.com/80?text=GlowSkin+Moisturizing+Shampoo",
+    "description": "Gun store art prevent visit north car many another in.",
+    "attributes": {
+      "type": "example",
+      "volume_ml": 750,
+      "fragrance_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P072",
+    "product_name": "HealthyHair Fluoride Toothpaste",
+    "brand": "HealthyHair",
+    "category": "Personal Care",
+    "subcategory": "Later",
+    "price": 12.41,
+    "image_url": "https://via.placeholder.com/80?text=HealthyHair+Fluoride+Toothpaste",
+    "description": "Agency gas debate strategy feel sister degree.",
+    "attributes": {
+      "type": "moment",
+      "volume_ml": 100,
+      "fragrance_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P073",
+    "product_name": "HomeComfort Robot Vacuum Cleaner",
+    "brand": "HomeComfort",
+    "category": "Electronics & Home Goods",
+    "subcategory": "Significant",
+    "price": 198.0,
+    "image_url": "https://via.placeholder.com/80?text=HomeComfort+Robot+Vacuum+Cleaner",
+    "description": "Bed politics foreign hear level keep.",
+    "attributes": {
+      "color": "Salmon",
+      "power_watts": 111,
+      "warranty_years": 5
+    }
+  },
+  {
+    "product_id": "WMK_P074",
+    "product_name": "TechLife Kitchen Knife Set",
+    "brand": "TechLife",
+    "category": "Electronics & Home Goods",
+    "subcategory": "Serious",
+    "price": 15.57,
+    "image_url": "https://via.placeholder.com/80?text=TechLife+Kitchen+Knife+Set",
+    "description": "Now reach government single let should stuff bank hotel.",
+    "attributes": {
+      "color": "DeepSkyBlue",
+      "power_watts": 115,
+      "warranty_years": 4
+    }
+  },
+  {
+    "product_id": "WMK_P075",
+    "product_name": "CleanRight Laundry Detergent (100 Loads)",
+    "brand": "CleanRight",
+    "category": "Household Essentials",
+    "subcategory": "Hair",
+    "price": 20.75,
+    "image_url": "https://via.placeholder.com/80?text=CleanRight+Laundry+Detergent+(100+Loads)",
+    "description": "System tonight after like drop notice ahead teach.",
+    "attributes": {
+      "scent": "with",
+      "size_ml": 1000,
+      "eco_friendly": true
+    }
+  },
+  {
+    "product_id": "WMK_P076",
+    "product_name": "FarmFresh Organic Eggs (Dozen)",
+    "brand": "FarmFresh",
+    "category": "Dairy & Fresh Produce",
+    "subcategory": "Medical",
+    "price": 7.89,
+    "image_url": "https://via.placeholder.com/80?text=FarmFresh+Organic+Eggs+(Dozen)",
+    "description": "Necessary decision reality network able director pattern professor.",
+    "attributes": {
+      "organic": false,
+      "freshness_guarantee": "7 days",
+      "farm_source": "George-Haas"
+    }
+  },
+  {
+    "product_id": "WMK_P077",
+    "product_name": "GlowSkin SPF 30 Sunscreen",
+    "brand": "GlowSkin",
+    "category": "Personal Care",
+    "subcategory": "We",
+    "price": 7.18,
+    "image_url": "https://via.placeholder.com/80?text=GlowSkin+SPF+30+Sunscreen",
+    "description": "Writer approach hair knowledge choose seek individual.",
+    "attributes": {
+      "type": "down",
+      "volume_ml": 750,
+      "fragrance_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P078",
+    "product_name": "TechLife Portable Bluetooth Speaker",
+    "brand": "TechLife",
+    "category": "Electronics & Home Goods",
+    "subcategory": "Language",
+    "price": 171.61,
+    "image_url": "https://via.placeholder.com/80?text=TechLife+Portable+Bluetooth+Speaker",
+    "description": "Help create figure anything body.",
+    "attributes": {
+      "color": "MintCream",
+      "power_watts": 57,
+      "warranty_years": 3
+    }
+  },
+  {
+    "product_id": "WMK_P079",
+    "product_name": "SmartLiving Drip Coffee Maker",
+    "brand": "SmartLiving",
+    "category": "Electronics & Home Goods",
+    "subcategory": "Subject",
+    "price": 185.92,
+    "image_url": "https://via.placeholder.com/80?text=SmartLiving+Drip+Coffee+Maker",
+    "description": "Five play whole talk space war second.",
+    "attributes": {
+      "color": "Lime",
+      "power_watts": 84,
+      "warranty_years": 3
+    }
+  },
+  {
+    "product_id": "WMK_P080",
+    "product_name": "Nature'sBest Avocado (Each)",
+    "brand": "Nature'sBest",
+    "category": "Dairy & Fresh Produce",
+    "subcategory": "Religious",
+    "price": 5.02,
+    "image_url": "https://via.placeholder.com/80?text=Nature'sBest+Avocado+(Each)",
+    "description": "Less only security student tonight.",
+    "attributes": {
+      "organic": false,
+      "freshness_guarantee": "7 days",
+      "farm_source": "Chan, Wood and Ali"
+    }
+  },
+  {
+    "product_id": "WMK_P081",
+    "product_name": "FreshBreath Moisturizing Shampoo",
+    "brand": "FreshBreath",
+    "category": "Personal Care",
+    "subcategory": "Tv",
+    "price": 9.33,
+    "image_url": "https://via.placeholder.com/80?text=FreshBreath+Moisturizing+Shampoo",
+    "description": "Today lay Mr nor him seek work high maybe method.",
+    "attributes": {
+      "type": "ball",
+      "volume_ml": 100,
+      "fragrance_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P082",
+    "product_name": "FreshHome Dish Soap (Concentrated)",
+    "brand": "FreshHome",
+    "category": "Household Essentials",
+    "subcategory": "Fall",
+    "price": 8.85,
+    "image_url": "https://via.placeholder.com/80?text=FreshHome+Dish+Soap+(Concentrated)",
+    "description": "Partner health consider international and.",
+    "attributes": {
+      "scent": "realize",
+      "size_ml": 1000,
+      "eco_friendly": false
+    }
+  },
+  {
+    "product_id": "WMK_P083",
+    "product_name": "NutriSnack Granola Bars (Variety Pack)",
+    "brand": "NutriSnack",
+    "category": "Snacks & Confectionery",
+    "subcategory": "Eye",
+    "price": 5.0,
+    "image_url": "https://via.placeholder.com/80?text=NutriSnack+Granola+Bars+(Variety+Pack)",
+    "description": "Anyone although set control clearly rock where.",
+    "attributes": {
+      "flavor": "offer",
+      "pack_count": 2,
+      "gluten_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P084",
+    "product_name": "TechLife Smart Doorbell",
+    "brand": "TechLife",
+    "category": "Electronics & Home Goods",
+    "subcategory": "Eat",
+    "price": 100.67,
+    "image_url": "https://via.placeholder.com/80?text=TechLife+Smart+Doorbell",
+    "description": "Contain worker information south total present order sport.",
+    "attributes": {
+      "color": "Blue",
+      "power_watts": 57,
+      "warranty_years": 4
+    }
+  },
+  {
+    "product_id": "WMK_P085",
+    "product_name": "SweetDelight Fruit Gummy Bears",
+    "brand": "SweetDelight",
+    "category": "Snacks & Confectionery",
+    "subcategory": "Letter",
+    "price": 2.28,
+    "image_url": "https://via.placeholder.com/80?text=SweetDelight+Fruit+Gummy+Bears",
+    "description": "Time parent front reach.",
+    "attributes": {
+      "flavor": "sound",
+      "pack_count": 12,
+      "gluten_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P086",
+    "product_name": "NutriSnack Mixed Nuts (Family Size)",
+    "brand": "NutriSnack",
+    "category": "Snacks & Confectionery",
+    "subcategory": "Decide",
+    "price": 6.21,
+    "image_url": "https://via.placeholder.com/80?text=NutriSnack+Mixed+Nuts+(Family+Size)",
+    "description": "Such writer most reveal type miss gun.",
+    "attributes": {
+      "flavor": "against",
+      "pack_count": 4,
+      "gluten_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P087",
+    "product_name": "SweetDelight Granola Bars (Variety Pack)",
+    "brand": "SweetDelight",
+    "category": "Snacks & Confectionery",
+    "subcategory": "Southern",
+    "price": 6.65,
+    "image_url": "https://via.placeholder.com/80?text=SweetDelight+Granola+Bars+(Variety+Pack)",
+    "description": "Itself cell side special sort capital begin future ball.",
+    "attributes": {
+      "flavor": "strong",
+      "pack_count": 9,
+      "gluten_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P088",
+    "product_name": "FreshBreath Hand Sanitizer (Large)",
+    "brand": "FreshBreath",
+    "category": "Personal Care",
+    "subcategory": "Side",
+    "price": 10.97,
+    "image_url": "https://via.placeholder.com/80?text=FreshBreath+Hand+Sanitizer+(Large)",
+    "description": "Week western democratic fast radio one region realize.",
+    "attributes": {
+      "type": "available",
+      "volume_ml": 500,
+      "fragrance_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P089",
+    "product_name": "Nature'sBest Fresh Broccoli",
+    "brand": "Nature'sBest",
+    "category": "Dairy & Fresh Produce",
+    "subcategory": "Not",
+    "price": 4.06,
+    "image_url": "https://via.placeholder.com/80?text=Nature'sBest+Fresh+Broccoli",
+    "description": "Book real your present after middle goal class concern impact.",
+    "attributes": {
+      "organic": true,
+      "freshness_guarantee": "7 days",
+      "farm_source": "Bell, Oliver and Byrd"
+    }
+  },
+  {
+    "product_id": "WMK_P090",
+    "product_name": "TechLife Drip Coffee Maker",
+    "brand": "TechLife",
+    "category": "Electronics & Home Goods",
+    "subcategory": "Where",
+    "price": 72.21,
+    "image_url": "https://via.placeholder.com/80?text=TechLife+Drip+Coffee+Maker",
+    "description": "Entire wear store than drive collection director.",
+    "attributes": {
+      "color": "Violet",
+      "power_watts": 88,
+      "warranty_years": 1
+    }
+  },
+  {
+    "product_id": "WMK_P091",
+    "product_name": "DailyHarvest Organic Eggs (Dozen)",
+    "brand": "DailyHarvest",
+    "category": "Dairy & Fresh Produce",
+    "subcategory": "Position",
+    "price": 5.56,
+    "image_url": "https://via.placeholder.com/80?text=DailyHarvest+Organic+Eggs+(Dozen)",
+    "description": "Growth down prepare whether performance show.",
+    "attributes": {
+      "organic": false,
+      "freshness_guarantee": "7 days",
+      "farm_source": "Sanchez-Mitchell"
+    }
+  },
+  {
+    "product_id": "WMK_P092",
+    "product_name": "FreshBreath Fluoride Toothpaste",
+    "brand": "FreshBreath",
+    "category": "Personal Care",
+    "subcategory": "Model",
+    "price": 19.36,
+    "image_url": "https://via.placeholder.com/80?text=FreshBreath+Fluoride+Toothpaste",
+    "description": "Best design hundred shoulder if prevent might money she seem.",
+    "attributes": {
+      "type": "expect",
+      "volume_ml": 100,
+      "fragrance_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P093",
+    "product_name": "Nature'sBest Greek Yogurt (Plain)",
+    "brand": "Nature'sBest",
+    "category": "Dairy & Fresh Produce",
+    "subcategory": "Third",
+    "price": 3.35,
+    "image_url": "https://via.placeholder.com/80?text=Nature'sBest+Greek+Yogurt+(Plain)",
+    "description": "Treat suddenly over task up federal box claim.",
+    "attributes": {
+      "organic": true,
+      "freshness_guarantee": "7 days",
+      "farm_source": "Davis, Gonzales and Boone"
+    }
+  },
+  {
+    "product_id": "WMK_P094",
+    "product_name": "SmartLiving Kitchen Knife Set",
+    "brand": "SmartLiving",
+    "category": "Electronics & Home Goods",
+    "subcategory": "Consumer",
+    "price": 39.4,
+    "image_url": "https://via.placeholder.com/80?text=SmartLiving+Kitchen+Knife+Set",
+    "description": "Speech simple entire education camera.",
+    "attributes": {
+      "color": "GoldenRod",
+      "power_watts": 197,
+      "warranty_years": 5
+    }
+  },
+  {
+    "product_id": "WMK_P095",
+    "product_name": "HealthyHair SPF 30 Sunscreen",
+    "brand": "HealthyHair",
+    "category": "Personal Care",
+    "subcategory": "Cup",
+    "price": 11.82,
+    "image_url": "https://via.placeholder.com/80?text=HealthyHair+SPF+30+Sunscreen",
+    "description": "Will buy attorney give oil truth medical total.",
+    "attributes": {
+      "type": "firm",
+      "volume_ml": 100,
+      "fragrance_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P096",
+    "product_name": "SweetDelight Fruit Gummy Bears",
+    "brand": "SweetDelight",
+    "category": "Snacks & Confectionery",
+    "subcategory": "However",
+    "price": 3.7,
+    "image_url": "https://via.placeholder.com/80?text=SweetDelight+Fruit+Gummy+Bears",
+    "description": "Age sell similar best decade family.",
+    "attributes": {
+      "flavor": "play",
+      "pack_count": 4,
+      "gluten_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P097",
+    "product_name": "CleanRight Trash Bags (Heavy Duty)",
+    "brand": "CleanRight",
+    "category": "Household Essentials",
+    "subcategory": "Test",
+    "price": 25.5,
+    "image_url": "https://via.placeholder.com/80?text=CleanRight+Trash+Bags+(Heavy+Duty)",
+    "description": "White because learn financial before back involve cold someone.",
+    "attributes": {
+      "scent": "north",
+      "size_ml": 500,
+      "eco_friendly": false
+    }
+  },
+  {
+    "product_id": "WMK_P098",
+    "product_name": "CleanRight Laundry Detergent (100 Loads)",
+    "brand": "CleanRight",
+    "category": "Household Essentials",
+    "subcategory": "Oil",
+    "price": 11.76,
+    "image_url": "https://via.placeholder.com/80?text=CleanRight+Laundry+Detergent+(100+Loads)",
+    "description": "Growth campaign receive one these.",
+    "attributes": {
+      "scent": "outside",
+      "size_ml": 1500,
+      "eco_friendly": false
+    }
+  },
+  {
+    "product_id": "WMK_P099",
+    "product_name": "GlowSkin Bar Soap (Value Pack)",
+    "brand": "GlowSkin",
+    "category": "Personal Care",
+    "subcategory": "He",
+    "price": 13.64,
+    "image_url": "https://via.placeholder.com/80?text=GlowSkin+Bar+Soap+(Value+Pack)",
+    "description": "Sit thousand later test consider spend war great fine spend.",
+    "attributes": {
+      "type": "particularly",
+      "volume_ml": 750,
+      "fragrance_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P100",
+    "product_name": "NutriSnack Potato Chips (Large Bag)",
+    "brand": "NutriSnack",
+    "category": "Snacks & Confectionery",
+    "subcategory": "Final",
+    "price": 6.46,
+    "image_url": "https://via.placeholder.com/80?text=NutriSnack+Potato+Chips+(Large+Bag)",
+    "description": "Process pay likely describe list crime.",
+    "attributes": {
+      "flavor": "budget",
+      "pack_count": 10,
+      "gluten_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P101",
+    "product_name": "HealthyHair SPF 30 Sunscreen",
+    "brand": "HealthyHair",
+    "category": "Personal Care",
+    "subcategory": "Born",
+    "price": 19.46,
+    "image_url": "https://via.placeholder.com/80?text=HealthyHair+SPF+30+Sunscreen",
+    "description": "You civil experience life sometimes skill present result.",
+    "attributes": {
+      "type": "single",
+      "volume_ml": 500,
+      "fragrance_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P102",
+    "product_name": "GlowSkin Bar Soap (Value Pack)",
+    "brand": "GlowSkin",
+    "category": "Personal Care",
+    "subcategory": "Plant",
+    "price": 16.6,
+    "image_url": "https://via.placeholder.com/80?text=GlowSkin+Bar+Soap+(Value+Pack)",
+    "description": "Step hold democratic still ability.",
+    "attributes": {
+      "type": "letter",
+      "volume_ml": 100,
+      "fragrance_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P103",
+    "product_name": "HealthyHair Fluoride Toothpaste",
+    "brand": "HealthyHair",
+    "category": "Personal Care",
+    "subcategory": "Partner",
+    "price": 8.36,
+    "image_url": "https://via.placeholder.com/80?text=HealthyHair+Fluoride+Toothpaste",
+    "description": "Inside I past might behavior it standard meet.",
+    "attributes": {
+      "type": "remember",
+      "volume_ml": 750,
+      "fragrance_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P104",
+    "product_name": "DailyHarvest Avocado (Each)",
+    "brand": "DailyHarvest",
+    "category": "Dairy & Fresh Produce",
+    "subcategory": "Create",
+    "price": 5.53,
+    "image_url": "https://via.placeholder.com/80?text=DailyHarvest+Avocado+(Each)",
+    "description": "Bad produce need treatment travel purpose.",
+    "attributes": {
+      "organic": false,
+      "freshness_guarantee": "7 days",
+      "farm_source": "Gilbert and Sons"
+    }
+  },
+  {
+    "product_id": "WMK_P105",
+    "product_name": "NutriSnack Mixed Nuts (Family Size)",
+    "brand": "NutriSnack",
+    "category": "Snacks & Confectionery",
+    "subcategory": "Difference",
+    "price": 6.67,
+    "image_url": "https://via.placeholder.com/80?text=NutriSnack+Mixed+Nuts+(Family+Size)",
+    "description": "Likely important security out music number near their decade.",
+    "attributes": {
+      "flavor": "class",
+      "pack_count": 8,
+      "gluten_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P106",
+    "product_name": "FizzPop Orange Juice (Gallon)",
+    "brand": "FizzPop",
+    "category": "Beverages",
+    "subcategory": "Forward",
+    "price": 10.42,
+    "image_url": "https://via.placeholder.com/80?text=FizzPop+Orange+Juice+(Gallon)",
+    "description": "Tv investment news discover.",
+    "attributes": {
+      "sugar_content": "regular",
+      "pack_size": "6_pack",
+      "caffeine_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P107",
+    "product_name": "CrunchyBites Fruit Gummy Bears",
+    "brand": "CrunchyBites",
+    "category": "Snacks & Confectionery",
+    "subcategory": "Protect",
+    "price": 2.79,
+    "image_url": "https://via.placeholder.com/80?text=CrunchyBites+Fruit+Gummy+Bears",
+    "description": "Would describe hot than however woman walk serious.",
+    "attributes": {
+      "flavor": "game",
+      "pack_count": 7,
+      "gluten_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P108",
+    "product_name": "SweetDelight Granola Bars (Variety Pack)",
+    "brand": "SweetDelight",
+    "category": "Snacks & Confectionery",
+    "subcategory": "Think",
+    "price": 1.65,
+    "image_url": "https://via.placeholder.com/80?text=SweetDelight+Granola+Bars+(Variety+Pack)",
+    "description": "Friend four world subject stop civil indicate computer require trade.",
+    "attributes": {
+      "flavor": "free",
+      "pack_count": 6,
+      "gluten_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P109",
+    "product_name": "DailyHarvest Avocado (Each)",
+    "brand": "DailyHarvest",
+    "category": "Dairy & Fresh Produce",
+    "subcategory": "Single",
+    "price": 7.0,
+    "image_url": "https://via.placeholder.com/80?text=DailyHarvest+Avocado+(Each)",
+    "description": "Back camera difficult walk picture.",
+    "attributes": {
+      "organic": true,
+      "freshness_guarantee": "7 days",
+      "farm_source": "Hammond, Carr and Church"
+    }
+  },
+  {
+    "product_id": "WMK_P110",
+    "product_name": "TechLife Smart Doorbell",
+    "brand": "TechLife",
+    "category": "Electronics & Home Goods",
+    "subcategory": "His",
+    "price": 29.94,
+    "image_url": "https://via.placeholder.com/80?text=TechLife+Smart+Doorbell",
+    "description": "After water speak clearly billion anything mouth.",
+    "attributes": {
+      "color": "Aquamarine",
+      "power_watts": 87,
+      "warranty_years": 5
+    }
+  },
+  {
+    "product_id": "WMK_P111",
+    "product_name": "ShinePro Paper Towels (Mega Roll)",
+    "brand": "ShinePro",
+    "category": "Household Essentials",
+    "subcategory": "Base",
+    "price": 16.99,
+    "image_url": "https://via.placeholder.com/80?text=ShinePro+Paper+Towels+(Mega+Roll)",
+    "description": "Less recognize yard tend every southern onto.",
+    "attributes": {
+      "scent": "coach",
+      "size_ml": 2000,
+      "eco_friendly": false
+    }
+  },
+  {
+    "product_id": "WMK_P112",
+    "product_name": "FizzPop Sparkling Water (6-pack)",
+    "brand": "FizzPop",
+    "category": "Beverages",
+    "subcategory": "Trouble",
+    "price": 3.3,
+    "image_url": "https://via.placeholder.com/80?text=FizzPop+Sparkling+Water+(6-pack)",
+    "description": "Listen crime look author training car explain.",
+    "attributes": {
+      "sugar_content": "zero",
+      "pack_size": "single_bottle",
+      "caffeine_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P113",
+    "product_name": "GlowSkin Gentle Body Wash",
+    "brand": "GlowSkin",
+    "category": "Personal Care",
+    "subcategory": "Lawyer",
+    "price": 16.84,
+    "image_url": "https://via.placeholder.com/80?text=GlowSkin+Gentle+Body+Wash",
+    "description": "Whom blood human well letter into threat wide town.",
+    "attributes": {
+      "type": "life",
+      "volume_ml": 100,
+      "fragrance_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P114",
+    "product_name": "GlowSkin Fluoride Toothpaste",
+    "brand": "GlowSkin",
+    "category": "Personal Care",
+    "subcategory": "Beautiful",
+    "price": 8.75,
+    "image_url": "https://via.placeholder.com/80?text=GlowSkin+Fluoride+Toothpaste",
+    "description": "Off collection wonder benefit common ready officer walk try simply.",
+    "attributes": {
+      "type": "parent",
+      "volume_ml": 250,
+      "fragrance_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P115",
+    "product_name": "GlowSkin Hand Sanitizer (Large)",
+    "brand": "GlowSkin",
+    "category": "Personal Care",
+    "subcategory": "Could",
+    "price": 15.01,
+    "image_url": "https://via.placeholder.com/80?text=GlowSkin+Hand+Sanitizer+(Large)",
+    "description": "Community president red data war age daughter data close water.",
+    "attributes": {
+      "type": "quality",
+      "volume_ml": 500,
+      "fragrance_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P116",
+    "product_name": "CrunchyBites Potato Chips (Large Bag)",
+    "brand": "CrunchyBites",
+    "category": "Snacks & Confectionery",
+    "subcategory": "Why",
+    "price": 4.96,
+    "image_url": "https://via.placeholder.com/80?text=CrunchyBites+Potato+Chips+(Large+Bag)",
+    "description": "Hit arm day prove myself.",
+    "attributes": {
+      "flavor": "break",
+      "pack_count": 1,
+      "gluten_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P117",
+    "product_name": "DailyHarvest Greek Yogurt (Plain)",
+    "brand": "DailyHarvest",
+    "category": "Dairy & Fresh Produce",
+    "subcategory": "Truth",
+    "price": 4.02,
+    "image_url": "https://via.placeholder.com/80?text=DailyHarvest+Greek+Yogurt+(Plain)",
+    "description": "Particularly market save old sort concern decision real property safe.",
+    "attributes": {
+      "organic": false,
+      "freshness_guarantee": "7 days",
+      "farm_source": "Black, Woods and Crawford"
+    }
+  },
+  {
+    "product_id": "WMK_P118",
+    "product_name": "FreshBreath Bar Soap (Value Pack)",
+    "brand": "FreshBreath",
+    "category": "Personal Care",
+    "subcategory": "Future",
+    "price": 11.22,
+    "image_url": "https://via.placeholder.com/80?text=FreshBreath+Bar+Soap+(Value+Pack)",
+    "description": "Require loss sign live something least table alone leg occur.",
+    "attributes": {
+      "type": "nothing",
+      "volume_ml": 100,
+      "fragrance_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P119",
+    "product_name": "ShinePro All-Purpose Cleaner Spray",
+    "brand": "ShinePro",
+    "category": "Household Essentials",
+    "subcategory": "Free",
+    "price": 30.0,
+    "image_url": "https://via.placeholder.com/80?text=ShinePro+All-Purpose+Cleaner+Spray",
+    "description": "Never cultural new six family quite prove leg simple ever.",
+    "attributes": {
+      "scent": "fast",
+      "size_ml": 1000,
+      "eco_friendly": false
+    }
+  },
+  {
+    "product_id": "WMK_P120",
+    "product_name": "NutriSnack Mixed Nuts (Family Size)",
+    "brand": "NutriSnack",
+    "category": "Snacks & Confectionery",
+    "subcategory": "Husband",
+    "price": 4.45,
+    "image_url": "https://via.placeholder.com/80?text=NutriSnack+Mixed+Nuts+(Family+Size)",
+    "description": "Reason include pull trade finally defense your.",
+    "attributes": {
+      "flavor": "room",
+      "pack_count": 11,
+      "gluten_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P121",
+    "product_name": "ShinePro Dish Soap (Concentrated)",
+    "brand": "ShinePro",
+    "category": "Household Essentials",
+    "subcategory": "Resource",
+    "price": 14.63,
+    "image_url": "https://via.placeholder.com/80?text=ShinePro+Dish+Soap+(Concentrated)",
+    "description": "Teacher political across practice professional college spring three money interview.",
+    "attributes": {
+      "scent": "want",
+      "size_ml": 500,
+      "eco_friendly": true
+    }
+  },
+  {
+    "product_id": "WMK_P122",
+    "product_name": "TechLife Kitchen Knife Set",
+    "brand": "TechLife",
+    "category": "Electronics & Home Goods",
+    "subcategory": "Thank",
+    "price": 176.31,
+    "image_url": "https://via.placeholder.com/80?text=TechLife+Kitchen+Knife+Set",
+    "description": "Defense receive child democratic anyone than could hear.",
+    "attributes": {
+      "color": "PapayaWhip",
+      "power_watts": 62,
+      "warranty_years": 5
+    }
+  },
+  {
+    "product_id": "WMK_P123",
+    "product_name": "HealthyHair SPF 30 Sunscreen",
+    "brand": "HealthyHair",
+    "category": "Personal Care",
+    "subcategory": "Her",
+    "price": 12.27,
+    "image_url": "https://via.placeholder.com/80?text=HealthyHair+SPF+30+Sunscreen",
+    "description": "Fall use beyond man much knowledge work threat.",
+    "attributes": {
+      "type": "tend",
+      "volume_ml": 100,
+      "fragrance_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P124",
+    "product_name": "ShinePro Laundry Detergent (100 Loads)",
+    "brand": "ShinePro",
+    "category": "Household Essentials",
+    "subcategory": "Sport",
+    "price": 19.3,
+    "image_url": "https://via.placeholder.com/80?text=ShinePro+Laundry+Detergent+(100+Loads)",
+    "description": "Shake community night mother produce cell effort home whole coach.",
+    "attributes": {
+      "scent": "agency",
+      "size_ml": 2000,
+      "eco_friendly": true
+    }
+  },
+  {
+    "product_id": "WMK_P125",
+    "product_name": "AquaPure Sparkling Water (6-pack)",
+    "brand": "AquaPure",
+    "category": "Beverages",
+    "subcategory": "Sense",
+    "price": 10.32,
+    "image_url": "https://via.placeholder.com/80?text=AquaPure+Sparkling+Water+(6-pack)",
+    "description": "Physical around north continue cold country black very official week return.",
+    "attributes": {
+      "sugar_content": "regular",
+      "pack_size": "6_pack",
+      "caffeine_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P126",
+    "product_name": "GlowSkin Moisturizing Shampoo",
+    "brand": "GlowSkin",
+    "category": "Personal Care",
+    "subcategory": "Air",
+    "price": 8.98,
+    "image_url": "https://via.placeholder.com/80?text=GlowSkin+Moisturizing+Shampoo",
+    "description": "Article radio look since different serve test door.",
+    "attributes": {
+      "type": "suddenly",
+      "volume_ml": 250,
+      "fragrance_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P127",
+    "product_name": "FarmFresh Organic Eggs (Dozen)",
+    "brand": "FarmFresh",
+    "category": "Dairy & Fresh Produce",
+    "subcategory": "Deal",
+    "price": 3.86,
+    "image_url": "https://via.placeholder.com/80?text=FarmFresh+Organic+Eggs+(Dozen)",
+    "description": "Itself step pick road benefit.",
+    "attributes": {
+      "organic": true,
+      "freshness_guarantee": "7 days",
+      "farm_source": "Wilson, Petty and Wagner"
+    }
+  },
+  {
+    "product_id": "WMK_P128",
+    "product_name": "FizzPop Cola (12-pack)",
+    "brand": "FizzPop",
+    "category": "Beverages",
+    "subcategory": "Book",
+    "price": 11.57,
+    "image_url": "https://via.placeholder.com/80?text=FizzPop+Cola+(12-pack)",
+    "description": "Quickly positive memory enough opportunity range attention.",
+    "attributes": {
+      "sugar_content": "regular",
+      "pack_size": "6_pack",
+      "caffeine_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P129",
+    "product_name": "HomeComfort Smart LED Bulb",
+    "brand": "HomeComfort",
+    "category": "Electronics & Home Goods",
+    "subcategory": "Federal",
+    "price": 183.97,
+    "image_url": "https://via.placeholder.com/80?text=HomeComfort+Smart+LED+Bulb",
+    "description": "Quickly heart determine hair capital sense eye ago purpose actually.",
+    "attributes": {
+      "color": "OldLace",
+      "power_watts": 139,
+      "warranty_years": 4
+    }
+  },
+  {
+    "product_id": "WMK_P130",
+    "product_name": "SmartLiving Robot Vacuum Cleaner",
+    "brand": "SmartLiving",
+    "category": "Electronics & Home Goods",
+    "subcategory": "They",
+    "price": 21.21,
+    "image_url": "https://via.placeholder.com/80?text=SmartLiving+Robot+Vacuum+Cleaner",
+    "description": "Rock camera customer best yet condition boy rate thank.",
+    "attributes": {
+      "color": "Gold",
+      "power_watts": 134,
+      "warranty_years": 1
+    }
+  },
+  {
+    "product_id": "WMK_P131",
+    "product_name": "FarmFresh Milk (Gallon)",
+    "brand": "FarmFresh",
+    "category": "Dairy & Fresh Produce",
+    "subcategory": "Throughout",
+    "price": 4.13,
+    "image_url": "https://via.placeholder.com/80?text=FarmFresh+Milk+(Gallon)",
+    "description": "Look participant national say nor study good age.",
+    "attributes": {
+      "organic": false,
+      "freshness_guarantee": "7 days",
+      "farm_source": "Roberts-Evans"
+    }
+  },
+  {
+    "product_id": "WMK_P132",
+    "product_name": "GlowSkin Hand Sanitizer (Large)",
+    "brand": "GlowSkin",
+    "category": "Personal Care",
+    "subcategory": "News",
+    "price": 11.17,
+    "image_url": "https://via.placeholder.com/80?text=GlowSkin+Hand+Sanitizer+(Large)",
+    "description": "Son learn he three you hope.",
+    "attributes": {
+      "type": "beat",
+      "volume_ml": 100,
+      "fragrance_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P133",
+    "product_name": "NutriSnack Milk Chocolate Bar",
+    "brand": "NutriSnack",
+    "category": "Snacks & Confectionery",
+    "subcategory": "Perhaps",
+    "price": 6.9,
+    "image_url": "https://via.placeholder.com/80?text=NutriSnack+Milk+Chocolate+Bar",
+    "description": "Culture least toward single two.",
+    "attributes": {
+      "flavor": "southern",
+      "pack_count": 12,
+      "gluten_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P134",
+    "product_name": "ShinePro Trash Bags (Heavy Duty)",
+    "brand": "ShinePro",
+    "category": "Household Essentials",
+    "subcategory": "Point",
+    "price": 9.98,
+    "image_url": "https://via.placeholder.com/80?text=ShinePro+Trash+Bags+(Heavy+Duty)",
+    "description": "Consumer develop cover teach respond.",
+    "attributes": {
+      "scent": "reason",
+      "size_ml": 2000,
+      "eco_friendly": true
+    }
+  },
+  {
+    "product_id": "WMK_P135",
+    "product_name": "FarmFresh Avocado (Each)",
+    "brand": "FarmFresh",
+    "category": "Dairy & Fresh Produce",
+    "subcategory": "Forward",
+    "price": 4.21,
+    "image_url": "https://via.placeholder.com/80?text=FarmFresh+Avocado+(Each)",
+    "description": "Detail per follow general start boy large create indeed red.",
+    "attributes": {
+      "organic": true,
+      "freshness_guarantee": "7 days",
+      "farm_source": "Rice, Gates and Ray"
+    }
+  },
+  {
+    "product_id": "WMK_P136",
+    "product_name": "FizzPop Herbal Tea Bags (20ct)",
+    "brand": "FizzPop",
+    "category": "Beverages",
+    "subcategory": "Put",
+    "price": 4.28,
+    "image_url": "https://via.placeholder.com/80?text=FizzPop+Herbal+Tea+Bags+(20ct)",
+    "description": "Run home bit side create take rock security.",
+    "attributes": {
+      "sugar_content": "diet",
+      "pack_size": "12_pack",
+      "caffeine_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P137",
+    "product_name": "NutriSnack Potato Chips (Large Bag)",
+    "brand": "NutriSnack",
+    "category": "Snacks & Confectionery",
+    "subcategory": "Why",
+    "price": 8.52,
+    "image_url": "https://via.placeholder.com/80?text=NutriSnack+Potato+Chips+(Large+Bag)",
+    "description": "Loss trouble stand artist save section stock father act performance.",
+    "attributes": {
+      "flavor": "great",
+      "pack_count": 11,
+      "gluten_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P138",
+    "product_name": "FizzPop Premium Coffee Beans (Bag)",
+    "brand": "FizzPop",
+    "category": "Beverages",
+    "subcategory": "Tv",
+    "price": 9.23,
+    "image_url": "https://via.placeholder.com/80?text=FizzPop+Premium+Coffee+Beans+(Bag)",
+    "description": "We thousand sort record bill entire.",
+    "attributes": {
+      "sugar_content": "zero",
+      "pack_size": "6_pack",
+      "caffeine_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P139",
+    "product_name": "CleanRight Trash Bags (Heavy Duty)",
+    "brand": "CleanRight",
+    "category": "Household Essentials",
+    "subcategory": "Responsibility",
+    "price": 5.13,
+    "image_url": "https://via.placeholder.com/80?text=CleanRight+Trash+Bags+(Heavy+Duty)",
+    "description": "Election stop much follow democratic beyond nearly try.",
+    "attributes": {
+      "scent": "crime",
+      "size_ml": 1000,
+      "eco_friendly": true
+    }
+  },
+  {
+    "product_id": "WMK_P140",
+    "product_name": "GlowSkin SPF 30 Sunscreen",
+    "brand": "GlowSkin",
+    "category": "Personal Care",
+    "subcategory": "Story",
+    "price": 16.18,
+    "image_url": "https://via.placeholder.com/80?text=GlowSkin+SPF+30+Sunscreen",
+    "description": "Team discussion continue personal stock.",
+    "attributes": {
+      "type": "special",
+      "volume_ml": 100,
+      "fragrance_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P141",
+    "product_name": "FarmFresh Avocado (Each)",
+    "brand": "FarmFresh",
+    "category": "Dairy & Fresh Produce",
+    "subcategory": "First",
+    "price": 5.65,
+    "image_url": "https://via.placeholder.com/80?text=FarmFresh+Avocado+(Each)",
+    "description": "Word ready tonight despite such big ability behavior know gun.",
+    "attributes": {
+      "organic": false,
+      "freshness_guarantee": "7 days",
+      "farm_source": "Park Group"
+    }
+  },
+  {
+    "product_id": "WMK_P142",
+    "product_name": "ShinePro Laundry Detergent (100 Loads)",
+    "brand": "ShinePro",
+    "category": "Household Essentials",
+    "subcategory": "Available",
+    "price": 6.23,
+    "image_url": "https://via.placeholder.com/80?text=ShinePro+Laundry+Detergent+(100+Loads)",
+    "description": "Believe perhaps green available catch daughter data school service.",
+    "attributes": {
+      "scent": "win",
+      "size_ml": 2000,
+      "eco_friendly": true
+    }
+  },
+  {
+    "product_id": "WMK_P143",
+    "product_name": "SmartLiving Drip Coffee Maker",
+    "brand": "SmartLiving",
+    "category": "Electronics & Home Goods",
+    "subcategory": "From",
+    "price": 59.55,
+    "image_url": "https://via.placeholder.com/80?text=SmartLiving+Drip+Coffee+Maker",
+    "description": "Security social simple its assume floor find simply attention type.",
+    "attributes": {
+      "color": "LightSeaGreen",
+      "power_watts": 13,
+      "warranty_years": 2
+    }
+  },
+  {
+    "product_id": "WMK_P144",
+    "product_name": "GlowSkin Moisturizing Shampoo",
+    "brand": "GlowSkin",
+    "category": "Personal Care",
+    "subcategory": "Participant",
+    "price": 11.07,
+    "image_url": "https://via.placeholder.com/80?text=GlowSkin+Moisturizing+Shampoo",
+    "description": "Health teach whatever drug common edge lawyer eye finally answer.",
+    "attributes": {
+      "type": "leave",
+      "volume_ml": 250,
+      "fragrance_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P145",
+    "product_name": "ShinePro Laundry Detergent (100 Loads)",
+    "brand": "ShinePro",
+    "category": "Household Essentials",
+    "subcategory": "Argue",
+    "price": 19.92,
+    "image_url": "https://via.placeholder.com/80?text=ShinePro+Laundry+Detergent+(100+Loads)",
+    "description": "Speech traditional court more always daughter product specific act.",
+    "attributes": {
+      "scent": "employee",
+      "size_ml": 1500,
+      "eco_friendly": true
+    }
+  },
+  {
+    "product_id": "WMK_P146",
+    "product_name": "DailyHarvest Avocado (Each)",
+    "brand": "DailyHarvest",
+    "category": "Dairy & Fresh Produce",
+    "subcategory": "Down",
+    "price": 8.87,
+    "image_url": "https://via.placeholder.com/80?text=DailyHarvest+Avocado+(Each)",
+    "description": "On area your admit democratic voice home.",
+    "attributes": {
+      "organic": true,
+      "freshness_guarantee": "7 days",
+      "farm_source": "Kane and Sons"
+    }
+  },
+  {
+    "product_id": "WMK_P147",
+    "product_name": "FarmFresh Fresh Broccoli",
+    "brand": "FarmFresh",
+    "category": "Dairy & Fresh Produce",
+    "subcategory": "Although",
+    "price": 7.16,
+    "image_url": "https://via.placeholder.com/80?text=FarmFresh+Fresh+Broccoli",
+    "description": "Box society this carry shoulder police financial.",
+    "attributes": {
+      "organic": false,
+      "freshness_guarantee": "7 days",
+      "farm_source": "Rodriguez-Martin"
+    }
+  },
+  {
+    "product_id": "WMK_P148",
+    "product_name": "NutriSnack Potato Chips (Large Bag)",
+    "brand": "NutriSnack",
+    "category": "Snacks & Confectionery",
+    "subcategory": "Blood",
+    "price": 4.73,
+    "image_url": "https://via.placeholder.com/80?text=NutriSnack+Potato+Chips+(Large+Bag)",
+    "description": "Rest wife without their we white eight thank.",
+    "attributes": {
+      "flavor": "thank",
+      "pack_count": 9,
+      "gluten_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P149",
+    "product_name": "HealthyHair Moisturizing Shampoo",
+    "brand": "HealthyHair",
+    "category": "Personal Care",
+    "subcategory": "Financial",
+    "price": 5.46,
+    "image_url": "https://via.placeholder.com/80?text=HealthyHair+Moisturizing+Shampoo",
+    "description": "Author interesting production despite cup hope above senior.",
+    "attributes": {
+      "type": "machine",
+      "volume_ml": 500,
+      "fragrance_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P150",
+    "product_name": "GlowSkin SPF 30 Sunscreen",
+    "brand": "GlowSkin",
+    "category": "Personal Care",
+    "subcategory": "Contain",
+    "price": 14.47,
+    "image_url": "https://via.placeholder.com/80?text=GlowSkin+SPF+30+Sunscreen",
+    "description": "Hope must business near almost travel center store food water.",
+    "attributes": {
+      "type": "some",
+      "volume_ml": 250,
+      "fragrance_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P151",
+    "product_name": "ShinePro Laundry Detergent (100 Loads)",
+    "brand": "ShinePro",
+    "category": "Household Essentials",
+    "subcategory": "Event",
+    "price": 10.19,
+    "image_url": "https://via.placeholder.com/80?text=ShinePro+Laundry+Detergent+(100+Loads)",
+    "description": "Serve style who day wear low base company.",
+    "attributes": {
+      "scent": "unit",
+      "size_ml": 2000,
+      "eco_friendly": false
+    }
+  },
+  {
+    "product_id": "WMK_P152",
+    "product_name": "Nature'sBest Milk (Gallon)",
+    "brand": "Nature'sBest",
+    "category": "Dairy & Fresh Produce",
+    "subcategory": "Including",
+    "price": 5.25,
+    "image_url": "https://via.placeholder.com/80?text=Nature'sBest+Milk+(Gallon)",
+    "description": "Democrat finish story religious here public another.",
+    "attributes": {
+      "organic": false,
+      "freshness_guarantee": "7 days",
+      "farm_source": "Goodman LLC"
+    }
+  },
+  {
+    "product_id": "WMK_P153",
+    "product_name": "CleanRight Laundry Detergent (100 Loads)",
+    "brand": "CleanRight",
+    "category": "Household Essentials",
+    "subcategory": "Ever",
+    "price": 8.41,
+    "image_url": "https://via.placeholder.com/80?text=CleanRight+Laundry+Detergent+(100+Loads)",
+    "description": "Million green suffer including service move security product per someone.",
+    "attributes": {
+      "scent": "market",
+      "size_ml": 1000,
+      "eco_friendly": true
+    }
+  },
+  {
+    "product_id": "WMK_P154",
+    "product_name": "FarmFresh Avocado (Each)",
+    "brand": "FarmFresh",
+    "category": "Dairy & Fresh Produce",
+    "subcategory": "Increase",
+    "price": 2.83,
+    "image_url": "https://via.placeholder.com/80?text=FarmFresh+Avocado+(Each)",
+    "description": "Drug like forward method example expert behavior place enough.",
+    "attributes": {
+      "organic": false,
+      "freshness_guarantee": "7 days",
+      "farm_source": "Adams-Andrews"
+    }
+  },
+  {
+    "product_id": "WMK_P155",
+    "product_name": "FizzPop Premium Coffee Beans (Bag)",
+    "brand": "FizzPop",
+    "category": "Beverages",
+    "subcategory": "Remain",
+    "price": 13.65,
+    "image_url": "https://via.placeholder.com/80?text=FizzPop+Premium+Coffee+Beans+(Bag)",
+    "description": "Hold support month return myself hear have magazine fish make hope.",
+    "attributes": {
+      "sugar_content": "zero",
+      "pack_size": "single_bottle",
+      "caffeine_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P156",
+    "product_name": "FreshHome All-Purpose Cleaner Spray",
+    "brand": "FreshHome",
+    "category": "Household Essentials",
+    "subcategory": "Image",
+    "price": 27.58,
+    "image_url": "https://via.placeholder.com/80?text=FreshHome+All-Purpose+Cleaner+Spray",
+    "description": "Modern student situation class fear image.",
+    "attributes": {
+      "scent": "boy",
+      "size_ml": 500,
+      "eco_friendly": false
+    }
+  },
+  {
+    "product_id": "WMK_P157",
+    "product_name": "DailyHarvest Fresh Broccoli",
+    "brand": "DailyHarvest",
+    "category": "Dairy & Fresh Produce",
+    "subcategory": "Side",
+    "price": 7.95,
+    "image_url": "https://via.placeholder.com/80?text=DailyHarvest+Fresh+Broccoli",
+    "description": "Finally bring film population help quality start.",
+    "attributes": {
+      "organic": true,
+      "freshness_guarantee": "7 days",
+      "farm_source": "West PLC"
+    }
+  },
+  {
+    "product_id": "WMK_P158",
+    "product_name": "Nature'sBest Fresh Broccoli",
+    "brand": "Nature'sBest",
+    "category": "Dairy & Fresh Produce",
+    "subcategory": "Run",
+    "price": 6.97,
+    "image_url": "https://via.placeholder.com/80?text=Nature'sBest+Fresh+Broccoli",
+    "description": "Imagine example past coach people marriage audience fine determine night.",
+    "attributes": {
+      "organic": false,
+      "freshness_guarantee": "7 days",
+      "farm_source": "Baker, Garcia and Kim"
+    }
+  },
+  {
+    "product_id": "WMK_P159",
+    "product_name": "FreshBreath SPF 30 Sunscreen",
+    "brand": "FreshBreath",
+    "category": "Personal Care",
+    "subcategory": "Story",
+    "price": 12.1,
+    "image_url": "https://via.placeholder.com/80?text=FreshBreath+SPF+30+Sunscreen",
+    "description": "Answer us wife walk produce.",
+    "attributes": {
+      "type": "say",
+      "volume_ml": 100,
+      "fragrance_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P160",
+    "product_name": "HomeComfort Portable Bluetooth Speaker",
+    "brand": "HomeComfort",
+    "category": "Electronics & Home Goods",
+    "subcategory": "Face",
+    "price": 143.53,
+    "image_url": "https://via.placeholder.com/80?text=HomeComfort+Portable+Bluetooth+Speaker",
+    "description": "For set thing course experience enjoy compare.",
+    "attributes": {
+      "color": "Tomato",
+      "power_watts": 142,
+      "warranty_years": 3
+    }
+  },
+  {
+    "product_id": "WMK_P161",
+    "product_name": "FreshHome Trash Bags (Heavy Duty)",
+    "brand": "FreshHome",
+    "category": "Household Essentials",
+    "subcategory": "Movement",
+    "price": 24.96,
+    "image_url": "https://via.placeholder.com/80?text=FreshHome+Trash+Bags+(Heavy+Duty)",
+    "description": "Little theory year bed option.",
+    "attributes": {
+      "scent": "someone",
+      "size_ml": 1000,
+      "eco_friendly": false
+    }
+  },
+  {
+    "product_id": "WMK_P162",
+    "product_name": "HomeComfort Robot Vacuum Cleaner",
+    "brand": "HomeComfort",
+    "category": "Electronics & Home Goods",
+    "subcategory": "Upon",
+    "price": 30.1,
+    "image_url": "https://via.placeholder.com/80?text=HomeComfort+Robot+Vacuum+Cleaner",
+    "description": "Risk hair think while election.",
+    "attributes": {
+      "color": "LightSkyBlue",
+      "power_watts": 8,
+      "warranty_years": 4
+    }
+  },
+  {
+    "product_id": "WMK_P163",
+    "product_name": "TechLife Robot Vacuum Cleaner",
+    "brand": "TechLife",
+    "category": "Electronics & Home Goods",
+    "subcategory": "Example",
+    "price": 94.93,
+    "image_url": "https://via.placeholder.com/80?text=TechLife+Robot+Vacuum+Cleaner",
+    "description": "Life major around mother church not let poor.",
+    "attributes": {
+      "color": "PeachPuff",
+      "power_watts": 134,
+      "warranty_years": 2
+    }
+  },
+  {
+    "product_id": "WMK_P164",
+    "product_name": "SweetDelight Potato Chips (Large Bag)",
+    "brand": "SweetDelight",
+    "category": "Snacks & Confectionery",
+    "subcategory": "Identify",
+    "price": 5.21,
+    "image_url": "https://via.placeholder.com/80?text=SweetDelight+Potato+Chips+(Large+Bag)",
+    "description": "Community dog prevent close into top including family.",
+    "attributes": {
+      "flavor": "relationship",
+      "pack_count": 4,
+      "gluten_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P165",
+    "product_name": "FreshBreath Gentle Body Wash",
+    "brand": "FreshBreath",
+    "category": "Personal Care",
+    "subcategory": "Form",
+    "price": 14.61,
+    "image_url": "https://via.placeholder.com/80?text=FreshBreath+Gentle+Body+Wash",
+    "description": "Pay down through assume voice race animal sure enough as.",
+    "attributes": {
+      "type": "blue",
+      "volume_ml": 500,
+      "fragrance_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P166",
+    "product_name": "MorningBrew Sparkling Water (6-pack)",
+    "brand": "MorningBrew",
+    "category": "Beverages",
+    "subcategory": "Home",
+    "price": 13.56,
+    "image_url": "https://via.placeholder.com/80?text=MorningBrew+Sparkling+Water+(6-pack)",
+    "description": "Difficult after door energy debate popular public.",
+    "attributes": {
+      "sugar_content": "diet",
+      "pack_size": "12_pack",
+      "caffeine_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P167",
+    "product_name": "FreshBreath SPF 30 Sunscreen",
+    "brand": "FreshBreath",
+    "category": "Personal Care",
+    "subcategory": "Allow",
+    "price": 15.83,
+    "image_url": "https://via.placeholder.com/80?text=FreshBreath+SPF+30+Sunscreen",
+    "description": "City station mission event work.",
+    "attributes": {
+      "type": "goal",
+      "volume_ml": 500,
+      "fragrance_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P168",
+    "product_name": "CleanRight Trash Bags (Heavy Duty)",
+    "brand": "CleanRight",
+    "category": "Household Essentials",
+    "subcategory": "Safe",
+    "price": 25.57,
+    "image_url": "https://via.placeholder.com/80?text=CleanRight+Trash+Bags+(Heavy+Duty)",
+    "description": "Affect we increase choice truth as.",
+    "attributes": {
+      "scent": "a",
+      "size_ml": 500,
+      "eco_friendly": false
+    }
+  },
+  {
+    "product_id": "WMK_P169",
+    "product_name": "ShinePro All-Purpose Cleaner Spray",
+    "brand": "ShinePro",
+    "category": "Household Essentials",
+    "subcategory": "Push",
+    "price": 13.98,
+    "image_url": "https://via.placeholder.com/80?text=ShinePro+All-Purpose+Cleaner+Spray",
+    "description": "Collection effort cell nothing world may future.",
+    "attributes": {
+      "scent": "bed",
+      "size_ml": 500,
+      "eco_friendly": true
+    }
+  },
+  {
+    "product_id": "WMK_P170",
+    "product_name": "SweetDelight Mixed Nuts (Family Size)",
+    "brand": "SweetDelight",
+    "category": "Snacks & Confectionery",
+    "subcategory": "Security",
+    "price": 4.21,
+    "image_url": "https://via.placeholder.com/80?text=SweetDelight+Mixed+Nuts+(Family+Size)",
+    "description": "Fill least left forward institution simple hotel child west air.",
+    "attributes": {
+      "flavor": "field",
+      "pack_count": 5,
+      "gluten_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P171",
+    "product_name": "FizzPop Orange Juice (Gallon)",
+    "brand": "FizzPop",
+    "category": "Beverages",
+    "subcategory": "Probably",
+    "price": 11.31,
+    "image_url": "https://via.placeholder.com/80?text=FizzPop+Orange+Juice+(Gallon)",
+    "description": "Recent real successful pass design live financial family.",
+    "attributes": {
+      "sugar_content": "zero",
+      "pack_size": "large_jug",
+      "caffeine_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P172",
+    "product_name": "MorningBrew Premium Coffee Beans (Bag)",
+    "brand": "MorningBrew",
+    "category": "Beverages",
+    "subcategory": "Order",
+    "price": 14.44,
+    "image_url": "https://via.placeholder.com/80?text=MorningBrew+Premium+Coffee+Beans+(Bag)",
+    "description": "Science reduce new instead after.",
+    "attributes": {
+      "sugar_content": "regular",
+      "pack_size": "12_pack",
+      "caffeine_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P173",
+    "product_name": "AquaPure Cola (12-pack)",
+    "brand": "AquaPure",
+    "category": "Beverages",
+    "subcategory": "Effort",
+    "price": 12.3,
+    "image_url": "https://via.placeholder.com/80?text=AquaPure+Cola+(12-pack)",
+    "description": "More head particular home trade region ground tell.",
+    "attributes": {
+      "sugar_content": "zero",
+      "pack_size": "single_bottle",
+      "caffeine_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P174",
+    "product_name": "FreshBreath Bar Soap (Value Pack)",
+    "brand": "FreshBreath",
+    "category": "Personal Care",
+    "subcategory": "Whom",
+    "price": 14.2,
+    "image_url": "https://via.placeholder.com/80?text=FreshBreath+Bar+Soap+(Value+Pack)",
+    "description": "Card outside soon bank out short bar her.",
+    "attributes": {
+      "type": "pretty",
+      "volume_ml": 750,
+      "fragrance_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P175",
+    "product_name": "NutriSnack Granola Bars (Variety Pack)",
+    "brand": "NutriSnack",
+    "category": "Snacks & Confectionery",
+    "subcategory": "Deal",
+    "price": 8.39,
+    "image_url": "https://via.placeholder.com/80?text=NutriSnack+Granola+Bars+(Variety+Pack)",
+    "description": "Action scientist anything everything.",
+    "attributes": {
+      "flavor": "of",
+      "pack_count": 11,
+      "gluten_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P176",
+    "product_name": "SmartLiving Drip Coffee Maker",
+    "brand": "SmartLiving",
+    "category": "Electronics & Home Goods",
+    "subcategory": "Them",
+    "price": 37.22,
+    "image_url": "https://via.placeholder.com/80?text=SmartLiving+Drip+Coffee+Maker",
+    "description": "Create away probably or others fear administration indeed.",
+    "attributes": {
+      "color": "DarkGoldenRod",
+      "power_watts": 94,
+      "warranty_years": 4
+    }
+  },
+  {
+    "product_id": "WMK_P177",
+    "product_name": "FreshHome All-Purpose Cleaner Spray",
+    "brand": "FreshHome",
+    "category": "Household Essentials",
+    "subcategory": "Magazine",
+    "price": 14.29,
+    "image_url": "https://via.placeholder.com/80?text=FreshHome+All-Purpose+Cleaner+Spray",
+    "description": "Program total herself gun tend enjoy again their between.",
+    "attributes": {
+      "scent": "according",
+      "size_ml": 1500,
+      "eco_friendly": true
+    }
+  },
+  {
+    "product_id": "WMK_P178",
+    "product_name": "FizzPop Sparkling Water (6-pack)",
+    "brand": "FizzPop",
+    "category": "Beverages",
+    "subcategory": "Effort",
+    "price": 4.56,
+    "image_url": "https://via.placeholder.com/80?text=FizzPop+Sparkling+Water+(6-pack)",
+    "description": "Magazine system trouble your safe important risk and.",
+    "attributes": {
+      "sugar_content": "diet",
+      "pack_size": "6_pack",
+      "caffeine_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P179",
+    "product_name": "FizzPop Orange Juice (Gallon)",
+    "brand": "FizzPop",
+    "category": "Beverages",
+    "subcategory": "Court",
+    "price": 8.54,
+    "image_url": "https://via.placeholder.com/80?text=FizzPop+Orange+Juice+(Gallon)",
+    "description": "Bad a camera within knowledge bar cultural scientist.",
+    "attributes": {
+      "sugar_content": "regular",
+      "pack_size": "large_jug",
+      "caffeine_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P180",
+    "product_name": "FarmFresh Organic Eggs (Dozen)",
+    "brand": "FarmFresh",
+    "category": "Dairy & Fresh Produce",
+    "subcategory": "Identify",
+    "price": 9.26,
+    "image_url": "https://via.placeholder.com/80?text=FarmFresh+Organic+Eggs+(Dozen)",
+    "description": "Fill north main level after foot Republican watch.",
+    "attributes": {
+      "organic": false,
+      "freshness_guarantee": "7 days",
+      "farm_source": "Rhodes-Beck"
+    }
+  },
+  {
+    "product_id": "WMK_P181",
+    "product_name": "FreshBreath Moisturizing Shampoo",
+    "brand": "FreshBreath",
+    "category": "Personal Care",
+    "subcategory": "Service",
+    "price": 5.11,
+    "image_url": "https://via.placeholder.com/80?text=FreshBreath+Moisturizing+Shampoo",
+    "description": "Per sing appear enjoy indeed town person might suddenly.",
+    "attributes": {
+      "type": "left",
+      "volume_ml": 750,
+      "fragrance_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P182",
+    "product_name": "HealthyHair Hand Sanitizer (Large)",
+    "brand": "HealthyHair",
+    "category": "Personal Care",
+    "subcategory": "Every",
+    "price": 17.78,
+    "image_url": "https://via.placeholder.com/80?text=HealthyHair+Hand+Sanitizer+(Large)",
+    "description": "Lose answer impact also seek common year sport poor.",
+    "attributes": {
+      "type": "cold",
+      "volume_ml": 250,
+      "fragrance_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P183",
+    "product_name": "SmartLiving Kitchen Knife Set",
+    "brand": "SmartLiving",
+    "category": "Electronics & Home Goods",
+    "subcategory": "Gun",
+    "price": 84.32,
+    "image_url": "https://via.placeholder.com/80?text=SmartLiving+Kitchen+Knife+Set",
+    "description": "Bed relate than second poor.",
+    "attributes": {
+      "color": "Orange",
+      "power_watts": 42,
+      "warranty_years": 4
+    }
+  },
+  {
+    "product_id": "WMK_P184",
+    "product_name": "HealthyHair Bar Soap (Value Pack)",
+    "brand": "HealthyHair",
+    "category": "Personal Care",
+    "subcategory": "Better",
+    "price": 15.89,
+    "image_url": "https://via.placeholder.com/80?text=HealthyHair+Bar+Soap+(Value+Pack)",
+    "description": "Source open worry personal late major single.",
+    "attributes": {
+      "type": "old",
+      "volume_ml": 250,
+      "fragrance_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P185",
+    "product_name": "FreshHome Paper Towels (Mega Roll)",
+    "brand": "FreshHome",
+    "category": "Household Essentials",
+    "subcategory": "From",
+    "price": 7.58,
+    "image_url": "https://via.placeholder.com/80?text=FreshHome+Paper+Towels+(Mega+Roll)",
+    "description": "Amount choice our simple similar over after road.",
+    "attributes": {
+      "scent": "American",
+      "size_ml": 500,
+      "eco_friendly": true
+    }
+  },
+  {
+    "product_id": "WMK_P186",
+    "product_name": "TechLife Robot Vacuum Cleaner",
+    "brand": "TechLife",
+    "category": "Electronics & Home Goods",
+    "subcategory": "Already",
+    "price": 144.01,
+    "image_url": "https://via.placeholder.com/80?text=TechLife+Robot+Vacuum+Cleaner",
+    "description": "Try guy particular measure know compare stuff keep.",
+    "attributes": {
+      "color": "OldLace",
+      "power_watts": 69,
+      "warranty_years": 1
+    }
+  },
+  {
+    "product_id": "WMK_P187",
+    "product_name": "AquaPure Cola (12-pack)",
+    "brand": "AquaPure",
+    "category": "Beverages",
+    "subcategory": "Simply",
+    "price": 7.18,
+    "image_url": "https://via.placeholder.com/80?text=AquaPure+Cola+(12-pack)",
+    "description": "Page apply late green conference team.",
+    "attributes": {
+      "sugar_content": "regular",
+      "pack_size": "single_bottle",
+      "caffeine_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P188",
+    "product_name": "AquaPure Orange Juice (Gallon)",
+    "brand": "AquaPure",
+    "category": "Beverages",
+    "subcategory": "Send",
+    "price": 4.78,
+    "image_url": "https://via.placeholder.com/80?text=AquaPure+Orange+Juice+(Gallon)",
+    "description": "Space right laugh challenge share impact.",
+    "attributes": {
+      "sugar_content": "zero",
+      "pack_size": "single_bottle",
+      "caffeine_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P189",
+    "product_name": "FarmFresh Greek Yogurt (Plain)",
+    "brand": "FarmFresh",
+    "category": "Dairy & Fresh Produce",
+    "subcategory": "Writer",
+    "price": 7.7,
+    "image_url": "https://via.placeholder.com/80?text=FarmFresh+Greek+Yogurt+(Plain)",
+    "description": "Surface guy say success thing appear degree smile southern term.",
+    "attributes": {
+      "organic": true,
+      "freshness_guarantee": "7 days",
+      "farm_source": "Burns and Sons"
+    }
+  },
+  {
+    "product_id": "WMK_P190",
+    "product_name": "CleanRight All-Purpose Cleaner Spray",
+    "brand": "CleanRight",
+    "category": "Household Essentials",
+    "subcategory": "Play",
+    "price": 7.22,
+    "image_url": "https://via.placeholder.com/80?text=CleanRight+All-Purpose+Cleaner+Spray",
+    "description": "Return generation brother fall own standard career most best.",
+    "attributes": {
+      "scent": "him",
+      "size_ml": 1500,
+      "eco_friendly": true
+    }
+  },
+  {
+    "product_id": "WMK_P191",
+    "product_name": "TechLife Kitchen Knife Set",
+    "brand": "TechLife",
+    "category": "Electronics & Home Goods",
+    "subcategory": "Travel",
+    "price": 11.96,
+    "image_url": "https://via.placeholder.com/80?text=TechLife+Kitchen+Knife+Set",
+    "description": "Technology ahead thought response clearly order.",
+    "attributes": {
+      "color": "MediumPurple",
+      "power_watts": 56,
+      "warranty_years": 4
+    }
+  },
+  {
+    "product_id": "WMK_P192",
+    "product_name": "CrunchyBites Milk Chocolate Bar",
+    "brand": "CrunchyBites",
+    "category": "Snacks & Confectionery",
+    "subcategory": "Appear",
+    "price": 4.26,
+    "image_url": "https://via.placeholder.com/80?text=CrunchyBites+Milk+Chocolate+Bar",
+    "description": "Home near throw professional try make.",
+    "attributes": {
+      "flavor": "effort",
+      "pack_count": 2,
+      "gluten_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P193",
+    "product_name": "MorningBrew Sparkling Water (6-pack)",
+    "brand": "MorningBrew",
+    "category": "Beverages",
+    "subcategory": "Take",
+    "price": 9.34,
+    "image_url": "https://via.placeholder.com/80?text=MorningBrew+Sparkling+Water+(6-pack)",
+    "description": "Ask them left public even hand player maybe indeed amount let.",
+    "attributes": {
+      "sugar_content": "regular",
+      "pack_size": "large_jug",
+      "caffeine_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P194",
+    "product_name": "HealthyHair SPF 30 Sunscreen",
+    "brand": "HealthyHair",
+    "category": "Personal Care",
+    "subcategory": "Value",
+    "price": 17.35,
+    "image_url": "https://via.placeholder.com/80?text=HealthyHair+SPF+30+Sunscreen",
+    "description": "Page pick film deep huge example major baby.",
+    "attributes": {
+      "type": "strong",
+      "volume_ml": 250,
+      "fragrance_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P195",
+    "product_name": "SweetDelight Potato Chips (Large Bag)",
+    "brand": "SweetDelight",
+    "category": "Snacks & Confectionery",
+    "subcategory": "Late",
+    "price": 6.18,
+    "image_url": "https://via.placeholder.com/80?text=SweetDelight+Potato+Chips+(Large+Bag)",
+    "description": "What white glass father side manage agency seek page.",
+    "attributes": {
+      "flavor": "old",
+      "pack_count": 10,
+      "gluten_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P196",
+    "product_name": "HealthyHair Bar Soap (Value Pack)",
+    "brand": "HealthyHair",
+    "category": "Personal Care",
+    "subcategory": "Human",
+    "price": 13.69,
+    "image_url": "https://via.placeholder.com/80?text=HealthyHair+Bar+Soap+(Value+Pack)",
+    "description": "Wall what whose say instead up cost chance statement run.",
+    "attributes": {
+      "type": "yes",
+      "volume_ml": 750,
+      "fragrance_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P197",
+    "product_name": "SmartLiving Robot Vacuum Cleaner",
+    "brand": "SmartLiving",
+    "category": "Electronics & Home Goods",
+    "subcategory": "Past",
+    "price": 175.94,
+    "image_url": "https://via.placeholder.com/80?text=SmartLiving+Robot+Vacuum+Cleaner",
+    "description": "Recent yourself term grow whom firm soldier.",
+    "attributes": {
+      "color": "DarkOliveGreen",
+      "power_watts": 135,
+      "warranty_years": 1
+    }
+  },
+  {
+    "product_id": "WMK_P198",
+    "product_name": "AquaPure Orange Juice (Gallon)",
+    "brand": "AquaPure",
+    "category": "Beverages",
+    "subcategory": "Impact",
+    "price": 7.2,
+    "image_url": "https://via.placeholder.com/80?text=AquaPure+Orange+Juice+(Gallon)",
+    "description": "Popular feel any step.",
+    "attributes": {
+      "sugar_content": "regular",
+      "pack_size": "single_bottle",
+      "caffeine_free": false
+    }
+  },
+  {
+    "product_id": "WMK_P199",
+    "product_name": "FreshBreath Bar Soap (Value Pack)",
+    "brand": "FreshBreath",
+    "category": "Personal Care",
+    "subcategory": "Car",
+    "price": 16.04,
+    "image_url": "https://via.placeholder.com/80?text=FreshBreath+Bar+Soap+(Value+Pack)",
+    "description": "May answer past computer young set its child.",
+    "attributes": {
+      "type": "remain",
+      "volume_ml": 750,
+      "fragrance_free": true
+    }
+  },
+  {
+    "product_id": "WMK_P200",
+    "product_name": "GlowSkin SPF 30 Sunscreen",
+    "brand": "GlowSkin",
+    "category": "Personal Care",
+    "subcategory": "Trip",
+    "price": 10.06,
+    "image_url": "https://via.placeholder.com/80?text=GlowSkin+SPF+30+Sunscreen",
+    "description": "Hold everything letter thought instead amount worry hope.",
+    "attributes": {
+      "type": "reason",
+      "volume_ml": 100,
+      "fragrance_free": false
+    }
+  }
+]

@@ -1,0 +1,1074 @@
+{
+  "store_id": "S001",
+  "store_name": "Walmart Supercenter - Main St",
+  "entry_point": "FRONT_DOOR",
+  "layout_graph": {
+    "FRONT_DOOR": [
+      "AISLE_1",
+      "AISLE_2"
+    ],
+    "AISLE_1": [
+      "AISLE_2",
+      "AISLE_3",
+      "BAKERY_AREA"
+    ],
+    "AISLE_2": [
+      "AISLE_1",
+      "AISLE_3",
+      "DAIRY_PRODUCE_AREA"
+    ],
+    "AISLE_3": [
+      "AISLE_1",
+      "AISLE_2",
+      "AISLE_4",
+      "BEVERAGES_AREA"
+    ],
+    "AISLE_4": [
+      "AISLE_3",
+      "AISLE_5",
+      "SNACKS_AREA"
+    ],
+    "AISLE_5": [
+      "AISLE_4",
+      "AISLE_6",
+      "PERSONAL_CARE_AREA"
+    ],
+    "AISLE_6": [
+      "AISLE_5",
+      "ELECTRONICS_AREA",
+      "CHECKOUT_AREA"
+    ],
+    "DAIRY_PRODUCE_AREA": [
+      "AISLE_2",
+      "AISLE_5"
+    ],
+    "SNACKS_AREA": [
+      "AISLE_4"
+    ],
+    "PERSONAL_CARE_AREA": [
+      "AISLE_5"
+    ],
+    "ELECTRONICS_AREA": [
+      "AISLE_6"
+    ],
+    "BEVERAGES_AREA": [
+      "AISLE_3"
+    ],
+    "BAKERY_AREA": [
+      "AISLE_1"
+    ],
+    "DELI_AREA": [
+      "AISLE_5"
+    ],
+    "FROZEN_FOODS": [
+      "AISLE_6"
+    ],
+    "CHECKOUT_AREA": [
+      "AISLE_6",
+      "EXIT"
+    ],
+    "EXIT": []
+  },
+  "product_locations": [
+    {
+      "product_id": "WMK_P001",
+      "location_node": "AISLE_2",
+      "section": "Operation"
+    },
+    {
+      "product_id": "WMK_P002",
+      "location_node": "AISLE_1",
+      "section": "The"
+    },
+    {
+      "product_id": "WMK_P003",
+      "location_node": "AISLE_1",
+      "section": "Foot"
+    },
+    {
+      "product_id": "WMK_P004",
+      "location_node": "AISLE_1",
+      "section": "Enjoy"
+    },
+    {
+      "product_id": "WMK_P005",
+      "location_node": "AISLE_5",
+      "section": "Push"
+    },
+    {
+      "product_id": "WMK_P006",
+      "location_node": "AISLE_5",
+      "section": "Wear"
+    },
+    {
+      "product_id": "WMK_P007",
+      "location_node": "AISLE_1",
+      "section": "Why"
+    },
+    {
+      "product_id": "WMK_P008",
+      "location_node": "AISLE_1",
+      "section": "Single"
+    },
+    {
+      "product_id": "WMK_P009",
+      "location_node": "AISLE_1",
+      "section": "Keep"
+    },
+    {
+      "product_id": "WMK_P010",
+      "location_node": "AISLE_3",
+      "section": "Even"
+    },
+    {
+      "product_id": "WMK_P011",
+      "location_node": "AISLE_3",
+      "section": "Along"
+    },
+    {
+      "product_id": "WMK_P012",
+      "location_node": "AISLE_4",
+      "section": "Member"
+    },
+    {
+      "product_id": "WMK_P013",
+      "location_node": "AISLE_2",
+      "section": "Line"
+    },
+    {
+      "product_id": "WMK_P014",
+      "location_node": "AISLE_5",
+      "section": "Stop"
+    },
+    {
+      "product_id": "WMK_P015",
+      "location_node": "AISLE_5",
+      "section": "Area"
+    },
+    {
+      "product_id": "WMK_P016",
+      "location_node": "DAIRY_PRODUCE_AREA",
+      "section": "Down"
+    },
+    {
+      "product_id": "WMK_P017",
+      "location_node": "DAIRY_PRODUCE_AREA",
+      "section": "Available"
+    },
+    {
+      "product_id": "WMK_P018",
+      "location_node": "AISLE_3",
+      "section": "Attorney"
+    },
+    {
+      "product_id": "WMK_P019",
+      "location_node": "AISLE_5",
+      "section": "West"
+    },
+    {
+      "product_id": "WMK_P020",
+      "location_node": "DAIRY_PRODUCE_AREA",
+      "section": "Media"
+    },
+    {
+      "product_id": "WMK_P021",
+      "location_node": "AISLE_2",
+      "section": "Type"
+    },
+    {
+      "product_id": "WMK_P022",
+      "location_node": "AISLE_5",
+      "section": "Peace"
+    },
+    {
+      "product_id": "WMK_P023",
+      "location_node": "DAIRY_PRODUCE_AREA",
+      "section": "Most"
+    },
+    {
+      "product_id": "WMK_P024",
+      "location_node": "AISLE_3",
+      "section": "Information"
+    },
+    {
+      "product_id": "WMK_P025",
+      "location_node": "AISLE_2",
+      "section": "Job"
+    },
+    {
+      "product_id": "WMK_P026",
+      "location_node": "DAIRY_PRODUCE_AREA",
+      "section": "Over"
+    },
+    {
+      "product_id": "WMK_P027",
+      "location_node": "DAIRY_PRODUCE_AREA",
+      "section": "Eight"
+    },
+    {
+      "product_id": "WMK_P028",
+      "location_node": "AISLE_2",
+      "section": "Visit"
+    },
+    {
+      "product_id": "WMK_P029",
+      "location_node": "AISLE_2",
+      "section": "Read"
+    },
+    {
+      "product_id": "WMK_P030",
+      "location_node": "AISLE_2",
+      "section": "Simply"
+    },
+    {
+      "product_id": "WMK_P031",
+      "location_node": "DAIRY_PRODUCE_AREA",
+      "section": "Boy"
+    },
+    {
+      "product_id": "WMK_P032",
+      "location_node": "AISLE_1",
+      "section": "Receive"
+    },
+    {
+      "product_id": "WMK_P033",
+      "location_node": "AISLE_3",
+      "section": "Make"
+    },
+    {
+      "product_id": "WMK_P034",
+      "location_node": "DAIRY_PRODUCE_AREA",
+      "section": "To"
+    },
+    {
+      "product_id": "WMK_P035",
+      "location_node": "AISLE_3",
+      "section": "Child"
+    },
+    {
+      "product_id": "WMK_P036",
+      "location_node": "AISLE_1",
+      "section": "Mr"
+    },
+    {
+      "product_id": "WMK_P037",
+      "location_node": "AISLE_1",
+      "section": "Under"
+    },
+    {
+      "product_id": "WMK_P038",
+      "location_node": "AISLE_1",
+      "section": "Bar"
+    },
+    {
+      "product_id": "WMK_P039",
+      "location_node": "AISLE_2",
+      "section": "Significant"
+    },
+    {
+      "product_id": "WMK_P040",
+      "location_node": "AISLE_2",
+      "section": "Pretty"
+    },
+    {
+      "product_id": "WMK_P041",
+      "location_node": "AISLE_2",
+      "section": "Receive"
+    },
+    {
+      "product_id": "WMK_P042",
+      "location_node": "AISLE_3",
+      "section": "Knowledge"
+    },
+    {
+      "product_id": "WMK_P043",
+      "location_node": "AISLE_1",
+      "section": "Particularly"
+    },
+    {
+      "product_id": "WMK_P044",
+      "location_node": "AISLE_3",
+      "section": "Sit"
+    },
+    {
+      "product_id": "WMK_P045",
+      "location_node": "AISLE_5",
+      "section": "Allow"
+    },
+    {
+      "product_id": "WMK_P046",
+      "location_node": "AISLE_1",
+      "section": "Threat"
+    },
+    {
+      "product_id": "WMK_P047",
+      "location_node": "AISLE_2",
+      "section": "Year"
+    },
+    {
+      "product_id": "WMK_P048",
+      "location_node": "AISLE_3",
+      "section": "By"
+    },
+    {
+      "product_id": "WMK_P049",
+      "location_node": "AISLE_3",
+      "section": "Political"
+    },
+    {
+      "product_id": "WMK_P050",
+      "location_node": "AISLE_4",
+      "section": "Door"
+    },
+    {
+      "product_id": "WMK_P051",
+      "location_node": "AISLE_5",
+      "section": "Necessary"
+    },
+    {
+      "product_id": "WMK_P052",
+      "location_node": "AISLE_2",
+      "section": "Sort"
+    },
+    {
+      "product_id": "WMK_P053",
+      "location_node": "AISLE_2",
+      "section": "Project"
+    },
+    {
+      "product_id": "WMK_P054",
+      "location_node": "AISLE_5",
+      "section": "Personal"
+    },
+    {
+      "product_id": "WMK_P055",
+      "location_node": "AISLE_4",
+      "section": "Yourself"
+    },
+    {
+      "product_id": "WMK_P056",
+      "location_node": "AISLE_5",
+      "section": "Stop"
+    },
+    {
+      "product_id": "WMK_P057",
+      "location_node": "DAIRY_PRODUCE_AREA",
+      "section": "View"
+    },
+    {
+      "product_id": "WMK_P058",
+      "location_node": "DAIRY_PRODUCE_AREA",
+      "section": "Town"
+    },
+    {
+      "product_id": "WMK_P059",
+      "location_node": "AISLE_1",
+      "section": "Bar"
+    },
+    {
+      "product_id": "WMK_P060",
+      "location_node": "AISLE_3",
+      "section": "Decide"
+    },
+    {
+      "product_id": "WMK_P061",
+      "location_node": "AISLE_3",
+      "section": "Above"
+    },
+    {
+      "product_id": "WMK_P062",
+      "location_node": "AISLE_1",
+      "section": "Between"
+    },
+    {
+      "product_id": "WMK_P063",
+      "location_node": "AISLE_4",
+      "section": "Create"
+    },
+    {
+      "product_id": "WMK_P064",
+      "location_node": "AISLE_5",
+      "section": "From"
+    },
+    {
+      "product_id": "WMK_P065",
+      "location_node": "AISLE_1",
+      "section": "Member"
+    },
+    {
+      "product_id": "WMK_P066",
+      "location_node": "AISLE_2",
+      "section": "Relate"
+    },
+    {
+      "product_id": "WMK_P067",
+      "location_node": "AISLE_1",
+      "section": "Close"
+    },
+    {
+      "product_id": "WMK_P068",
+      "location_node": "AISLE_5",
+      "section": "Choice"
+    },
+    {
+      "product_id": "WMK_P069",
+      "location_node": "AISLE_4",
+      "section": "Interview"
+    },
+    {
+      "product_id": "WMK_P070",
+      "location_node": "DAIRY_PRODUCE_AREA",
+      "section": "Event"
+    },
+    {
+      "product_id": "WMK_P071",
+      "location_node": "AISLE_2",
+      "section": "Want"
+    },
+    {
+      "product_id": "WMK_P072",
+      "location_node": "AISLE_2",
+      "section": "Later"
+    },
+    {
+      "product_id": "WMK_P073",
+      "location_node": "AISLE_5",
+      "section": "Significant"
+    },
+    {
+      "product_id": "WMK_P074",
+      "location_node": "AISLE_5",
+      "section": "Serious"
+    },
+    {
+      "product_id": "WMK_P075",
+      "location_node": "AISLE_1",
+      "section": "Hair"
+    },
+    {
+      "product_id": "WMK_P076",
+      "location_node": "DAIRY_PRODUCE_AREA",
+      "section": "Medical"
+    },
+    {
+      "product_id": "WMK_P077",
+      "location_node": "AISLE_2",
+      "section": "We"
+    },
+    {
+      "product_id": "WMK_P078",
+      "location_node": "AISLE_5",
+      "section": "Language"
+    },
+    {
+      "product_id": "WMK_P079",
+      "location_node": "AISLE_5",
+      "section": "Subject"
+    },
+    {
+      "product_id": "WMK_P080",
+      "location_node": "DAIRY_PRODUCE_AREA",
+      "section": "Religious"
+    },
+    {
+      "product_id": "WMK_P081",
+      "location_node": "AISLE_2",
+      "section": "Tv"
+    },
+    {
+      "product_id": "WMK_P082",
+      "location_node": "AISLE_1",
+      "section": "Fall"
+    },
+    {
+      "product_id": "WMK_P083",
+      "location_node": "AISLE_4",
+      "section": "Eye"
+    },
+    {
+      "product_id": "WMK_P084",
+      "location_node": "AISLE_5",
+      "section": "Eat"
+    },
+    {
+      "product_id": "WMK_P085",
+      "location_node": "AISLE_4",
+      "section": "Letter"
+    },
+    {
+      "product_id": "WMK_P086",
+      "location_node": "AISLE_4",
+      "section": "Decide"
+    },
+    {
+      "product_id": "WMK_P087",
+      "location_node": "AISLE_4",
+      "section": "Southern"
+    },
+    {
+      "product_id": "WMK_P088",
+      "location_node": "AISLE_2",
+      "section": "Side"
+    },
+    {
+      "product_id": "WMK_P089",
+      "location_node": "DAIRY_PRODUCE_AREA",
+      "section": "Not"
+    },
+    {
+      "product_id": "WMK_P090",
+      "location_node": "AISLE_5",
+      "section": "Where"
+    },
+    {
+      "product_id": "WMK_P091",
+      "location_node": "DAIRY_PRODUCE_AREA",
+      "section": "Position"
+    },
+    {
+      "product_id": "WMK_P092",
+      "location_node": "AISLE_2",
+      "section": "Model"
+    },
+    {
+      "product_id": "WMK_P093",
+      "location_node": "DAIRY_PRODUCE_AREA",
+      "section": "Third"
+    },
+    {
+      "product_id": "WMK_P094",
+      "location_node": "AISLE_5",
+      "section": "Consumer"
+    },
+    {
+      "product_id": "WMK_P095",
+      "location_node": "AISLE_2",
+      "section": "Cup"
+    },
+    {
+      "product_id": "WMK_P096",
+      "location_node": "AISLE_4",
+      "section": "However"
+    },
+    {
+      "product_id": "WMK_P097",
+      "location_node": "AISLE_1",
+      "section": "Test"
+    },
+    {
+      "product_id": "WMK_P098",
+      "location_node": "AISLE_1",
+      "section": "Oil"
+    },
+    {
+      "product_id": "WMK_P099",
+      "location_node": "AISLE_2",
+      "section": "He"
+    },
+    {
+      "product_id": "WMK_P100",
+      "location_node": "AISLE_4",
+      "section": "Final"
+    },
+    {
+      "product_id": "WMK_P101",
+      "location_node": "AISLE_2",
+      "section": "Born"
+    },
+    {
+      "product_id": "WMK_P102",
+      "location_node": "AISLE_2",
+      "section": "Plant"
+    },
+    {
+      "product_id": "WMK_P103",
+      "location_node": "AISLE_2",
+      "section": "Partner"
+    },
+    {
+      "product_id": "WMK_P104",
+      "location_node": "DAIRY_PRODUCE_AREA",
+      "section": "Create"
+    },
+    {
+      "product_id": "WMK_P105",
+      "location_node": "AISLE_4",
+      "section": "Difference"
+    },
+    {
+      "product_id": "WMK_P106",
+      "location_node": "AISLE_3",
+      "section": "Forward"
+    },
+    {
+      "product_id": "WMK_P107",
+      "location_node": "AISLE_4",
+      "section": "Protect"
+    },
+    {
+      "product_id": "WMK_P108",
+      "location_node": "AISLE_4",
+      "section": "Think"
+    },
+    {
+      "product_id": "WMK_P109",
+      "location_node": "DAIRY_PRODUCE_AREA",
+      "section": "Single"
+    },
+    {
+      "product_id": "WMK_P110",
+      "location_node": "AISLE_5",
+      "section": "His"
+    },
+    {
+      "product_id": "WMK_P111",
+      "location_node": "AISLE_1",
+      "section": "Base"
+    },
+    {
+      "product_id": "WMK_P112",
+      "location_node": "AISLE_3",
+      "section": "Trouble"
+    },
+    {
+      "product_id": "WMK_P113",
+      "location_node": "AISLE_2",
+      "section": "Lawyer"
+    },
+    {
+      "product_id": "WMK_P114",
+      "location_node": "AISLE_2",
+      "section": "Beautiful"
+    },
+    {
+      "product_id": "WMK_P115",
+      "location_node": "AISLE_2",
+      "section": "Could"
+    },
+    {
+      "product_id": "WMK_P116",
+      "location_node": "AISLE_4",
+      "section": "Why"
+    },
+    {
+      "product_id": "WMK_P117",
+      "location_node": "DAIRY_PRODUCE_AREA",
+      "section": "Truth"
+    },
+    {
+      "product_id": "WMK_P118",
+      "location_node": "AISLE_2",
+      "section": "Future"
+    },
+    {
+      "product_id": "WMK_P119",
+      "location_node": "AISLE_1",
+      "section": "Free"
+    },
+    {
+      "product_id": "WMK_P120",
+      "location_node": "AISLE_4",
+      "section": "Husband"
+    },
+    {
+      "product_id": "WMK_P121",
+      "location_node": "AISLE_1",
+      "section": "Resource"
+    },
+    {
+      "product_id": "WMK_P122",
+      "location_node": "AISLE_5",
+      "section": "Thank"
+    },
+    {
+      "product_id": "WMK_P123",
+      "location_node": "AISLE_2",
+      "section": "Her"
+    },
+    {
+      "product_id": "WMK_P124",
+      "location_node": "AISLE_1",
+      "section": "Sport"
+    },
+    {
+      "product_id": "WMK_P125",
+      "location_node": "AISLE_3",
+      "section": "Sense"
+    },
+    {
+      "product_id": "WMK_P126",
+      "location_node": "AISLE_2",
+      "section": "Air"
+    },
+    {
+      "product_id": "WMK_P127",
+      "location_node": "DAIRY_PRODUCE_AREA",
+      "section": "Deal"
+    },
+    {
+      "product_id": "WMK_P128",
+      "location_node": "AISLE_3",
+      "section": "Book"
+    },
+    {
+      "product_id": "WMK_P129",
+      "location_node": "AISLE_5",
+      "section": "Federal"
+    },
+    {
+      "product_id": "WMK_P130",
+      "location_node": "AISLE_5",
+      "section": "They"
+    },
+    {
+      "product_id": "WMK_P131",
+      "location_node": "DAIRY_PRODUCE_AREA",
+      "section": "Throughout"
+    },
+    {
+      "product_id": "WMK_P132",
+      "location_node": "AISLE_2",
+      "section": "News"
+    },
+    {
+      "product_id": "WMK_P133",
+      "location_node": "AISLE_4",
+      "section": "Perhaps"
+    },
+    {
+      "product_id": "WMK_P134",
+      "location_node": "AISLE_1",
+      "section": "Point"
+    },
+    {
+      "product_id": "WMK_P135",
+      "location_node": "DAIRY_PRODUCE_AREA",
+      "section": "Forward"
+    },
+    {
+      "product_id": "WMK_P136",
+      "location_node": "AISLE_3",
+      "section": "Put"
+    },
+    {
+      "product_id": "WMK_P137",
+      "location_node": "AISLE_4",
+      "section": "Why"
+    },
+    {
+      "product_id": "WMK_P138",
+      "location_node": "AISLE_3",
+      "section": "Tv"
+    },
+    {
+      "product_id": "WMK_P139",
+      "location_node": "AISLE_1",
+      "section": "Responsibility"
+    },
+    {
+      "product_id": "WMK_P140",
+      "location_node": "AISLE_2",
+      "section": "Story"
+    },
+    {
+      "product_id": "WMK_P141",
+      "location_node": "DAIRY_PRODUCE_AREA",
+      "section": "First"
+    },
+    {
+      "product_id": "WMK_P142",
+      "location_node": "AISLE_1",
+      "section": "Available"
+    },
+    {
+      "product_id": "WMK_P143",
+      "location_node": "AISLE_5",
+      "section": "From"
+    },
+    {
+      "product_id": "WMK_P144",
+      "location_node": "AISLE_2",
+      "section": "Participant"
+    },
+    {
+      "product_id": "WMK_P145",
+      "location_node": "AISLE_1",
+      "section": "Argue"
+    },
+    {
+      "product_id": "WMK_P146",
+      "location_node": "DAIRY_PRODUCE_AREA",
+      "section": "Down"
+    },
+    {
+      "product_id": "WMK_P147",
+      "location_node": "DAIRY_PRODUCE_AREA",
+      "section": "Although"
+    },
+    {
+      "product_id": "WMK_P148",
+      "location_node": "AISLE_4",
+      "section": "Blood"
+    },
+    {
+      "product_id": "WMK_P149",
+      "location_node": "AISLE_2",
+      "section": "Financial"
+    },
+    {
+      "product_id": "WMK_P150",
+      "location_node": "AISLE_2",
+      "section": "Contain"
+    },
+    {
+      "product_id": "WMK_P151",
+      "location_node": "AISLE_1",
+      "section": "Event"
+    },
+    {
+      "product_id": "WMK_P152",
+      "location_node": "DAIRY_PRODUCE_AREA",
+      "section": "Including"
+    },
+    {
+      "product_id": "WMK_P153",
+      "location_node": "AISLE_1",
+      "section": "Ever"
+    },
+    {
+      "product_id": "WMK_P154",
+      "location_node": "DAIRY_PRODUCE_AREA",
+      "section": "Increase"
+    },
+    {
+      "product_id": "WMK_P155",
+      "location_node": "AISLE_3",
+      "section": "Remain"
+    },
+    {
+      "product_id": "WMK_P156",
+      "location_node": "AISLE_1",
+      "section": "Image"
+    },
+    {
+      "product_id": "WMK_P157",
+      "location_node": "DAIRY_PRODUCE_AREA",
+      "section": "Side"
+    },
+    {
+      "product_id": "WMK_P158",
+      "location_node": "DAIRY_PRODUCE_AREA",
+      "section": "Run"
+    },
+    {
+      "product_id": "WMK_P159",
+      "location_node": "AISLE_2",
+      "section": "Story"
+    },
+    {
+      "product_id": "WMK_P160",
+      "location_node": "AISLE_5",
+      "section": "Face"
+    },
+    {
+      "product_id": "WMK_P161",
+      "location_node": "AISLE_1",
+      "section": "Movement"
+    },
+    {
+      "product_id": "WMK_P162",
+      "location_node": "AISLE_5",
+      "section": "Upon"
+    },
+    {
+      "product_id": "WMK_P163",
+      "location_node": "AISLE_5",
+      "section": "Example"
+    },
+    {
+      "product_id": "WMK_P164",
+      "location_node": "AISLE_4",
+      "section": "Identify"
+    },
+    {
+      "product_id": "WMK_P165",
+      "location_node": "AISLE_2",
+      "section": "Form"
+    },
+    {
+      "product_id": "WMK_P166",
+      "location_node": "AISLE_3",
+      "section": "Home"
+    },
+    {
+      "product_id": "WMK_P167",
+      "location_node": "AISLE_2",
+      "section": "Allow"
+    },
+    {
+      "product_id": "WMK_P168",
+      "location_node": "AISLE_1",
+      "section": "Safe"
+    },
+    {
+      "product_id": "WMK_P169",
+      "location_node": "AISLE_1",
+      "section": "Push"
+    },
+    {
+      "product_id": "WMK_P170",
+      "location_node": "AISLE_4",
+      "section": "Security"
+    },
+    {
+      "product_id": "WMK_P171",
+      "location_node": "AISLE_3",
+      "section": "Probably"
+    },
+    {
+      "product_id": "WMK_P172",
+      "location_node": "AISLE_3",
+      "section": "Order"
+    },
+    {
+      "product_id": "WMK_P173",
+      "location_node": "AISLE_3",
+      "section": "Effort"
+    },
+    {
+      "product_id": "WMK_P174",
+      "location_node": "AISLE_2",
+      "section": "Whom"
+    },
+    {
+      "product_id": "WMK_P175",
+      "location_node": "AISLE_4",
+      "section": "Deal"
+    },
+    {
+      "product_id": "WMK_P176",
+      "location_node": "AISLE_5",
+      "section": "Them"
+    },
+    {
+      "product_id": "WMK_P177",
+      "location_node": "AISLE_1",
+      "section": "Magazine"
+    },
+    {
+      "product_id": "WMK_P178",
+      "location_node": "AISLE_3",
+      "section": "Effort"
+    },
+    {
+      "product_id": "WMK_P179",
+      "location_node": "AISLE_3",
+      "section": "Court"
+    },
+    {
+      "product_id": "WMK_P180",
+      "location_node": "DAIRY_PRODUCE_AREA",
+      "section": "Identify"
+    },
+    {
+      "product_id": "WMK_P181",
+      "location_node": "AISLE_2",
+      "section": "Service"
+    },
+    {
+      "product_id": "WMK_P182",
+      "location_node": "AISLE_2",
+      "section": "Every"
+    },
+    {
+      "product_id": "WMK_P183",
+      "location_node": "AISLE_5",
+      "section": "Gun"
+    },
+    {
+      "product_id": "WMK_P184",
+      "location_node": "AISLE_2",
+      "section": "Better"
+    },
+    {
+      "product_id": "WMK_P185",
+      "location_node": "AISLE_1",
+      "section": "From"
+    },
+    {
+      "product_id": "WMK_P186",
+      "location_node": "AISLE_5",
+      "section": "Already"
+    },
+    {
+      "product_id": "WMK_P187",
+      "location_node": "AISLE_3",
+      "section": "Simply"
+    },
+    {
+      "product_id": "WMK_P188",
+      "location_node": "AISLE_3",
+      "section": "Send"
+    },
+    {
+      "product_id": "WMK_P189",
+      "location_node": "DAIRY_PRODUCE_AREA",
+      "section": "Writer"
+    },
+    {
+      "product_id": "WMK_P190",
+      "location_node": "AISLE_1",
+      "section": "Play"
+    },
+    {
+      "product_id": "WMK_P191",
+      "location_node": "AISLE_5",
+      "section": "Travel"
+    },
+    {
+      "product_id": "WMK_P192",
+      "location_node": "AISLE_4",
+      "section": "Appear"
+    },
+    {
+      "product_id": "WMK_P193",
+      "location_node": "AISLE_3",
+      "section": "Take"
+    },
+    {
+      "product_id": "WMK_P194",
+      "location_node": "AISLE_2",
+      "section": "Value"
+    },
+    {
+      "product_id": "WMK_P195",
+      "location_node": "AISLE_4",
+      "section": "Late"
+    },
+    {
+      "product_id": "WMK_P196",
+      "location_node": "AISLE_2",
+      "section": "Human"
+    },
+    {
+      "product_id": "WMK_P197",
+      "location_node": "AISLE_5",
+      "section": "Past"
+    },
+    {
+      "product_id": "WMK_P198",
+      "location_node": "AISLE_3",
+      "section": "Impact"
+    },
+    {
+      "product_id": "WMK_P199",
+      "location_node": "AISLE_2",
+      "section": "Car"
+    },
+    {
+      "product_id": "WMK_P200",
+      "location_node": "AISLE_2",
+      "section": "Trip"
+    }
+  ]
+}

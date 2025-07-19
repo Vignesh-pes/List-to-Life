@@ -1,0 +1,3402 @@
+[
+  {
+    "original_product_id": "WMK_P001",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P102",
+        "substitution_score": 0.71,
+        "reason": "Different type/size from the same brand: GlowSkin.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P123",
+        "substitution_score": 0.73,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P002",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P043",
+        "substitution_score": 0.89,
+        "reason": "Different type/size from the same brand: CleanRight.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P075",
+        "substitution_score": 0.76,
+        "reason": "Different type/size from the same brand: CleanRight.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P003",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P062",
+        "substitution_score": 0.69,
+        "reason": "Different type/size from the same brand: FreshHome.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P007",
+        "substitution_score": 0.79,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P004",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P156",
+        "substitution_score": 0.94,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P059",
+        "substitution_score": 0.93,
+        "reason": "Different type/size from the same brand: ShinePro.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P005",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P054",
+        "substitution_score": 0.79,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P160",
+        "substitution_score": 0.89,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P006",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P186",
+        "substitution_score": 0.66,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P054",
+        "substitution_score": 0.74,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P007",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P177",
+        "substitution_score": 0.79,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P002",
+        "substitution_score": 0.67,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P008",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P145",
+        "substitution_score": 0.69,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P075",
+        "substitution_score": 0.94,
+        "reason": "Different type/size from the same brand: CleanRight.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P009",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P097",
+        "substitution_score": 0.81,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P004",
+        "substitution_score": 0.73,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P010",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P172",
+        "substitution_score": 0.88,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P155",
+        "substitution_score": 0.7,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P011",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P187",
+        "substitution_score": 0.76,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P128",
+        "substitution_score": 0.63,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P012",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P050",
+        "substitution_score": 0.74,
+        "reason": "Different type/size from the same brand: NutriSnack.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P108",
+        "substitution_score": 0.86,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P013",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P071",
+        "substitution_score": 0.84,
+        "reason": "Different type/size from the same brand: GlowSkin.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P199",
+        "substitution_score": 0.72,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P014",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P005",
+        "substitution_score": 0.7,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P078",
+        "substitution_score": 0.75,
+        "reason": "Different type/size from the same brand: TechLife.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P015",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P051",
+        "substitution_score": 0.94,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P163",
+        "substitution_score": 0.83,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P016",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P034",
+        "substitution_score": 0.73,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P093",
+        "substitution_score": 0.74,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P017",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P154",
+        "substitution_score": 0.81,
+        "reason": "Non-organic alternative.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P141",
+        "substitution_score": 0.68,
+        "reason": "Non-organic alternative.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P018",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P172",
+        "substitution_score": 0.77,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P136",
+        "substitution_score": 0.61,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P019",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P084",
+        "substitution_score": 0.68,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P054",
+        "substitution_score": 0.67,
+        "reason": "Different type/size from the same brand: HomeComfort.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P020",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P034",
+        "substitution_score": 0.71,
+        "reason": "Different type/size from the same brand: Nature'sBest.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P131",
+        "substitution_score": 0.53,
+        "reason": "Non-organic alternative.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P021",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P071",
+        "substitution_score": 0.9,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P103",
+        "substitution_score": 0.76,
+        "reason": "Different type/size from the same brand: HealthyHair.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P022",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P045",
+        "substitution_score": 0.73,
+        "reason": "Different type/size from the same brand: SmartLiving.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P073",
+        "substitution_score": 0.84,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P023",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P104",
+        "substitution_score": 0.91,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P135",
+        "substitution_score": 0.74,
+        "reason": "Different type/size from the same brand: FarmFresh.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P024",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P188",
+        "substitution_score": 0.66,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P035",
+        "substitution_score": 0.85,
+        "reason": "Different type/size from the same brand: MorningBrew.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P025",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P053",
+        "substitution_score": 0.89,
+        "reason": "Different type/size from the same brand: GlowSkin.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P196",
+        "substitution_score": 0.66,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P026",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P027",
+        "substitution_score": 0.81,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P091",
+        "substitution_score": 0.82,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P027",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P070",
+        "substitution_score": 0.72,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P109",
+        "substitution_score": 0.7,
+        "reason": "Different type/size from the same brand: DailyHarvest.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P028",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P118",
+        "substitution_score": 0.7,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P196",
+        "substitution_score": 0.78,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P029",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P167",
+        "substitution_score": 0.69,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P123",
+        "substitution_score": 0.8,
+        "reason": "Different type/size from the same brand: HealthyHair.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P030",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P182",
+        "substitution_score": 0.81,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P081",
+        "substitution_score": 0.88,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P031",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P141",
+        "substitution_score": 0.56,
+        "reason": "Non-organic alternative.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P158",
+        "substitution_score": 0.68,
+        "reason": "Different type/size from the same brand: Nature'sBest.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P032",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P075",
+        "substitution_score": 0.75,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P151",
+        "substitution_score": 0.65,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P033",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P010",
+        "substitution_score": 0.81,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P138",
+        "substitution_score": 0.71,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P034",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P117",
+        "substitution_score": 0.82,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P058",
+        "substitution_score": 0.87,
+        "reason": "Different type/size from the same brand: Nature'sBest.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P035",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P061",
+        "substitution_score": 0.7,
+        "reason": "Different type/size from the same brand: MorningBrew.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P106",
+        "substitution_score": 0.65,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P036",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P067",
+        "substitution_score": 0.94,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P098",
+        "substitution_score": 0.68,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P037",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P177",
+        "substitution_score": 0.86,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P145",
+        "substitution_score": 0.94,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P038",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P036",
+        "substitution_score": 0.61,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P003",
+        "substitution_score": 0.7,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P039",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P101",
+        "substitution_score": 0.72,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P088",
+        "substitution_score": 0.79,
+        "reason": "Different type/size from the same brand: FreshBreath.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P040",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P101",
+        "substitution_score": 0.79,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P053",
+        "substitution_score": 0.95,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P041",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P167",
+        "substitution_score": 0.95,
+        "reason": "Different type/size from the same brand: FreshBreath.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P103",
+        "substitution_score": 0.81,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P042",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P173",
+        "substitution_score": 0.75,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P179",
+        "substitution_score": 0.74,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P043",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P032",
+        "substitution_score": 0.81,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P082",
+        "substitution_score": 0.9,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P044",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P155",
+        "substitution_score": 0.86,
+        "reason": "Different type/size from the same brand: FizzPop.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P125",
+        "substitution_score": 0.65,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P045",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P183",
+        "substitution_score": 0.87,
+        "reason": "Different type/size from the same brand: SmartLiving.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P064",
+        "substitution_score": 0.9,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P046",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P003",
+        "substitution_score": 0.81,
+        "reason": "Different type/size from the same brand: FreshHome.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P037",
+        "substitution_score": 0.8,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P047",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P118",
+        "substitution_score": 0.95,
+        "reason": "Different type/size from the same brand: FreshBreath.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P132",
+        "substitution_score": 0.6,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P048",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P138",
+        "substitution_score": 0.77,
+        "reason": "Different type/size from the same brand: FizzPop.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P188",
+        "substitution_score": 0.92,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P049",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P010",
+        "substitution_score": 0.73,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P042",
+        "substitution_score": 0.91,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P050",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P120",
+        "substitution_score": 0.96,
+        "reason": "Different type/size from the same brand: NutriSnack.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P063",
+        "substitution_score": 0.89,
+        "reason": "Different type/size from the same brand: NutriSnack.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P051",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P015",
+        "substitution_score": 0.92,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P122",
+        "substitution_score": 0.65,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P052",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P001",
+        "substitution_score": 0.84,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P132",
+        "substitution_score": 0.86,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P053",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P013",
+        "substitution_score": 0.78,
+        "reason": "Different type/size from the same brand: GlowSkin.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P029",
+        "substitution_score": 0.82,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P054",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P186",
+        "substitution_score": 0.72,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P051",
+        "substitution_score": 0.87,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P055",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P175",
+        "substitution_score": 0.68,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P133",
+        "substitution_score": 0.92,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P056",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P045",
+        "substitution_score": 0.77,
+        "reason": "Different type/size from the same brand: SmartLiving.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P183",
+        "substitution_score": 0.88,
+        "reason": "Different type/size from the same brand: SmartLiving.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P057",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P152",
+        "substitution_score": 0.9,
+        "reason": "Different type/size from the same brand: Nature'sBest.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P031",
+        "substitution_score": 0.96,
+        "reason": "Different type/size from the same brand: Nature'sBest.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P058",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P020",
+        "substitution_score": 0.96,
+        "reason": "Different type/size from the same brand: Nature'sBest.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P117",
+        "substitution_score": 0.91,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P059",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P142",
+        "substitution_score": 0.93,
+        "reason": "Different type/size from the same brand: ShinePro.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P097",
+        "substitution_score": 0.93,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P060",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P138",
+        "substitution_score": 0.79,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P044",
+        "substitution_score": 0.69,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P061",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P193",
+        "substitution_score": 0.74,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P125",
+        "substitution_score": 0.79,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P062",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P151",
+        "substitution_score": 0.88,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P156",
+        "substitution_score": 0.71,
+        "reason": "Different type/size from the same brand: FreshHome.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P063",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P164",
+        "substitution_score": 0.79,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P108",
+        "substitution_score": 0.65,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P064",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P019",
+        "substitution_score": 0.78,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P143",
+        "substitution_score": 0.79,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P065",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P142",
+        "substitution_score": 0.62,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P037",
+        "substitution_score": 0.67,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P066",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P101",
+        "substitution_score": 0.82,
+        "reason": "Different type/size from the same brand: HealthyHair.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P039",
+        "substitution_score": 0.66,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P067",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P004",
+        "substitution_score": 0.71,
+        "reason": "Different type/size from the same brand: ShinePro.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P161",
+        "substitution_score": 0.7,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P068",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P160",
+        "substitution_score": 0.87,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P073",
+        "substitution_score": 0.83,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P069",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P087",
+        "substitution_score": 0.92,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P055",
+        "substitution_score": 0.73,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P070",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P089",
+        "substitution_score": 0.71,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P157",
+        "substitution_score": 0.94,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P071",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P039",
+        "substitution_score": 0.66,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P118",
+        "substitution_score": 0.93,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P072",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P013",
+        "substitution_score": 0.88,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P052",
+        "substitution_score": 0.77,
+        "reason": "Different type/size from the same brand: HealthyHair.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P073",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P129",
+        "substitution_score": 0.96,
+        "reason": "Different type/size from the same brand: HomeComfort.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P183",
+        "substitution_score": 0.63,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P074",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P006",
+        "substitution_score": 0.78,
+        "reason": "Different type/size from the same brand: TechLife.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P073",
+        "substitution_score": 0.71,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P075",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P059",
+        "substitution_score": 0.63,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P002",
+        "substitution_score": 0.99,
+        "reason": "Different type/size from the same brand: CleanRight.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P076",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P189",
+        "substitution_score": 0.9,
+        "reason": "Different type/size from the same brand: FarmFresh.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P080",
+        "substitution_score": 0.7,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P077",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P013",
+        "substitution_score": 0.99,
+        "reason": "Different type/size from the same brand: GlowSkin.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P199",
+        "substitution_score": 0.83,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P078",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P191",
+        "substitution_score": 0.65,
+        "reason": "Different type/size from the same brand: TechLife.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P163",
+        "substitution_score": 0.93,
+        "reason": "Different type/size from the same brand: TechLife.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P079",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P014",
+        "substitution_score": 0.69,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P078",
+        "substitution_score": 0.83,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P080",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P189",
+        "substitution_score": 0.91,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P141",
+        "substitution_score": 0.8,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P081",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P181",
+        "substitution_score": 0.66,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P114",
+        "substitution_score": 0.6,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P082",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P007",
+        "substitution_score": 0.93,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P153",
+        "substitution_score": 0.87,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P083",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P087",
+        "substitution_score": 0.88,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P137",
+        "substitution_score": 0.95,
+        "reason": "Different type/size from the same brand: NutriSnack.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P084",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P163",
+        "substitution_score": 0.92,
+        "reason": "Different type/size from the same brand: TechLife.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P079",
+        "substitution_score": 0.62,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P085",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P133",
+        "substitution_score": 0.91,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P107",
+        "substitution_score": 0.94,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P086",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P083",
+        "substitution_score": 0.98,
+        "reason": "Different type/size from the same brand: NutriSnack.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P085",
+        "substitution_score": 0.84,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P087",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P175",
+        "substitution_score": 0.63,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P086",
+        "substitution_score": 0.63,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P088",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P066",
+        "substitution_score": 0.88,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P165",
+        "substitution_score": 0.9,
+        "reason": "Different type/size from the same brand: FreshBreath.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P089",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P146",
+        "substitution_score": 0.62,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P020",
+        "substitution_score": 0.8,
+        "reason": "Different type/size from the same brand: Nature'sBest.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P090",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P078",
+        "substitution_score": 0.78,
+        "reason": "Different type/size from the same brand: TechLife.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P084",
+        "substitution_score": 0.72,
+        "reason": "Different type/size from the same brand: TechLife.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P091",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P017",
+        "substitution_score": 0.71,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P020",
+        "substitution_score": 0.84,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P092",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P159",
+        "substitution_score": 0.92,
+        "reason": "Different type/size from the same brand: FreshBreath.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P071",
+        "substitution_score": 0.6,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P093",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P117",
+        "substitution_score": 0.71,
+        "reason": "Non-organic alternative.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P089",
+        "substitution_score": 0.81,
+        "reason": "Different type/size from the same brand: Nature'sBest.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P094",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P186",
+        "substitution_score": 0.81,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P176",
+        "substitution_score": 0.95,
+        "reason": "Different type/size from the same brand: SmartLiving.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P095",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P101",
+        "substitution_score": 0.63,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P029",
+        "substitution_score": 0.91,
+        "reason": "Different type/size from the same brand: HealthyHair.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P096",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P120",
+        "substitution_score": 0.64,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P012",
+        "substitution_score": 0.64,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P097",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P003",
+        "substitution_score": 0.94,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P065",
+        "substitution_score": 0.85,
+        "reason": "Different type/size from the same brand: CleanRight.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P098",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P151",
+        "substitution_score": 0.71,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P153",
+        "substitution_score": 0.63,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P099",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P001",
+        "substitution_score": 0.99,
+        "reason": "Different type/size from the same brand: GlowSkin.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P030",
+        "substitution_score": 0.62,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P100",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P063",
+        "substitution_score": 0.7,
+        "reason": "Different type/size from the same brand: NutriSnack.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P105",
+        "substitution_score": 0.75,
+        "reason": "Different type/size from the same brand: NutriSnack.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P101",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P144",
+        "substitution_score": 0.71,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P039",
+        "substitution_score": 0.68,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P102",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P030",
+        "substitution_score": 0.6,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P101",
+        "substitution_score": 0.72,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P103",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P047",
+        "substitution_score": 0.83,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P066",
+        "substitution_score": 0.94,
+        "reason": "Different type/size from the same brand: HealthyHair.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P104",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P109",
+        "substitution_score": 0.77,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P026",
+        "substitution_score": 0.65,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P105",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P063",
+        "substitution_score": 0.75,
+        "reason": "Different type/size from the same brand: NutriSnack.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P192",
+        "substitution_score": 0.76,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P106",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P187",
+        "substitution_score": 0.61,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P188",
+        "substitution_score": 0.92,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P107",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P085",
+        "substitution_score": 0.71,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P192",
+        "substitution_score": 0.81,
+        "reason": "Different type/size from the same brand: CrunchyBites.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P108",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P164",
+        "substitution_score": 0.71,
+        "reason": "Different type/size from the same brand: SweetDelight.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P105",
+        "substitution_score": 0.88,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P109",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P026",
+        "substitution_score": 0.72,
+        "reason": "Non-organic alternative.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P027",
+        "substitution_score": 0.91,
+        "reason": "Different type/size from the same brand: DailyHarvest.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P110",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P143",
+        "substitution_score": 0.88,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P019",
+        "substitution_score": 0.68,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P111",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P161",
+        "substitution_score": 0.71,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P082",
+        "substitution_score": 0.64,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P112",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P166",
+        "substitution_score": 0.66,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P171",
+        "substitution_score": 0.86,
+        "reason": "Different type/size from the same brand: FizzPop.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P113",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P092",
+        "substitution_score": 0.63,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P072",
+        "substitution_score": 0.9,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P114",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P103",
+        "substitution_score": 0.78,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P021",
+        "substitution_score": 0.61,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P115",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P144",
+        "substitution_score": 0.76,
+        "reason": "Different type/size from the same brand: GlowSkin.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P001",
+        "substitution_score": 0.7,
+        "reason": "Different type/size from the same brand: GlowSkin.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P116",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P012",
+        "substitution_score": 0.65,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P085",
+        "substitution_score": 0.79,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P117",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P093",
+        "substitution_score": 0.62,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P076",
+        "substitution_score": 0.9,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P118",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P052",
+        "substitution_score": 0.85,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P077",
+        "substitution_score": 0.62,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P119",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P075",
+        "substitution_score": 0.74,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P032",
+        "substitution_score": 0.74,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P120",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P086",
+        "substitution_score": 0.86,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P012",
+        "substitution_score": 0.86,
+        "reason": "Different type/size from the same brand: NutriSnack.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P121",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P097",
+        "substitution_score": 0.91,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P111",
+        "substitution_score": 0.72,
+        "reason": "Different type/size from the same brand: ShinePro.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P122",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P014",
+        "substitution_score": 0.87,
+        "reason": "Different type/size from the same brand: TechLife.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P183",
+        "substitution_score": 0.93,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P123",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P200",
+        "substitution_score": 0.75,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P101",
+        "substitution_score": 0.66,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P124",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P065",
+        "substitution_score": 0.77,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P082",
+        "substitution_score": 0.92,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P125",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P010",
+        "substitution_score": 0.8,
+        "reason": "Different type/size from the same brand: AquaPure.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P061",
+        "substitution_score": 0.7,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P126",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P149",
+        "substitution_score": 0.64,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P182",
+        "substitution_score": 0.69,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P127",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P180",
+        "substitution_score": 0.55,
+        "reason": "Non-organic alternative.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P016",
+        "substitution_score": 0.76,
+        "reason": "Different type/size from the same brand: FarmFresh.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P128",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P060",
+        "substitution_score": 0.67,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P042",
+        "substitution_score": 0.76,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P129",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P176",
+        "substitution_score": 0.94,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P163",
+        "substitution_score": 0.72,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P130",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P014",
+        "substitution_score": 0.8,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P094",
+        "substitution_score": 0.99,
+        "reason": "Different type/size from the same brand: SmartLiving.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P131",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P023",
+        "substitution_score": 0.97,
+        "reason": "Different type/size from the same brand: FarmFresh.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P117",
+        "substitution_score": 0.8,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P132",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P101",
+        "substitution_score": 0.75,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P013",
+        "substitution_score": 0.67,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P133",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P175",
+        "substitution_score": 0.81,
+        "reason": "Different type/size from the same brand: NutriSnack.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P108",
+        "substitution_score": 0.84,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P134",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P169",
+        "substitution_score": 0.82,
+        "reason": "Different type/size from the same brand: ShinePro.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P119",
+        "substitution_score": 0.65,
+        "reason": "Different type/size from the same brand: ShinePro.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P135",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P141",
+        "substitution_score": 0.75,
+        "reason": "Non-organic alternative.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P147",
+        "substitution_score": 0.79,
+        "reason": "Different type/size from the same brand: FarmFresh.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P136",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P049",
+        "substitution_score": 0.73,
+        "reason": "Different type/size from the same brand: FizzPop.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P171",
+        "substitution_score": 0.81,
+        "reason": "Different type/size from the same brand: FizzPop.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P137",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P164",
+        "substitution_score": 0.92,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P120",
+        "substitution_score": 0.81,
+        "reason": "Different type/size from the same brand: NutriSnack.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P138",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P049",
+        "substitution_score": 0.79,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P044",
+        "substitution_score": 0.93,
+        "reason": "Different type/size from the same brand: FizzPop.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P139",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P009",
+        "substitution_score": 0.61,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P111",
+        "substitution_score": 0.83,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P140",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P167",
+        "substitution_score": 0.93,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P021",
+        "substitution_score": 0.66,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P141",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P109",
+        "substitution_score": 0.86,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P076",
+        "substitution_score": 0.8,
+        "reason": "Different type/size from the same brand: FarmFresh.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P142",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P177",
+        "substitution_score": 0.88,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P161",
+        "substitution_score": 0.79,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P143",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P045",
+        "substitution_score": 0.86,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P197",
+        "substitution_score": 0.97,
+        "reason": "Different type/size from the same brand: SmartLiving.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P144",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P200",
+        "substitution_score": 0.77,
+        "reason": "Different type/size from the same brand: GlowSkin.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P165",
+        "substitution_score": 0.7,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P145",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P062",
+        "substitution_score": 0.89,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P059",
+        "substitution_score": 0.66,
+        "reason": "Different type/size from the same brand: ShinePro.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P146",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P016",
+        "substitution_score": 0.82,
+        "reason": "Non-organic alternative.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P020",
+        "substitution_score": 0.76,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P147",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P034",
+        "substitution_score": 0.6,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P057",
+        "substitution_score": 0.61,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P148",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P055",
+        "substitution_score": 0.79,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P087",
+        "substitution_score": 0.71,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P149",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P194",
+        "substitution_score": 0.8,
+        "reason": "Different type/size from the same brand: HealthyHair.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P013",
+        "substitution_score": 0.89,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P150",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P123",
+        "substitution_score": 0.87,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P199",
+        "substitution_score": 0.61,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P151",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P177",
+        "substitution_score": 0.82,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P153",
+        "substitution_score": 0.92,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P152",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P023",
+        "substitution_score": 0.88,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P154",
+        "substitution_score": 0.78,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P153",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P007",
+        "substitution_score": 0.76,
+        "reason": "Different type/size from the same brand: CleanRight.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P097",
+        "substitution_score": 0.76,
+        "reason": "Different type/size from the same brand: CleanRight.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P154",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P017",
+        "substitution_score": 0.65,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P058",
+        "substitution_score": 0.79,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P155",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P106",
+        "substitution_score": 0.79,
+        "reason": "Different type/size from the same brand: FizzPop.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P193",
+        "substitution_score": 0.68,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P156",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P097",
+        "substitution_score": 0.7,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P062",
+        "substitution_score": 0.92,
+        "reason": "Different type/size from the same brand: FreshHome.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P157",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P147",
+        "substitution_score": 0.82,
+        "reason": "Non-organic alternative.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P091",
+        "substitution_score": 0.72,
+        "reason": "Different type/size from the same brand: DailyHarvest.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P158",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P127",
+        "substitution_score": 0.67,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P057",
+        "substitution_score": 0.71,
+        "reason": "Different type/size from the same brand: Nature'sBest.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P159",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P167",
+        "substitution_score": 0.81,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P072",
+        "substitution_score": 0.72,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P160",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P051",
+        "substitution_score": 0.9,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P176",
+        "substitution_score": 0.9,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P161",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P153",
+        "substitution_score": 0.67,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P119",
+        "substitution_score": 0.92,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P162",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P056",
+        "substitution_score": 0.74,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P163",
+        "substitution_score": 0.63,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P163",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P051",
+        "substitution_score": 0.89,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P084",
+        "substitution_score": 0.92,
+        "reason": "Different type/size from the same brand: TechLife.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P164",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P050",
+        "substitution_score": 0.82,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P105",
+        "substitution_score": 0.89,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P165",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P081",
+        "substitution_score": 0.68,
+        "reason": "Different type/size from the same brand: FreshBreath.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P095",
+        "substitution_score": 0.67,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P166",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P018",
+        "substitution_score": 0.88,
+        "reason": "Different type/size from the same brand: MorningBrew.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P125",
+        "substitution_score": 0.91,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P167",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P088",
+        "substitution_score": 0.68,
+        "reason": "Different type/size from the same brand: FreshBreath.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P047",
+        "substitution_score": 0.84,
+        "reason": "Different type/size from the same brand: FreshBreath.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P168",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P004",
+        "substitution_score": 0.73,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P145",
+        "substitution_score": 0.64,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P169",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P121",
+        "substitution_score": 0.79,
+        "reason": "Different type/size from the same brand: ShinePro.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P097",
+        "substitution_score": 0.61,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P170",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P137",
+        "substitution_score": 0.62,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P083",
+        "substitution_score": 0.81,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P171",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P172",
+        "substitution_score": 0.63,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P178",
+        "substitution_score": 0.99,
+        "reason": "Different type/size from the same brand: FizzPop.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P172",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P035",
+        "substitution_score": 0.87,
+        "reason": "Different type/size from the same brand: MorningBrew.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P112",
+        "substitution_score": 0.88,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P173",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P187",
+        "substitution_score": 0.84,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P024",
+        "substitution_score": 0.75,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P174",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P165",
+        "substitution_score": 0.84,
+        "reason": "Different type/size from the same brand: FreshBreath.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P052",
+        "substitution_score": 0.62,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P175",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P137",
+        "substitution_score": 0.75,
+        "reason": "Different type/size from the same brand: NutriSnack.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P063",
+        "substitution_score": 0.8,
+        "reason": "Different type/size from the same brand: NutriSnack.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P176",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P073",
+        "substitution_score": 0.78,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P160",
+        "substitution_score": 0.63,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P177",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P151",
+        "substitution_score": 0.72,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P046",
+        "substitution_score": 0.8,
+        "reason": "Different type/size from the same brand: FreshHome.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P178",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P179",
+        "substitution_score": 0.92,
+        "reason": "Different type/size from the same brand: FizzPop.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P166",
+        "substitution_score": 0.74,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P179",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P035",
+        "substitution_score": 0.68,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P044",
+        "substitution_score": 0.91,
+        "reason": "Different type/size from the same brand: FizzPop.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P180",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P017",
+        "substitution_score": 0.71,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P154",
+        "substitution_score": 0.9,
+        "reason": "Different type/size from the same brand: FarmFresh.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P181",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P021",
+        "substitution_score": 0.85,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P066",
+        "substitution_score": 0.66,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P182",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P113",
+        "substitution_score": 0.61,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P199",
+        "substitution_score": 0.77,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P183",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P084",
+        "substitution_score": 0.9,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P163",
+        "substitution_score": 0.63,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P184",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P200",
+        "substitution_score": 0.9,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P029",
+        "substitution_score": 0.88,
+        "reason": "Different type/size from the same brand: HealthyHair.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P185",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P075",
+        "substitution_score": 0.65,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P111",
+        "substitution_score": 0.88,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P186",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P122",
+        "substitution_score": 0.98,
+        "reason": "Different type/size from the same brand: TechLife.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P051",
+        "substitution_score": 0.91,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P187",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P048",
+        "substitution_score": 0.91,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P173",
+        "substitution_score": 0.79,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P188",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P106",
+        "substitution_score": 0.71,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P049",
+        "substitution_score": 0.69,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P189",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P026",
+        "substitution_score": 0.66,
+        "reason": "Different type/size from the same brand: FarmFresh.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P076",
+        "substitution_score": 0.65,
+        "reason": "Different type/size from the same brand: FarmFresh.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P190",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P161",
+        "substitution_score": 0.62,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P169",
+        "substitution_score": 0.92,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P191",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P129",
+        "substitution_score": 0.83,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P163",
+        "substitution_score": 0.68,
+        "reason": "Different type/size from the same brand: TechLife.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P192",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P137",
+        "substitution_score": 0.94,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P105",
+        "substitution_score": 0.77,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P193",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P060",
+        "substitution_score": 0.74,
+        "reason": "Different type/size from the same brand: MorningBrew.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P178",
+        "substitution_score": 0.61,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P194",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P095",
+        "substitution_score": 0.72,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P115",
+        "substitution_score": 0.77,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P195",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P148",
+        "substitution_score": 0.88,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P120",
+        "substitution_score": 0.88,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P196",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P072",
+        "substitution_score": 0.89,
+        "reason": "Different type/size from the same brand: HealthyHair.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P030",
+        "substitution_score": 0.71,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P197",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P051",
+        "substitution_score": 0.97,
+        "reason": "Different type/size from the same brand: SmartLiving.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P006",
+        "substitution_score": 0.71,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P198",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P166",
+        "substitution_score": 0.83,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P188",
+        "substitution_score": 0.61,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P199",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P025",
+        "substitution_score": 0.76,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P165",
+        "substitution_score": 0.91,
+        "reason": "Different type/size from the same brand: FreshBreath.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  },
+  {
+    "original_product_id": "WMK_P200",
+    "substitutes": [
+      {
+        "substitute_product_id": "WMK_P101",
+        "substitution_score": 0.92,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      },
+      {
+        "substitute_product_id": "WMK_P029",
+        "substitution_score": 0.92,
+        "reason": "Similar product in same category.",
+        "type": "programmatic_alternative"
+      }
+    ]
+  }
+]
