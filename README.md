@@ -102,7 +102,7 @@ Follow these steps to get the Flask backend running:
 
 Clone the Repository:
 
-git clone <YOUR_GIT_REPOSITORY_URL>
+git clone https://github.com/Vignesh-pes/List-to-Life.git
 cd <YOUR_PROJECT_FOLDER_NAME> # e.g., cd list-to-life-retail-ai-main
 cd backend                   # Navigate into the backend directory
 
@@ -127,6 +127,8 @@ In the backend directory, create a file named .env.
 Add your Gemini API key to this file:
 
 GOOGLE_API_KEY="YOUR_ACTUAL_GEMINI_API_KEY_HERE"
+
+(Replace YOUR_ACTUAL_GEMINI_API_KEY_HERE with the key you obtained).
 
 🏃 How to Run the Project
 Generate Data Files:
@@ -173,56 +175,3 @@ Open your web browser (preferably Chrome for voice features) and go to:
 
 http://127.0.0.1:5000/
 
-🎬 Demo & Usage
-Interact with the chatbot to showcase its features.
-
-Initial Page Load:
-
-Observe the default shopping list displaying with correct product names, prices, stock statuses, and any substitutes/deals applied. The "Estimated Total" and "Total Discount" should be visible. The "Optimized In-Store Path" should also show a generated path.
-
-AI-Powered List Generation & Proactive Stock Check:
-
-Prompt: Create a shopping list for a vegetarian BBQ
-
-Observe: The AI generates a list. If any items are out of stock (verify in inventory.json), the AI will proactively mention it in the chat and suggest a substitute. The list on the page updates with stock/substitute info.
-
-List Modification & Deal Optimization:
-
-Prompt: Add 2 [Product Name from your products.json that qualifies for a deal, e.g., "ShinePro Laundry Detergent (100 Loads)"] to my list
-
-Observe: The item is added. The "Total Discount" and "Final Total" update automatically, reflecting any applied deals.
-
-Prompt: Remove [Product Name from your current list]
-
-Observe: The item is removed, and totals update.
-
-Optimized In-Store Navigation:
-
-Prompt: What's the best route in the store for my list?
-
-Observe: The AI responds conversationally, and the "Optimized In-Store Path" section updates with a detailed route.
-
-Personalized Recommendations:
-
-Prompt: What do other customers usually buy with these items?
-
-Observe: The AI suggests items based on "Frequently Bought Together" rules from customer_purchases.json.
-
-Voice Interaction:
-
-Click the microphone icon and speak your prompts.
-
-Observe: Your speech is transcribed, and the AI responds both in text and audibly.
-
-🔮 Future Enhancements
-Database Integration: Migrate local JSON data to a robust cloud database (e.g., Supabase, PostgreSQL) for persistence, scalability, and multi-user support.
-
-Advanced Personalization: Implement more sophisticated machine learning models for personalized recommendations (e.g., collaborative filtering, content-based filtering) based on individual user profiles and purchase history.
-
-Real-time Route Updates: Dynamically update the in-store path if items are picked up, or if the user deviates from the route (requires location tracking simulation).
-
-Frontend Integration: Fully integrate this Flask backend with a sophisticated React/TypeScript frontend for a truly seamless user experience.
-
-User Authentication: Implement user login/signup to personalize experiences across sessions.
-
-Consumables Tracking: Proactively remind users when they might be running low on frequently purchased consumable items.
